@@ -1,0 +1,1018 @@
+﻿Nom,Slug,Contenu,Résumé,Date de publication,Image de vignette,Image de vignette - Alt text,Auteur,Meta Title (SEO),Meta Description (SEO),Temps de lecture
+Comment créer et relever ses compteurs dans sa GMAO ?,compteur-machine-suivi-gmao,"<p>La gestion des compteurs dans votre GMAO fait partie des activités essentielles à la maintenance de votre parc machine. Les relevés de compteurs permettent de suivre et de mesurer l'état des équipements, machines, véhicules et autres biens. Ces informations viennent compléter les fiches d'intervention des techniciens et permettent, par la suite, d'améliorer la prise de décision. Les relevés de compteurs sont en outre l'un des meilleurs moyens de gérer ses opérations de maintenance prédictive.</p>
+<p>Aujourd'hui, la plupart des <strong>GMAO nouvelle génération </strong>disposent de cette fonctionnalité. La plateforme de gestion de maintenance Mobility Work vous permet de créer et gérer tous vos compteurs directement dans votre application. Grâce à sa version mobile, les équipes de maintenance et de production peuvent renseigner ces informations directement au pied des machines.</p>
+<h2>Gérer ses compteurs dans la GMAO Mobility Work</h2>
+<p>Tous vos compteurs sont facilement accessibles depuis l'écran principal de votre GMAO. Pour les afficher, il cliquez sur « <strong>Compteurs </strong>», dans le menu à gauche de votre écran. Vous souhaiter créer un nouveau compteur ? Il vous suffit pour cliquer sur le bouton « <strong>Créer </strong>» en haut à droite de l'écran. Puis indiquez le <strong>nom</strong> du compteur, l'<strong>unité</strong> et le <strong>nom de l'unité </strong>désirés.</p>
+<p></p>
+<p>Voici quelques exemples de <strong>compteurs paramétrables</strong> dans votre GMAO :</p>
+<ul>
+	<li>compteurs d’impulsions ;</li>
+	<li>compteurs horaires ;</li>
+	<li>compteurs d’eau ;</li>
+	<li>compteurs d'électricité ;</li>
+	<li>compteurs de puissance ;</li>
+	<li>compteurs gaz ;</li>
+	<li>compteurs air comprimé ;</li>
+	<li>compteurs de températures ;</li>
+	<li>compteurs kilométriques ;</li>
+	<li>compteurs pour mesurer le temps d'arrêt de production.</li>
+</ul>
+<p></p>
+<p>Les logiciels de GMAO classiques proposent souvent de créer votre compteur et d’y associer tous les équipements sur lesquels ils s’appliquent. Ce travail peut s’avérer long et fastidieux si vous devez ajouter vos 60 chariots élévateurs à votre compteur.</p>
+<p>La philosophie de la<strong> GMAO Mobility Work</strong> est différente. Lors de la <a title=""Créer un ordre de travail dans sa GMAO"" href=""https://mobility-work.com/fr/support/ot-maintenance-logiciel-gmao"">création d’une intervention de maintenance</a> sur votre application de maintenance, vous pouvez à tout moment <strong>ajouter une valeur de compteur depuis l'activité de votre intervention</strong>. Le compteur machine s'associe de manière automatique à votre équipement et vous permettra ensuite de regrouper vos équipements par compteur.</p>
+<p>Sur la <a title=""Créer une fiche équipement dans sa GMAO"" href=""https://mobility-work.com/fr/support/gmao-comment-creer-vos-equipements"">fiche de vos équipements</a>, vous pouvez visualiser les compteurs utilisés et les valeurs associées en cumulé ou en moyenne par compteur, la description de l’intervention sur laquelle le compteur a été utilisé et la date de relevé de celui-ci.</p>
+<p>Les valeurs ainsi collectées dans votre GMAO vous permettent <strong>d'améliorer la planification de votre maintenance</strong>. L’outil analytique vous permettra par la suite d’<a title=""Analyser ses données de maintenance"" href=""https://mobility-work.com/fr/support/gmao-comment-analyser-ses-donnees-de-maintenance"">analyser l’ensemble des informations</a> liées à votre compteur et à vos interventions de maintenance dans votre GMAO pour vous aider à prendre la meilleure décision possible.</p>","Les compteurs de votre GMAO vous permettent de quantifier et de tracer une information sur un équipement, une zone ou un site industriel.",2020-02-20,https://mobility-work.com/wp-content/uploads/2020/02/creer-et-relever-ses-compteurs-dans-sa-GMAO.png,créer et relever ses compteurs dans sa GMAO,Vincent Gauchevertu,Comment créer et relever ses compteurs dans sa GMAO ?,"Les compteurs de votre GMAO vous permettent de quantifier et de tracer une information sur un équipement, une zone ou un site industriel.",3
+Créer un ordre de travail de maintenance dans sa GMAO,ot-maintenance-logiciel-gmao,"<p><span><strong>La saisie des ordres de travail (OT) de maintenance dans un logiciel de GMAO représente trop souvent une tâche ardue pour les techniciens de maintenance</strong>. Ceux-ci sont souvent confrontés à des écrans mal paramétrés, qui nécessitent généralement de devoir remplir une multitude d’informations dans un nombre indéfinis de champs. De plus, l’information est souvent très difficile à retrouver et à analyser, ce qui les amène à penser que leur saisie ne leur apportera aucune valeur ajoutée, et ne permettra pas non plus d’améliorer la gestion de leur quotidien.</span></p>
+<p>En adoptant une <strong>GMAO mobile</strong> conçue pour faciliter le travail des techniciens de maintenance, la saisie des ordres de travail de maintenance est beaucoup plus simple et plus précise et l'analyse des données de maintenance bien plus utile.</p>
+<p></p>
+<h2>Capitaliser sur son expertise grâce à une GMAO</h2>
+<p><span>Ce sont pourtant ces informations du quotidien qui deviendront la <strong>base de la gestion de votre maintenance.</strong> En plus de vous permettre de suivre ce qui passe au jour le jour, elles vous permettront de capitaliser l’expérience et la <strong>transmission du savoir </strong>des opérations de maintenance sur votre parc machine. Tout cela est essentiel afin d’améliorer la prise de décision concernant les opérations de maintenance à planifier, ou concernant les futurs investissements machines.</span></p>
+<p><span>La <strong>création d’une tâche</strong> dans votre GMAO vous permettra de tracer les opérations de maintenance. Pour cela l’utilisateur doit décrire les actions à effectuer ou le problème rencontré, ainsi que les personnes censées intervenir. </span></p>
+<p><span>Il vous est également possible d’associer un ordre de travail à un groupe d’utilisateurs possédant le même label (« équipe de nuit » par exemple, ou les intervenants « mécanique »). Vous pouvez ensuite choisir la date planifiée de l’intervention. Il ne vous reste plus qu’à <a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">ajouter des labels</a> (électrique, mécanique, préventif, etc.) qui vous permettront d’obtenir une meilleure analyse des opérations effectuées grâce au module analytics. Enfin, il est possible de notifier par email les utilisateurs assignés de l’avancement de la tâche de maintenance, l’objectif étant d’améliorer la traçabilité et le suivi des opérations de maintenance.</span></p>
+<p></p>
+<p><em>Création d'un ordre de travail de maintenance dans l'application de GMAO Mobility Work</em></p>
+<p><span>Afin de vous permettre d’obtenir une analyse plus précise de vos opérations, nous vous proposons <strong>de détecter les pannes récurrentes </strong>grâce aux mots-clés les plus utilisés. Les correcteurs orthographiques sur les téléphones ainsi que de la commande vocale présente sur votre application de GMAO Mobility Work vous garantiront une meilleure constance. Vous pourrez ainsi déterminer le temps passé sur les moteurs de votre pont même si les moteurs n’ont pas encore été créés dans votre système. Cela est rendu possible grâce à la présence du mot-clé « moteur » dans la description de votre intervention.</span></p>
+<h2>Comment créer un ordre de travail de maintenance dans la GMAO Mobility Work ?</h2>
+<p><span>Il existe plusieurs circuits possibles pour créer d’une intervention de maintenance :</span></p>
+<ul>
+	<li><strong><span>Dépannage réalisé par un technicien</span></strong><span> : celui-ci va décrire rapidement la problématique rencontrée, ajouter la personne qui est intervenue avec lui ainsi que la date de réalisation de l’opération de maintenance.</span></li>
+	<li><strong><span>Demande d’intervention de la production</span></strong><span> : celui-ci va expliquer la problématique rencontrée sur la machine ou l’amélioration qu’il souhaite effectuer. Il va indiquer la date de disponibilité de la machine et assigner l’intervention au responsable maintenance. Si celui-ci la valide, il transmet alors la tâche aux personnes concernées ; dans le cas contraire, il archivera la tâche et celle-ci sera tracée comme « non approuvée » par le responsable maintenance.</span></li>
+	<li><strong><span>Intervention planifiée par un responsable maintenance</span></strong><span> qui indiquera le travail à effectuer, les intervenants de maintenance, l’équipement sur lequel porte l’intervention et la date prévue.</span></li>
+</ul>
+<p></p>
+<p><span>Une fois l'OT maintenance créée dans votre GMAO, vous retrouverez l’ensemble des informations saisies précédemment :</span></p>
+<ul>
+	<li><span>description de la tâche ;</span></li>
+	<li><span>date planifiée ;</span></li>
+	<li><span>intervenants ;</span></li>
+	<li><span>labels ;</span></li>
+	<li><span>centre de coûts de l’équipement, qui correspond au découpage financier ou géographique de vos équipements ;</span></li>
+	<li><span>la photo de votre équipement ;</span></li>
+	<li><span>le numéro de tâche ;</span></li>
+	<li><span>le temps passé ; </span></li>
+	<li><span>le coût des pièces détachées sorties</span></li>
+	<li><span>le coût des commandes provenant de l’ERP.</span></li>
+</ul>
+<p><span>Vous pouvez à tout moment éditer ces informations, et l’ensemble des utilisateurs associés à cette intervention seront notifiés des modifications effectuées.</span></p>
+<p></p>
+<p><em>Associer une checklist à un ordre de travail de maintenance dans la GMAO Mobility Work</em></p>
+<p><span>Votre technicien de maintenance pourra ensuite ajouter une activité et décrire l’opération de maintenance qu’il a effectuée en complétant le temps passé et la date de l’intervention. Toutes ces informations permettent d’obtenir un historique des opérations effectuées sur une tâche, et une meilleure transmission du savoir. <a title=""La GMAO communautaire pour un suivi en temps réel"" href=""https://mobility-work.com/fr/support/suivi-operations-maintenance"">Chaque activité est également visible dans le fil d'actualités</a>, ce qui permet à votre réseau d’être informé de l’avancement des opérations. Chaque activité peut être complétée avec la sortie d’une pièce détachée ou l’ajout d’une valeur provenant d’un compteur.</span></p>
+<p><span>Vous pouvez également<a title=""Gérer la documentation technique dans sa GMAO"" href=""https://mobility-work.com/fr/support/documentation-technique-gmao""> ajouter des documents</a> tels que des gammes de maintenance, des checklists ou d’autre fichiers (Word, PDF, XLS, CSV, vidéo, photo, son, etc.) à vos interventions de maintenance.</span></p>
+<p><span>La fonction <strong>« historique » de votre OT maintenance</strong> vous permettra de tracer son l’évolution en indiquant les éléments suivants :</span></p>
+<ul>
+	<li><span>Personne – date – heure de création de la tâche</span></li>
+	<li><span>Personne – date – heure de modification de la tâche</span></li>
+	<li><span>Personne – date – heure d’ajout d’une activité</span></li>
+	<li><span>Personne – date – heure d’archivage d’une tâche</span></li>
+	<li><span>Personne – date – heure de désarchivage d’une tâche</span></li>
+</ul>
+<p><span>De cette manière, nous pouvons réaliser la chronologie de votre OT maintenance dans votre GMAO et obtenir des statistiques sur vos interventions, par exemple le temps passé entre le moment où une demande est formulée par la production et l’ouverture de la tâche par un technicien. Ou encore le temps passé à attendre le réapprovisionnement d’une pièce détachée avec le label « en attente de pièce détachée ».</span></p>
+<p></p>",Apprenez comment créer un ordre de travail et améliorez la prise de décision concernant les opérations de maintenance à planifier dans votre GMAO.,2019-08-29,https://mobility-work.com/wp-content/uploads/2019/08/ordre-de-travail-maintenance.jpg,Création d'un ordre de travail de maintenance sur smartphone,Vincent Gauchevertu,Créer un ordre de travail dans son logiciel de GMAO,Apprenez comment créer un ordre de travail de maintenance dans votre GMAO et pour faciliter le travail de vos équipes de maintenance.,6
+Ajouter une checklist à ses activités de maintenance dans la GMAO,checklist-maintenance-gmao,"<p dir=""ltr"">Les checklists de maintenance sont des documents clés dans le quotidien du service maintenance. Elles permettent à n’importe quel technicien de terrain, novice ou confirmé, d’accéder rapidement à une liste d'opérations à effectuer, puis de valider chaque étape tout en garantissant sa sécurité. La GMAO Mobility Work vous donne la possibilité <strong>d'ajouter des checklists à vos tâches de maintenance</strong>.</p>
+<h2 dir=""ltr"">Pourquoi intégrer des checklist à sa GMAO ?</h2>
+<p dir=""ltr"">La <strong>gestion des checklists</strong> est essentielle pour le service maintenance, mais également pour la direction cherchant à collecter de précieuses informations, <a title=""Analyser indicateurs maintenance"" href=""https://mobility-work.com/fr/support/maintenance-analytique-GMAO"">qui seront ensuite analysées</a> dans un souci d'amélioration continue. Les checklists permettent également d’<strong>améliorer la communication</strong> entre les équipes et les services, de <strong>garantir la sécurité </strong>des opérateurs, de conserver un <a title=""Consulter l'historique de maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/historique-maintenance"">historique</a>, d’<strong>optimiser les pratiques de maintenance</strong>, etc.</p>
+<p dir=""ltr"">Si la checklist maintenance est un document essentiel, le choix de son format l’est tout autant. Les checklists en format numérique disponibles dans votre <strong>GMAO </strong>(gestion de maintenance assistée par ordinateur) présentent l’avantage d’être accessibles à tout moment. La numérisation de cette fonctionnalité présente de nombreux avantages. Les documents sont tous accessibles au même endroit, ce qui permet également de <strong>prévenir les risques</strong> de perte ou de destruction de documents, ainsi que de remonter les informations aux autres techniciens et aux responsables de service en temps réel.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Avec la version mobile de la GMAO Mobility Work, les techniciens de terrain peuvent consulter et valider les checklists <strong>au pied de l’équipement</strong> afin d’assurer une restitution optimale des informations. Ils peuvent ainsi effectuer des inspections, établir des rapports de conformité ou réaliser des interventions de maintenance de l'équipement. Il leur suffit de cocher les tâches réalisées directement dans leur GMAO, d’y apporter des commentaires ou encore d'<a title=""Comment ajouter des documents à un OT ?"" href=""https://mobility-work.com/fr/support/documentation-technique-gmao"">ajouter des images </a>de l’état de l’équipement pour documenter le rapport d’information.</p>
+<p dir=""ltr""></p>
+<h2 dir=""ltr"">Comment créer une checklist dans la GMAO Mobility Work ?</h2>
+<p dir=""ltr"">La création d'une checklist ne vous prendra que quelques instants. Depuis l'accueil de votre GMAO, cliquez sur l'onglet <strong>Checklist</strong>, à gauche de votre écran. Saisissez le nom de votre checklist, ainsi que l'ensemble des étapes associées. Vous pouvez ensuite ajouter vos checklists lors de la création d'une nouvelle tâche.</p>
+<p dir=""ltr""><a title=""Création de tâche GMAO"" href=""https://www.youtube.com/watch?v=BBqUDZs18FA&amp;list=PL1arywLVyCBbE3IZWsaRSh7Y_DpWn8F_x&amp;index=10"" target=""_blank"" rel=""noopener"">En savoir plus sur la création de tâche</a></p>
+<p dir=""ltr"">Importez gratuitement l’ensemble de vos gammes de maintenance et checklist maintenance dans votre GMAO Mobility Work à partir vos fichiers Excel.</p>
+<p dir=""ltr""></p>
+<h2 dir=""ltr"">Personnalisez vos checklists</h2>
+<h3 dir=""ltr"">Adaptez vos checklists à votre secteur d’activité</h3>
+<p dir=""ltr"">Toutes les industries possèdent leurs propres normes et réglementations pour garantir la sécurité des opérateurs, assurer une efficacité optimale et l’application de bonnes pratiques. La checklist maintenance disponible sur la version mobile de votre GMAO Mobility Work vous aide à garantir la clarté et l’efficacité des procédures. La GMAO Mobility Work vous offre la possibilité de personnaliser facilement vos checklists en fonction de vos besoins. Par exemple :</p>
+<ul dir=""ltr"">
+	<li><strong>Services de CVC et de réfrigération</strong> : générez automatiquement vos ordres de travail d'entretien préventif avec des listes de contrôle et ne manquez jamais une étape ;</li>
+	<li><a title=""Améliorez la sécurité de votre usine grâce à une meilleure gestion de votre facility management"" href=""https://mobility-work.com/fr/blog/ameliorez-securite-usine-grace-une-meilleure-gestion-facility-management""><strong>Facility Management</strong></a> : documentez vos niveaux de service, assurez-vous que les données collectées sont envoyées au bon endroit et exécutez vos plans de maintenance préventive ;</li>
+	<li><strong>Réglementaire</strong> : générez des listes de contrôle complètes pour les actions correctives et les rapports de conformité ;</li>
+	<li><a title=""Comment utiliser votre GMAO pour réussir vos audits et certifications ?"" href=""https://mobility-work.com/fr/blog/comment-utiliser-gmao-reussir-vos-audits-certifications""><strong>Audit et inspection</strong></a> : créez très rapidement et efficacement des formulaires simples ou multi-pages avec des règles.</li>
+</ul>
+<p><em><strong>Le saviez-vous ?</strong> L’utilisation de checklist maintenance est également particulièrement pertinente dans le cadre d’une routine de <a title=""GMAO et maintenance préventive"" href=""https://mobility-work.com/fr/blog/maintenance-preventive"">maintenance préventive</a>. En effet, la réalisation d’opérations de maintenance simples, de relevés de capteurs, compteurs, etc. contribue à anticiper les défaillances des équipements. Toute anomalie est rapidement détectée avant qu’elle ne devienne une panne plus sérieuse.</em></p>
+<h3 dir=""ltr"">Personnalisez vos checklists pour faciliter le travail de vos techniciens</h3>
+<p dir=""ltr"">Les checklists maintenance de la GMAO Mobility Work sont personnalisables et s’adaptent à de nombreuses situations du quotidien de l’équipe maintenance. Vous pouvez ainsi <strong>créer autant d'étapes que nécessaire</strong> afin de guider facilement vos techniciens, mais aussi en intégrer pour limiter le flux de travail. Il est également possible d’insérer des champs de données spécifiques dans la création de votre checklist afin de :</p>
+<ul dir=""ltr"">
+	<li>collecter des données sur les rapports d'inspection, les appels de maintenance ou les étalonnages ;</li>
+	<li>exiger que les techniciens et les sous-traitants insèrent des données pour avancer dans leur liste de contrôle, ce qui permet d’obtenir un rapport final détaillé pour votre client ;</li>
+	<li>collecter les tampons de date et d'heure de tout processus de liste de contrôle ;</li>
+	<li>prendre des photos avant et après les réparations pour montrer que les travaux sont terminés ;</li>
+	<li>recueillir des points de données, tels que les étalonnages, les températures et la pression pour un rapport précis.</li>
+</ul>
+<p dir=""ltr"">Enfin, les checklists disponibles dans la GMAO Mobility Work vous permettent de gérer et de suivre le travail de vos techniciens, mais également celui des <a title=""Gérer ses prestataires dans sa GMAO"" href=""https://mobility-work.com/fr/support/prestataire-service-gestion"">prestataires de service</a>. Uniformisez vos normes et procédures pour les améliorer ! Des listes de contrôle étape par étape permettent à chaque technicien ou sous-traitant de réaliser le même travail à chaque fois.</p>
+<p dir=""ltr""></p>
+<h2 dir=""ltr"">5 avantages à gérer ses checklists depuis sa GMAO</h2>
+<ol>
+	<li dir=""ltr"">
+<p dir=""ltr""><strong>Détectez rapidement les équipements les plus critiques :</strong> lorsque l'équipement ne fonctionne pas correctement, son utilisation entraîne généralement un risque plus élevé de dommages, accompagné de pertes financières, soit à la suite d'un accident, soit à cause de problèmes mécaniques. Grâce aux checklists, gardez une trace des étapes d’inspections garantes de son bon fonctionnement.</p>
+</li>
+	<li dir=""ltr"">
+<p dir=""ltr""><strong>Bénéficiez d'informations précises pour planifier votre <a title=""Plan de maintenance préventive et logiciel de GMAO"" href=""https://mobility-work.com/fr/support/plan-maintenance-preventive-logiciel-gmao"">maintenance préventive.</a></strong> L’usure d’un équipement n’est pas nécessairement synonyme de panne. En déterminant la fréquence de réparation d’un type d'équipement, il est possible de planifier cette réparation dans votre logiciel de gestion de maintenance avant la défaillance, réduisant ainsi les coûts et les temps d'arrêt.</p>
+</li>
+	<li dir=""ltr"">
+<p dir=""ltr""><strong>Identifiez les problèmes récurrents de vos équipements et corrigez-les. </strong>Les inspections vous fournissent les données nécessaires pour prévoir les tendances en termes de pannes et en identifier les causes. Souvent, lorsque l’équipement présente un problème récurrent, celui-ci s’explique par une mauvaise utilisation systématique ; les inspections permettent de mettre en lumière ce problème opérationnel.</p>
+</li>
+	<li dir=""ltr"">
+<p dir=""ltr""><strong>Encouragez le personnel de production à prendre soin des équipements</strong>. Les inspections régulières impliquent directement le personnel de production. En effet, les inspections avant utilisation permettent de détecter les « maltraitances » à l’égard des équipements, et ainsi de prendre des mesures pour mettre fin à ce comportement. Le plus souvent, le simple fait de procéder à des inspections avant utilisation incite les membres du personnel à accorder une plus grande attention à l'état de leur équipement.</p>
+</li>
+	<li><strong>Améliorez votre prise de décision. </strong>Les données d'inspection concernant la durabilité et les performances de votre parc machines présentes dans votre solution de maintenance vous aident à évaluer l'équipement et à répondre à la question « faut-il maintenir ou remplacer ? »</li>
+</ol>",Améliorez le suivi de vos opérations de maintenance grâce aux checklist de l'application de GMAO Mobility Work.,2018-12-12,https://mobility-work.com/wp-content/uploads/2018/12/Creer-une-checklist.png,Créer une checklist dans sa GMAO,Vincent Gauchevertu,Ajouter une checklist à ses activités de maintenance dans la GMAO,Améliorez le suivi de vos opérations de maintenance grâce aux checklist de l'application de GMAO Mobility Work.,6
+Gérer la maintenance des installations électriques dans sa GMAO,installations-electriques-gmao,"<p>La maintenance des installations électriques implique bien souvent le respect de process de sécurité stricts. En recourant à une application de GMAO vous optimisez non seulement le suivi des opérations de maintenance, mais vous garantissez aussi la sécurité de vos équipes.</p>
+<h2>Comment gérer la maintenance de ses installations électriques à l'aide d'une GMAO ?</h2>
+<p>La notion d’équipement dans un logiciel de GMAO est souvent associée à une machine, à ses sous-ensembles et à ses pièces détachées. Or, le terme « équipement » inclut également d’autres types d’actifs industriels, parmi lesquels les installations électriques. Celles-ci nécessitent également d’être entretenues, et font l’objet de demandes d’intervention et d’opérations de maintenance industrielle.</p>
+<p>Ce tutoriel vous présente un ensemble de conseils et de bonnes pratiques pour gérer la maintenance de vos installations électriques dans la GMAO Mobility Work.</p>
+<p></p>
+<h3>Ajouter un équipement électrique à son parc machine</h3>
+<p>Dans la GMAO Mobility Work, vos installations électriques peuvent être considérées comme :</p>
+<ul>
+	<li>un équipement à part entière (par exemple : un transformateur haute tension) ;</li>
+	<li>un sous-ensemble (par exemple : le coffret électrique d'une machine).</li>
+</ul>
+<p>Pour ajouter vos installations électriques à votre parc machine, il vous suffit donc de <a title=""Comment créer un nouvel équipement dans Mobility Work"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">créer un nouvel équipement</a>.</p>
+<h4>Nommer l’équipement</h4>
+<p>En optimisant la codification de vos équipements dans votre GMAO, vous facilitez l'organisation et la recherche de vos données de maintenance. Par exemple, vous pouvez nommer un transformateur ainsi :</p>
+<p><em>Transformateur + TGBT 800kvA/525V - Atelier Louis Gibrat - N°1311 </em></p>
+<p>Ce nom correspond au découpage suivant : <strong>Type d'élément – Courant / Tension – Emplacement Géographique – Identification par un numéro</strong>. Avec ce système de codification, il suffira à vos techniciens d'utiliser la <a title=""GMAO : Comment simplifier l'arborescence machine ?"" href=""https://mobility-work.com/fr/support/arborescence-machine-gmao"">fonction recherche</a> de leur GMAO pour retrouver l'équipement grâce aux mots-clés associés. </p>
+<p>De la même façon, vous pourrez créer un coffret électrique ainsi :</p>
+<p><em>Coffret électrique - Commande - Malaxeur 36/20 - Noyautage GP - n°G6 - n°361 </em></p>
+<p>Le coffret électrique est ici considéré comme un sous-ensemble d'un équipement. On utilise alors le découpage suivant : <strong>Type d'élément – Type électrique (Puissance ou Commande) – Équipement sur lequel est monté l’armoire – Atelier Géographique – Repère Géographique de l'élément – Numéro de l’équipement</strong>.</p>
+<p>De cette manière, tous les utilisateurs peuvent rapidement identifier le coffret ainsi que son<strong>emplacement géographique</strong>. Par exemple, si un utilisateur saisit les mots-clés « coffret noyautage GP » dans la recherche de sa GMAO, il accédera rapidement à l’ensemble des coffrets présents dans ce secteur de l’entreprise.</p>
+<p></p>
+<h4>Remplir la fiche équipement</h4>
+<p>Le champ description de la fiche équipement regroupe l’ensemble des informations relatives à l'élément électrique (Numéro de série – type de contrat – fabricant – fournisseur – etc.). Par exemple :</p>
+<p><em>Année 2015 - Nouvelle batterie Schneider Electric - Devis D14-0624115-A-CM Spie - Fabricant : Alpes Technologies - Modèle : Alpimatic 300KVAR 400V 50Hz TRI Type H - Référence : MH30040 - N° de série : 2015011904 (Sup Janvier 2017)</em></p>
+<p>La <strong>description </strong>a pour objectif de fournir un maximum d’informations à vos techniciens de maintenance. Ces informations seront accessibles grâce à la <strong>fonction recherche</strong> de votre plateforme de gestion de maintenance.</p>
+<p>Le <strong>centre de coûts</strong> correspond au <strong>découpage financier</strong> de vos éléments électriques. Cela vous permet d'agréger les coûts de maintenance associés aux installations électriques dans l’<a title=""Analyser ses indicateurs maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/indicateurs-maintenance-analytique"">outil analytique</a> de Mobility Work.</p>
+<h4>Ajouter des labels</h4>
+<p>La GMAO Mobility Work vous permet également d'<a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">ajouter des labels sur vos équipements</a>. Ajoutez, par exemple, un label « contrat » sur vos transformateurs sous contrat de maintenance ou « réglementaire » sur vos coffrets électriques. Puis générez rapidement une liste d'équipements groupés par label ou <a title=""Maintenance préventive et logiciel de GMAO"" href=""https://mobility-work.com/fr/support/plan-maintenance-preventive-gmao"">élaborez un plan de maintenance</a> pour un groupe d'équipement.</p>
+<p>Lorsqu’une opération de maintenance est réalisée sur une installation électrique qui comporte un label, celui-ci vient s’ajouter automatiquement à l’ordre de travail. Vous obtenez alors une analyse plus fine de vos temps d’intervention et coûts de maintenance.</p>
+<p>Le logiciel de GMAO Mobility Work permet aussi d’établir des liens entre les différents équipements. Ainsi un coffret peut être associé à plusieurs machines, un transformateur à plusieurs ateliers, etc.</p>
+<p></p>
+<h2>Les avantages d'une GMAO nouvelle génération</h2>
+<p>Les applications de GMAO modernes intègrent de nouvelles fonctionnalités optimisant la gestion de vos équipements. Ajoutez par exemple <strong>une photo</strong> à votre équipement afin d'en faciliter la recherche. Cela permettra à n’importe quel technicien de maintenance d’identifier rapidement l'élément électrique sur lequel il doit intervenir.</p>
+<p>La mise en place d’un système de codification dans le nom de l'équipement permet également de faciliter le travail des techniciens. Par exemple :</p>
+<ul>
+	<li>une lettre par secteur géographique de votre usine ;</li>
+	<li>un numéro incrémental par élément.</li>
+</ul>
+<p>Ainsi, si nous reprenons l’exemple de notre équipement :</p>
+<p><em>Coffret électrique - Commande - Malaxeur 36/20 - Noyautage GP - n°G6 - n°361</em></p>
+<p>« G6 » permet d’identifier facilement le coffret. Il vous suffit ensuite de préparer une étiquette « G6 » que vous pourrez coller sur votre équipement. Ainsi, lorsqu’un technicien de maintenance ou un prestataire de service intervient sur cette équipement, il lui suffit de saisir « G6 » dans la recherche de l’application de GMAO Mobility Work pour accéder à l’ensemble de l'<a title=""Consulter l'historique de maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/historique-maintenance"">historique </a>et des documents.</p>
+<h3>Facilitez la reconnaissance de vos équipements grâce aux QR codes</h3>
+<p>Un des principaux avantages de la <a href=""https://mobility-work.com/fr/support/geolocalisation-equipements-gmao-mobile/"">GMAO mobile</a> Mobility Work est qu’elle vous permet d’intégrer des <a href=""https://mobility-work.com/fr/support/comment-integrer-nfc-qr-code-gmao"">QR codes</a> pour faciliter l’identification de vos machines sur votre téléphone.</p>
+<p></p>
+<p>En un scan, le technicien de maintenance peut ouvrir l’historique de sa machine, accéder à une gamme de maintenance ou tout simplement déclencher une intervention de maintenance.</p>
+<h3>Intégrez vos schémas électriques et votre documentation</h3>
+<p>Enfin, <a href=""https://mobility-work.com/fr/support/gmao-ajouter-vos-documents-vos-equipements"">intégrez votre documentation à votre fiche équipement</a>. Vos équipes pourront en prendre connaissance à tout moment depuis leur ordinateur ou leur smartphone, grâce à leur GMAO mobile. Ne perdez plus de temps à rechercher un document, et dites adieu à tous vos documents Word ou Excel.</p>
+<p>La bonne gestion de la maintenance des installations électriques devrait vous permettre de rapidement retirer des bénéfices. Parmi lesquels :</p>
+<ul>
+	<li>une amélioration de la traçabilité sur des organes sensibles ;</li>
+	<li>une meilleure compréhension du réseau électrique pour les techniciens de maintenance ;</li>
+	<li>un accès rapide à la documentation, et une intégration facile d'éléments multimédia sur une panne électrique (photo, vidéos, etc.) ;</li>
+	<li>une amélioration du suivi réglementaire de vos éléments électriques dans votre GMAO.</li>
+</ul>
+<p>Mobility Work est une plateforme de gestion de maintenance communautaire, qui a vocation à placer la GMAO au cœur de l’entreprise. L’application permet de gérer tous types d’équipements ainsi que la maintenance des installations électriques et d’obtenir des résultats rapides et efficace grâce au pouvoir de la communauté.</p>
+<p></p>",Comment optimiser la maintenance de ses installations électriques et garantir le respect des process de sécurité avec sa GMAO ?,2018-04-19,https://mobility-work.com/wp-content/uploads/2018/04/Gerer-la-maintenance-des-installations-electriques-dans-sa-GMAO.png,Gérer la maintenance des installations électriques dans sa GMAO,Vincent Gauchevertu,Gérer la maintenance des installations électriques dans sa GMAO,Comment optimiser la maintenance de ses installations électriques et garantir le respect des process de sécurité avec sa GMAO ?,5
+Créer ses équipements et gérer la nomenclature de son parc machines,nomenclature-pieces-detachees,"<p><span>Ajouter son parc machine et créer la nomenclature de ses équipements peut s'avérer compliqué et fastidieux avec un logiciel de gestion de maintenance classique. Rien de plus simple avec la GMAO Mobility Work </span><span>: 2 minutes suffisent !</span></p>
+<p>&nbsp;</p>
+<h2>Comment ajouter son parc machine dans Mobility Work ?</h2>
+<p><span>Pour <strong>ajouter un nouvel équipement</strong>, plusieurs options s’offrent à vous.</span></p>
+<p><iframe src=""https://www.youtube.com/embed/jwDVqulj96I"" width=""600"" height=""330"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<h2> </h2>
+<h3><span>La fonction « ajouter un équipement » de l’application</span></h3>
+<p><span>Forts de notre expérience, nous avons repensé la façon de créer nos machines afin d’éviter les échecs connus lors de la mise en place d’autres logiciels de maintenance. Tout d’abord, nous avons réduit la saisie à quelques champs de manière à centraliser les informations principales de l’équipement :</span></p>
+<ul>
+	<li><strong><span>la photo </span></strong><span>de votre équipement ;</span></li>
+	<li><span>le nom de votre machine (voir le paragraphe « Comment bien nommer son équipement ») :</span></li>
+	<li><strong><span>la description</span></strong><span>, qui reprend l’ensemble des informations de votre équipement (voir le paragraphe « Quelles informations dois-je entrer dans la description de mon équipement ? »).</span></li>
+	<li><span>un centre de coûts, qui représentera une zone géographique ou financière de vos équipements. ; de manière générale, le centre de coûts de l’équipement correspond au découpage financier présent dans votre ERP.</span></li>
+	<li><strong><span>des labels, ou tags</span></strong><span>, pour classifier plusieurs équipements dans un groupe : par exemple, vous pouvez taguer tous vos appareils de levage, ou tous les équipements de la ligne 12.</span></li>
+	<li><strong><span>créez un lien entre vos équipements </span></strong><span>: vous pouvez lier vos équipements entre eux de manière à faciliter la nomenclature et à créer une structure entre vos différentes machines.</span></li>
+	<li><strong><span>déterminez le niveau de confidentialité de votre équipement </span></strong><span>: vous pouvez choisir de le garder en privé, de le partager avec d'autres usines de votre groupe industriel ou avec la communauté. Vous êtes maître de vos données : aucune information concernant le nom de l’usine, le centre de coûts ou le nom des intervenants ne figure sur les fiches équipements. </span></li>
+	<li><strong><span>informez que cet équipement est une pièce détachée</span></strong><span>, en incluant la quantité présente dans vos stocks, l’emplacement, le stock mini et maxi, ainsi que le prix unitaire. Vous pouvez aussi connecter vos pièces de rechange à votre ERP pour obtenir ces informations automatiquement.</span></li>
+</ul>
+<p></p>
+<h3><span>Consultez le parc machine de la communauté </span></h3>
+<p><span>Mobility Work est une plateforme communautaire de gestion de maintenance vous permettant de consulter anonymement les informations d’une base de données d’équipements publics. <a title=""GMAO communautaire : dupliquer une fiche équipement"" href=""https://mobility-work.com/fr/support/fiche-equipement-saisie-gmao"">Pourquoi créer une machine si quelqu’un l’a déjà créée pour vous ?</a> Il vous suffit de rechercher votre équipement avec la <strong>fonction recherche</strong> de votre GMAO et de consulter la fiche de l’équipement qui vous intéresse. </span></p>
+<p></p>
+<p></p>
+<p><span>Si celui-ci correspond à vos besoins, cliquez sur <strong>« dupliquer »</strong> et récupérez les différentes informations (nom et description) de cette machine automatiquement. Vous pouvez également éditer les informations dupliquées et enrichir les informations de votre équipement avec une photo, une nomenclature, un centre de coûts, des labels, des liens vers d’autres équipements, et déterminer si cette machine est privée ou publique.</span></p>
+<h3><span>Dupliquez un équipement depuis le catalogue officiel des fabricants</span></h3>
+<p><span>Chez Mobility Work, nous estimons que ce n’est pas à l’utilisateur d’entrer les informations de sa machine dans la GMAO. Nous permettons donc à chaque <strong>fabricant, fournisseur ou équipementier</strong> d’insérer son <strong>catalogue officiel</strong>. L’objectif ? Vous permettre en quelques minutes de trouver votre équipement, avec une description complète, sa documentation, les pièces de rechange, les plans de maintenance et les gammes du fabricant.</span></p>
+<h3><span>Importez votre parc machine depuis une base existante</span></h3>
+<p><span>Vous disposez déjà d'un parc machine ? L'équipe de Mobility Work vous propose d’<a href=""https://mobility-work.com/fr/support/comment-importer-gratuitement-donnees-dans-gmao"">importer gratuitement les données extraites de votre ancienne GMAO</a> (fichier Excel ou base de données) dans l’application de manière à vous faire gagner du temps et vous permettre de tester plus rapidement notre logiciel de maintenance.</span></p>
+<p></p>
+<h3> </h3>
+<h2><span>Comment optimiser le nom de votre équipement ?</span></h2>
+<p><span>Choisir le nom de votre équipement dans une GMAO n’est jamais très simple.<strong> Voici quelques petites astuces qui vous permettront d’optimiser la dénomination et la nomenclature de votre équipement. </strong></span></p>
+<p><span>Prenons l'exemple d’un <strong>moteur de translation</strong> Leroy Somer LS 71 présent sur un pont OMIS 16 Tonnes N°161 dans le secteur fusion de votre usine. Son nom pourrait être : « Moteur Leroy Somer LS71 – Translation – Pont Omis 16 Tonnes – N°161 – Secteur Fusion ». De cette manière, si vous recherchez les mots : « moteur pont 161 », ou « moteur translation pont OMIS 161 », vous devriez retrouver rapidement votre équipement. </span></p>
+<p><span>Le nom de votre équipement dans votre GMAO peut se résumer au schéma suivant : <strong>« Type d’élément – Marque – Modèle – Localisation (si c’est une pièce de rechange) – Numéro de l’équipement – Secteur géographique ou ligne de production ».</strong> Cela fonctionne comme une nomenclature, mais avec des mots clés. Vous pouvez ainsi déterminer par exemple le temps passé sur l’ensemble des équipements comprenant les mots clés « moteur » ou « fusion ». Vous pouvez également ajouter des étiquettes avec un numéro ou une nomenclature sur chaque équipement accompagné d’un tag NFC ou d’un QR code afin de faciliter l’authentification de votre équipement.</span></p>
+<p><em>Créez vos fiches équipement dans la GMAO Mobility Work pour déclencher des tâches et activités</em></p>
+<p>&nbsp;</p>
+<h2><span>Quelles informations inscrire dans la description de ma fiche équipement ?</span></h2>
+<p><span>Tout type d’information peut être ajouté dans la description : type d’élément, type de contrat, numéro de série, nomenclature, etc. Avec les logiciels de maintenance traditionnels, il est nécessaire de remplir une fiche équipement comportant plus de 150 champs. Cependant, toutes les machines ne possèdent pas les mêmes caractéristiques. Ce surplus d’informations est souvent un frein pour l'équipe chargée du déploiement de la GMAO dans un service maintenance. </span></p>
+<p><span>C’est pourquoi <strong>Mobility Work </strong>fonctionne selon la logique des<strong> moteurs de recherche actuels</strong>.Ajoutez simplement les informations et mots-clés présents dans la description, et retrouvez facilement vos équipements grâce à la fonction recherche.</span></p>
+<p>&nbsp;</p>
+<p><span>Enfin, grâce à l’application mobile, <a href=""https://mobility-work.com/fr/support/geolocalisation-equipements-gmao-mobile/"">géolocalisez votre équipement</a> en indiquant les coordonnées GPS de celui-ci. Ainsi, vos équipes ou vos prestataires pourront localiser vos équipements directement depuis l’application Google Maps sur leur téléphone</span></p>","Ajouter son parc machine et créer un équipement peut s'avérer fastidieux. Avec la GMAO Mobility Work, rien de plus simple : 2 minutes suffisent !",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/fiche-equipement-GMAO_Mobility-Work.png,Fiche équipement GMAO Mobility Work,Vincent Gauchevertu,Créer ses équipements et gérer la nomenclature de son parc machine,"Ajouter son parc machine et créer un équipement peut s'avérer fastidieux. Avec la GMAO Mobility Work, rien de plus simple : 2 minutes suffisent !",5
+Comment gérer son outillage industriel dans sa GMAO,outillage-industriel-gmao,"<p dir=""ltr"">Qu'importe votre secteur d'activités, la maintenance de votre outillage industriel est une problématique centrale de laquelle dépend la qualité de votre production. Qu'il s'agisse de répondre aux standards de vos clients ou de réduire les risques de temps morts sur votre chaîne de production, vous devez pouvoir compter sur la fiabilité de votre outillage. Planifiez et assurez le suivi de vos opérations de maintenance à l'aide d'une<strong> application de GMAO.</strong></p>
+<h2 dir=""ltr"">Pourquoi gérer son outillage industriel dans sa GMAO</h2>
+<p dir=""ltr"">Dans la plupart des entreprises, la gestion de l'outillage revient au service méthodes. Dans de trop nombreux cas encore, le suivi de maintenance, aussi important soit-il, est réalisé sur des fichiers Excel. Cette méthode n'est pas sans risque : perte de données, mauvaise circulation de l'information, manque de visibilité sur l'<a title=""Consulter l'historique de maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/historique-maintenance"">historique de maintenance</a>, etc.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Pourtant, il existe des solutions faciles à mettre en place. Déployer une application de gestion de maintenance permet de <strong>garantir la traçabilité des opérations de maintenance</strong>. Polyvalente et intuitive, la GMAO Mobility Work est parfaitement adaptée à la gestion de votre outillage industriel. De plus, son aspect <strong>communautaire </strong>garantit une <a title=""COMMUNIQUER AVEC SON SERVICE MAINTENANCE GRÂCE À SA GMAO ONGLETS PRINCIPAUX Voir(onglet actif) Modifier Supprimer Révisions Traduire"" href=""https://mobility-work.com/fr/support/contacter-service-maintenance"">meilleure communication</a> entre les différents services de votre entreprise.</p>
+<h3 dir=""ltr"">Importer son outillage dans sa GMAO</h3>
+<p dir=""ltr"">Avant de planifier vos interventions de maintenance, il vous sera nécessaire d'intégrer votre outillage à votre GMAO. Pour cela deux solutions s'offrent à vous : <a title=""IMPORTER GRATUITEMENT SES DONNÉES DANS SA GMAO"" href=""https://mobility-work.com/fr/support/importer-gratuitement-donnees-gmao"">importer vos données depuis un fichier Excel</a>, ou créer manuellement votre outillage.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Pour cette deuxième option, il vous suffit de considérer l'outillage comme un équipement. Pour ajouter un nouvel outillage, cliquez donc sur <strong>créer un nouvel équipement</strong> et saisissez les informations suivantes :</p>
+<ul dir=""ltr"">
+	<li><strong>Nom de l’équipement </strong>: Type d’outillage – Nom du client – Numéro d’outillage. Le numéro de l’outillage est une <strong>constante importante</strong> permettant à l'opérateur de différencier les divers outils. De plus, ce numéro leur permet retrouver rapidement un outil grâce à la <a title=""GMAO : Comment simplifier l'arborescence machine"" href=""https://mobility-work.com/fr/support/arborescence-machine-gmao"">barre de recherche</a> de votre GMAO.</li>
+	<li><strong>Description de l’équipement </strong>: toutes les informations utiles à vos équipes de maintenance.</li>
+	<li><strong>Centre de coûts </strong>: découpage géographique ou financier de l'outillage.</li>
+	<li><strong>Images &amp; documents</strong> : ajoutez toute la documentation nécessaire à la maintenance de vos outillages.</li>
+</ul>
+<p dir=""ltr""><a title=""GMAO : créer ses fiches équipements"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">Plus de détails sur la création d'une fiche équipement</a></p>
+<p dir=""ltr"">Cette première étape réalisée, vous pouvez désormais organiser vos <strong>plans de maintenance</strong>, suivre le déroulé des interventions en <strong>temps réel</strong> et <strong>analyser vos données de maintenance</strong>.</p>
+<h2 dir=""ltr"">Améliorer ses process de maintenance</h2>
+<p dir=""ltr"">Le déploiement d'une GMAO moderne vous permet de simplifier et d'améliorer la plupart de vos process de maintenance. En voici quelques exemples.</p>
+<h3>Planifier ses interventions de maintenance</h3>
+<p dir=""ltr"">Une fois vos outillages créés, vous pouvez commencer à <a title=""GMAO : planifier ses opérations de maintenance"" href=""https://mobility-work.com/fr/support/calendrier-maintenance-planning-gmao"">planifier vos opérations de maintenance</a> et les assigner à vos techniciens. Ces derniers pourront ensuite rapidement <strong>retranscrire leurs activités</strong> dans leur GMAO : problématique rencontrée, nature de l’intervention, date de réalisation, temps passé... L’affichage des opérations sur le <a title=""GMAO communautaire pour un suivi en temps réel"" href=""https://mobility-work.com/fr/support/suivi-operations-maintenance"">fil d'actualités</a> permettra aux autres opérateurs d'être <strong>informés de l'avancée des travaux</strong> et de retrouver l’historique des interventions sur n’importe quel outillage.</p>
+<p></p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">De plus, la GMAO mobile Mobility Work accompagne vos techniciens où qu'ils soient. En ajoutant un <strong>QR code </strong>ou une <strong>puce NFC </strong>à vos outillages industriels, les opérateurs pourront plus facilement accéder aux informations nécessaires. D'abord ils pourront <a href=""https://mobility-work.com/fr/support/geolocalisation-equipements-gmao-mobile/"">géolocaliser le lieu d'intervention</a>, puis ouvrir la fiche outillage simplement en scannant le QR code associé à l'aide de leur smartphone ou tablette. La<strong> GMAO mobile</strong> s'adapte ainsi parfaitement au quotidien des techniciens itinérants.</p>
+<h3 dir=""ltr"">Analyser ses données de maintenance</h3>
+<p dir=""ltr"">Mobility Work vous permet non seulement de faciliter la gestion de vos outillages au sein de votre équipe, mais également d'analyser vos indicateurs de maintenance grâce à notre outil intégré. Utilisez les labels de vos outillages pour agréger vos données et générer des rapports détaillés.</p>",La maintenance de votre outillage industriel impacte la qualité de votre production. Assurez le suivi de vos opérations de maintenance grâce à une GMAO.,2018-03-22,https://mobility-work.com/wp-content/uploads/2018/03/Comment-gerer-son-outillage-industriel-dans-sa-GMAO.png,,Vincent Gauchevertu,Comment gérer son outillage industriel dans sa GMAO,La maintenance de votre outillage industriel impacte la qualité de votre production. Assurez le suivi de vos opérations de maintenance grâce à une GMAO.,4
+Adapter sa GMAO à la maintenance d'actifs immobiliers,adapter-gmao-maintenance-dactifs-immobiliers,"<p dir=""ltr"">La gestion de la maintenance et les logiciels de GMAO sont souvent associés à la gestion de machines et d’équipements industriels. Il est cependant nécessaire de prendre en compte la <strong>gestion du patrimoine immobilier et des bâtiments</strong>, qui sont également sujets à la détérioration. Cette catégorie regroupe les biens associés aux structures immobilières (les luminaires, la toiture, les RIA, etc.), ainsi que les contrats de maintenance relatifs aux bâtiments, par exemple la maintenance des portes automatiques.</p>
+<h2 dir=""ltr"">Une GMAO polyvalente</h2>
+<p dir=""ltr"">L’objectif du logiciel de GMAO Mobility Work est de permettre de gérer la maintenance de <strong>tous types de biens et actifs industriels</strong>, du parc machines aux structures immobilières, en un seul système commun, accessible à tous les services de l’entreprise. Dans ce tutoriel, découvrez comment réaliser la maintenance de votre patrimoine immobilier et de vos bâtiments.</p>
+<p dir=""ltr""></p>
+<h3 dir=""ltr"">Comment ajouter mon patrimoine immobilier dans ma GMAO ?</h3>
+<p dir=""ltr"">Vous pouvez facilement ajouter vos actifs immobiliers dans notre plateforme de gestion de maintenance. Pour cela, il vous suffit de cliquer sur « <a title=""Parc machine : créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">créer un nouvel équipement</a> » et de saisir les informations suivantes :</p>
+<ul dir=""ltr"">
+	<li>Nom</li>
+	<li>Description</li>
+	<li>Centre de coûts (découpage financier ou géographique)</li>
+	<li>Image</li>
+	<li>Labels, permettant de grouper des équipements par catégorie.</li>
+</ul>
+<p dir=""ltr"">Voici un exemple d’équipement :</p>
+<ul dir=""ltr"">
+	<li>Nom : Porte Entrée n°12 – Bâtiment Atelier de finition</li>
+	<li>Description : Numero de serie 6126900 – Sous contrat de maintenance avec la société X</li>
+	<li>Centre de coûts : Atelier finition</li>
+	<li>Image : Photographie de la porte</li>
+	<li>Tags : Porte Automatique – Contrat de maintenance</li>
+</ul>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Vous pouvez également <strong>lier les différents éléments des bâtiments</strong> entre eux. Vous trouverez ci-dessous un exemple de découpage d’un bâtiment par une entreprise gérant sa maintenance avec la GMAO Mobility Work :</p>
+<p dir=""ltr"">Bâtiment - Moulage GP 1</p>
+<ul dir=""ltr"">
+	<li>RIA - Bâtiment - Moulage GP 1</li>
+	<li>Porte souple à enroulement - Bâtiment - Moulage GP1</li>
+	<li>Réseau eau - Bâtiment - Moulage GP1</li>
+	<li>Ventilation - Bâtiment - Moulage GP1</li>
+	<li>Chauffage - Bâtiment - Moulage GP1</li>
+	<li>Réseau de gaz - Bâtiment - Moulage GP1</li>
+	<li>Luminaire - Bâtiment - Moulage GP1</li>
+	<li>Réseau électrique - Bâtiment - Moulage GP1</li>
+	<li>Air comprimé - Bâtiment - Moulage GP1</li>
+	<li>Voirie - Bâtiment - Moulage GP1</li>
+	<li>Bardage - Bâtiment - Moulage GP1</li>
+	<li>Ossature - Bâtiment - Moulage GP1</li>
+	<li>Toit - Bâtiment - Moulage GP1</li>
+	<li>Sol - Bâtiment - Moulage GP1</li>
+	<li>Baie informatique switchs - Moulage GP1</li>
+	<li>Coffret électrique puissance prises D2 - Moulage GP1</li>
+	<li>Pointeuse atelier - Moulage GP1</li>
+	<li>TDBT - Tableau de distribution électrique basse tension local électrique - Moulage GP1</li>
+</ul>
+<h2 dir=""ltr"">Maintenir ses actifs avec la GMAO Mobility Work</h2>
+<p dir=""ltr"">Une fois vos bâtiments créés et tout votre patrimoine immobilier recensé, vos équipes pourront émettre des demandes depuis leur GMAO. Celles-ci pourront par exemple être redirigées vers le gestionnaire technique ou le responsable maintenance, qui sera notifié via l’application ou par e-mail de la création d’une nouvelle demande.</p>
+<p dir=""ltr"">Celui-ci pourra décider de ne pas la réaliser et de l’archiver (les demandeurs en seront informés automatiquement), ou bien de l’attribuer à un technicien de maintenance interne ou à un prestataire de service.</p>
+<p dir=""ltr"">L’intégration de <a href=""https://mobility-work.com/fr/support/comment-integrer-nfc-qr-code-gmao"">QR codes ou de puces NFC</a> permettra à n’importe quel utilisateur de retrouver automatiquement l’équipement depuis son smartphone en quelques secondes.</p>
+<h3 dir=""ltr"">Intégrez de la documentation technique</h3>
+<p dir=""ltr"">La GMAO Mobility Work vous permet également d’intégrer l’ensemble des <a href=""https://mobility-work.com/fr/support/gmao-ajouter-un-document-votre-intervention"">documentations</a> de vos bâtiments (plans, schémas électriques, documentation technique, etc.) sur la fiche de votre équipement, et de centraliser ainsi l’accès à votre documentation.</p>
+<p dir=""ltr"">Vous pouvez aussi intégrer sur vos interventions tous les devis ou comptes rendus de prestation au format PDF. Ainsi, grâce à la<strong> fonction recherche</strong> de votre GMAO, vous pourrez en quelques secondes retrouver le document que vous cherchez.</p>
+<h3 dir=""ltr"">Gérez vos plans de maintenance réglementaires</h3>
+<p dir=""ltr"">Créez en quelques secondes vos <strong>plans de maintenance réglementaires</strong> (contrôles des RIA) de manière calendaire, depuis une <a title=""GMAO : Comment créer et gérer ses compteurs"" href=""https://mobility-work.com/fr/support/compteur-machine-suivi"">valeur de compteur</a>. Ainsi vous pourrez suivre toute la<strong> maintenance préventive</strong> de vos bâtiments et de l'ensemble de votre patrimoine immobilier et être notifié en cas de retard d’une intervention planifiée.</p>
+<h3 dir=""ltr"">Recherchez et notez vos prestataires externes</h3>
+<p dir=""ltr"">Vous pouvez à tout moment <a title=""Gérer ses prestataires de service depuis sa GMAO"" href=""https://mobility-work.com/fr/support/prestataire-service-gestion"">ajouter vos prestataires de maintenance</a> et leur attribuer des interventions. Ceux-ci n’auront accès qu’à ce à quoi vous les avez autorisés. Une fois l’intervention réalisée, vous pourrez leur attribuer une note selon plusieurs critères : coûts, sécurité, qualité et respect des délais. À tout moment, vous pourrez visualiser le bilan de chacun de vos prestataires et les comparer entre eux.</p>
+<p dir=""ltr"">Notre <strong>plateforme de gestion de maintenance communautaire </strong>vous permet à tout moment d’accéder à une liste de prestataires employés par d’autres entreprises. Ainsi, vous pouvez à tout moment visualiser l’ensemble des prestataires qui interviennent sur des portes automatiques dans le secteur géographique que vous aurez spécifié.</p>
+<h2 dir=""ltr"">Analysez les données de votre patrimoine immobilier</h2>
+<p dir=""ltr"">Utilisez l’<strong>outil d’analyse</strong> de votre GMAO pour tracer et analyser à tout moment l’ensemble des interventions sur vos bâtiments. Celui-ci vous permettra d’obtenir des <a title=""Analyser ses indicateurs maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/indicateurs-maintenance-analytique""><strong>indicateurs dynamiques</strong></a> et de prendre la meilleure décision.</p>
+<p dir=""ltr"">La GMAO Mobility Work vous permet de gérer un grand nombre d’équipements, et ce quel que soit votre secteur d’industrie. Flexible, mobile et facile d’utilisation, c'est l’outil idéal pour réaliser une transition facile et réussie vers la maintenance digitale.</p>",,2018-02-21,https://mobility-work.com/wp-content/uploads/2018/02/Adapter-sa-GMAO-a-la-maintenance-dactifs-immobiliers.png,Adapter sa GMAO à la maintenance d’actifs immobiliers,Vincent Gauchevertu,Adapter sa GMAO à la maintenance d'actifs immobiliers,La GMAO Mobility Work permet de gérer la maintenance de ses actifs industriels et immobiliers et avec un seul et même système.,4
+Dupliquer une fiche produit depuis le catalogue officiel de la GMAO,dupliquer-catalogue-officiel,"<p dir=""ltr"">La mise en place d’une solution de <strong>GMAO </strong>peut être un processus chronophage et compliqué, en particulier en ce qui concerne la création des fiches des équipements de l’usine et du<strong> catalogue officiel</strong>. L’utilisateur est souvent confronté à des écrans peu attractifs, doit remplir de nombreux champs et fournir des informations techniques et administratives dont il n’est pas toujours en possession. Dupliquer les fiches produits officielles de vos fournisseurs vous fera gagner un temps précieux.</p>
+<h2 dir=""ltr"">Pourquoi le catalogue officiel</h2>
+<p dir=""ltr"">Mobility Work met à profit toutes les possibilités offertes par la technologie afin de vous accompagner dans le déploiement de votre GMAO. Nous avons ainsi décidé de simplifier le processus de saisie des données, en particulier la création d’équipements et de tâches, afin de déverrouiller la chaîne de l’information et de mener des études et <a title=""ANALYSER SES INDICATEURS MAINTENANCE DANS SA GMAO"" href=""https://mobility-work.com/fr/support/indicateurs-maintenance-analytique"">analyses à forte valeur ajoutée</a>.</p>
+<p dir=""ltr"">Pourquoi perdre du temps à rechercher et à saisir des informations concernant un équipement ou une pièce détachée si cela a déjà été fait par quelqu’un d’autre ? Il suffit d'utiliser le <strong>catalogue d'équipements officiel</strong> pour dupliquer un produit en toute facilité.</p>
+<p><iframe src=""https://www.youtube.com/embed/jkEtAZmbi3Q"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<h2 dir=""ltr"">Quoi dupliquer exactement ?</h2>
+<p dir=""ltr""><a title=""Parc machines : comment créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">Avant de créer un équipement</a>, vous pouvez savoir si celui-ci existe déjà sur notre plateforme de gestion de maintenance communautaire. Pour cela, vous pouvez entrer certains mots-clés, comme par exemple le nom, la référence, le fabricant et la catégorie de l’équipement, dans la barre de recherche Mobility Work. Vous obtiendrez ainsi plusieurs types de résultats :</p>
+<ul dir=""ltr"">
+	<li>si l’équipement a déjà été créé par un membre de votre réseau, celui-ci apparaîtra dans les « résultats de votre réseau » ;</li>
+	<li>si l’équipement a déjà été créé et rendu public par un autre utilisateur de la communauté Mobility Work, celui-ci apparaîtra dans les « résultats de la communauté » ;</li>
+	<li>si l’équipement est issu du catalogue du fabricant ou du fournisseur, celui-ci apparaîtra dans l’encadré à droite de l’écran, dans le « catalogue officiel ».</li>
+</ul>
+<p dir=""ltr"">Mobility Work est une plateforme de gestion de maintenance ouverte aux <a title=""Découvrir Mobility Work Hub"" href=""https://mobility-work.com/fr/hub"">fournisseurs de consommables et d’équipements</a>, qui leur permet de mettre en ligne leur profil entreprise et d’ajouter leur catalogue de produits au Catalogue Officiel de Mobility Work.</p>
+<p dir=""ltr"">La plateforme est ouverte à tous les <strong>fabricants de machines</strong>, pièces détachées et consommables, ainsi qu’aux <strong>prestataires de services.</strong> En effet, de nombreux techniciens issus de diverses industries ont recours aux mêmes outils et font face aux mêmes difficultés. Nous croyons au pouvoir de la communauté, au travail collaboratif et au partage d’expériences. Dans la communauté figurent tous types de produits : lubrifiants - huiles ou sprays, systèmes d’air conditionné, systèmes de roulement, pinces robot…</p>
+<p><em>Gagnez du temps pour des tâches plus importantes et intéressantes en dupliquant des produits à partir du catalogue officiel Mobility Work.</em></p>
+<p></p>
+<h2 dir=""ltr"">Comment dupliquer un produit officiel pour l’ajouter à mon réseau ?</h2>
+<p dir=""ltr"">Une fois votre équipement trouvé dans le catalogue officiel d'équipements, cliquez sur son nom ou sa photo pour visualiser les informations détaillées (nom, marque, référence, image, description, documents, dernières notations et commentaires ajoutés par la communauté). Le lien « accéder au profil du fournisseur » vous permettra d’accéder directement au profil officiel du fournisseur.</p>
+<p dir=""ltr"">Cliquez sur « dupliquer l’équipement » depuis la recherche ou sur la fiche du produit afin de dupliquer l’équipement et l’ajouter à votre réseau. Toutes les informations seront automatiquement copiées à partir de la <strong>fiche produit officielle</strong>. Vous aurez ensuite la possibilité de la modifier, d’en faire une pièce de rechange ou de la lier à un autre équipement.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Une fois la duplication terminée et l'équipement ajouté à votre propre réseau, vous pourrez en commencer la maintenance dans votre <strong>GMAO nouvelle génération</strong>. Vous pourrez ainsi y attacher des plans de maintenance (correctifs, <a title=""GMAO et maintenance préventive"" href=""https://mobility-work.com/fr/support/plan-maintenance-preventive-logiciel-gmao"">préventifs</a>, prévisionnels, régulatoires, etc.), y ajouter des tâches et des activités ou informer toute l’entreprise de toute nouvelle opération de maintenance sur cet équipement.</p>
+<p dir=""ltr"">En dupliquant un produit officiel, gagnez du temps et assurez la quantité et la qualité des informations contenues dans votre logiciel de GMAO. Il s’agit d’une première étape fondamentale vers la maintenance intelligente et l’industrie 4.0. La seconde étape inclut le data crunching et une analyse puissante de ces données.</p>
+<h2 dir=""ltr"">Pourquoi dupliquer un produit officiel à partir du catalogue officiel Mobility Work ?</h2>
+<p dir=""ltr"">Mobility Work est la première GMAO permettant aux utilisateurs de <strong>dupliquer des équipements publics ou des produits officiels </strong>à partir d’une communauté d’utilisateurs. Cette fonctionnalité est en parfaite adéquation avec les missions de Mobility Work : <strong>faciliter la vie des techniciens de maintenance</strong> et déverrouiller la chaîne de l’information dans les usines industrielles.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">D’une part, la duplication de produits officiels permet aux techniciens de <strong>créer un équipement en un clic</strong>. Grâce à cette simplicité et à cette rapidité, Mobility Work simplifie la saisie et la collecte de données dans la GMAO. Mobility Work permet aux utilisateurs de dupliquer des produits officiels au lieu de créer des équipements et de remplir les informations eux-mêmes, et encourage la création de fiches pour chaque équipement, pièce détachée ou consommable dans l’usine. Ainsi, les utilisateurs disposent de plus d’informations (pour chaque équipement, et pour plus d’équipements) dans la GMAO, et de <strong>plus de données à analyser</strong>.</p>
+<p dir=""ltr"">De plus, la duplication d’un produit officiel permet d’<strong>éviter les erreurs ou les imprécisions</strong>. Toutes les informations officielles (nom, marque, référence, images, description, documents et plans de maintenance) fournies par le fournisseur seront automatiquement reportées sur l’équipement créé.</p>
+<p dir=""ltr"">D’autre part, la duplication d’équipements officiels permet de générer des données extrêmement utiles pour la communauté. En dupliquant des produits officiels, vous acceptez que la fiche de l’équipement que vous venez de créer <a title=""Garantir la confidentialité de votre GMAO"" href=""https://mobility-work.com/fr/support/confidentialite-gmao-saas"">apparaisse en public</a>. Celui-ci sera visible par tous les membres de la communauté Mobility Work. Ainsi, vous contribuez à enrichir la base de données de la communauté, vous permettez aux utilisateurs de dupliquer vos propres équipements et de générer plus de données et d’<strong>informations à partager </strong>avec d’autres utilisateurs.</p>
+<p dir=""ltr"">Plus la communauté et le nombre de données augmentent, plus la plateforme apporte de la valeur à chacun de ses membres. L’extraction et l’analyse d’informations de maintenance précises concernant un grand nombre d’équipements, au sein d’un grand nombre d’usines issues de tous types d’industries, sont particulièrement pertinentes dans le cadre de la mise en place d’une vraie <strong><a title=""Maintenance prédictive : comment la mettre en place ?"" href=""https://mobility-work.com/fr/blog/deployer-maintenance-predictive"">stratégie de maintenance prévisionnelle</a>.</strong></p>
+<p dir=""ltr"">Notre objectif est d’obtenir de meilleurs équipements et services, ainsi qu’une meilleure maintenance dans les usines pour plus de productivité. Pour en savoir plus sur les opportunités permises par Mobility Work, n’hésitez pas à visiter notre page <a href=""https://mobility-work.com/fr/logiciel-gmao"">fonctionnalités</a>.</p>",Dupliquez les fiches produits officielles de vos fournisseurs depuis votre GMAO et optimisez ainsi le temps de vos équipes de maintenance.,2018-02-13,https://mobility-work.com/wp-content/uploads/2018/02/Dupliquer-une-fiche-produit-depuis-le-catalogue-officiel-de-la-GMAO.png,Dupliquer une fiche produit depuis le catalogue officiel de la GMAO,Morgane Guinot,Dupliquer une fiche produit depuis le catalogue officiel de la GMAO,Dupliquez les fiches produits officielles de vos fournisseurs depuis votre GMAO et optimisez ainsi le temps de vos équipes de maintenance.,6
+Utiliser les QR code pour la maintenance dans votre logiciel de GMAO mobile,qr-code-gestion-actifs-stocks,"<p dir=""ltr"">De plus en plus de nouvelles technologies sont présentes dans notre quotidien, des QR codes sur les produits alimentaires que nous consommons aux puces NFC présentes dans les antivols des habits que nous achetons. Tous ces éléments peuvent être utiles à la gestion de la maintenance et intégrés à la GMAO de votre usine.</p>
+<p dir=""ltr""></p>
+<h2>Comment utiliser les QR code pour la maintenance avec votre GMAO ?</h2>
+<p dir=""ltr"">La version mobile de la GMAO Mobility Work permet de scanner ces éléments et de déclencher automatiquement des événements. En voici quelques exemples :</p>
+<ul>
+	<li><strong>Déclenchement automatique d’interventions de maintenance</strong> : le scan de la puce NFC ou du QR code renvoie vers l’écran de création d’un ordre de travail, qui comporte par défaut l’équipement pré-renseigné, l’intervenant et la date d’intervention.</li>
+	<li><strong>Identification rapide de votre équipement </strong>: le scan de la puce est configuré pour permettre d’ouvrir la<a href=""https://mobility-work.com/fr/support/gmao-comment-creer-vos-equipements""> fiche équipement</a>. Cette opération permet de faciliter le travail des nouveaux techniciens ou des techniciens intérimaires, qui n’ont connaissance d’aucune information concernant l’équipement.</li>
+	<li><strong>Identification de votre pièce de rechange</strong> : cela permet au technicien de maintenance de voir rapidement la quantité de stock, l’emplacement dans le magasin, ainsi que les différents équipements sur lesquels <a title=""Gérer ses pièces détachées dans sa GMAO"" href=""https://mobility-work.com/fr/support/gerer-pieces-detachees-gmao"">la pièce de rechange</a> a pu être utilisée auparavant.</li>
+</ul>
+<p></p>
+<ul>
+	<li><strong>Accès à l’historique sur un équipement </strong>: le scan de la puce NFC ou la lecture du QR Code va permettre au technicien de maintenance d’accéder directement à l’historique d’intervention de son équipement. Grâce à la fonction recherche, Mobility Work lui offre également la possibilité de rechercher un historique de panne précis associé à la machine sur laquelle il doit intervenir.</li>
+	<li><strong>Accès à une gamme d’opérations ou à une documentation technique </strong>: le scan de la puce NFC ou la lecture du QR code permet au technicien d’accéder rapidement à une <a href=""https://mobility-work.com/fr/support/gmao-comment-planifier-vos-interventions-de-maintenance"">gamme de maintenance concernant une opération</a>, ou à une documentation technique indiquant la procédure à suivre pour réaliser une opération de maintenance.</li>
+</ul>
+<p><em>Ouvrez votre fiche équipement en scannant le QR code associé à l'aide de votre GMAO</em></p>
+<p dir=""ltr"">Afin d’utiliser ces technologies, il vous suffit de sélectionner les options NFC ou QR code dans votre GMAO mobile Mobility Work. Pour activer le QR code, vous n'avez qu'à l’imprimer et le coller directement sur votre équipement. En ce qui concerne les puces NFC, il vous suffit de coller la puce à votre téléphone au moment du paramétrage, puis de la coller sur votre équipement.§</p>
+<p dir=""ltr"">Ces technologies ont pour objectif de faciliter la saisie des opérations de maintenance et la consultation de diverses informations, en utilisant des fonctions dont disposent la plupart des smartphones. Il convient également de signaler que ces technologies sont très abordables, et peuvent ainsi être déployées rapidement sur de nombreux équipements sans entrainer de coûts importants.</p>
+<p dir=""ltr"">Enfin, pour faire votre choix entre QR codes et puces NFC, nous vous recommandons d'<strong>étudier l’environnement au sein duquel vos équipes de maintenance interviennent</strong>. S’il s’agit de milieux salissants et poussiéreux, nous vous conseillons de privilégier les puces NFC. Autrement, nous vous conseillons d’opter pour le QR code, pour sa simplicité d’utilisation et son faible coût.</p>
+<p dir=""ltr""></p>",Utiliser les QR codes pour optimiser la maintenance des équipements et la gestion des pièces de rechange grâce à la GMAO mobile. ,2020-09-30,https://mobility-work.com/wp-content/uploads/2021/04/qr-code-fr-min.png,Un qr code sur smartphone utilisé pour la maintenance,Vincent Gauchevertu,Utilisez les QR code pour la maintenance dans votre GMAO mobile,Utilisez les QR codes pour optimiser la maintenance des équipements et la gestion des pièces de rechange grâce à la GMAO mobile.,3
+Gérer ses pièces de rechange de maintenance dans une GMAO au lieu d'Excel,gerer-pieces-detachees-gmao,"<p dir=""ltr"">La gestion des stocks et du magasin de vos <strong>pièces détachées</strong> est souvent associée au service maintenance ainsi qu’aux performances de l’entreprise. Il s’agit d’un <strong>point stratégique dans la gestion des opérations de maintenance</strong> quotidiennes, ainsi que dans la planification des travaux préventifs à venir. La mauvaise gestion des pièces détachées peut se traduire par une perte de productivité des équipes de maintenance. En cause, la difficulté à localiser les pièces nécessaires ou les éventuelles ruptures de stocks. Un logiciel de GMAO performant permet d'assurer une meilleure gestion des pièces de rechange de maintenance qu'Excel. </p>
+<p dir=""ltr""></p>
+<h2>Gérer ses pièces de rechange de maintenance dans sa GMAO</h2>
+<p dir=""ltr"">Traditionnellement, les stocks de pièces détachées sont gérés à l'aide d'un ERP où sont notamment tracées les quantités et les commandes. Néanmoins, les opérateurs de terrain n'ont pas toujours accès à ce logiciel. Il n'est donc pas rare que des informations se perdent au fil des activités quotidiennes et que l'ERP ne soit pas tout à fait à jour. Pour pallier ce problème, il est donc possible de <strong>suivre les flux de pièces détachées directement dans sa GMAO</strong>.</p>
+<h3>Comment ajouter des pièces détachées dans la GMAO Mobility Work ?</h3>
+<p dir=""ltr"">La plateforme de gestion de maintenance Mobility Work <a title=""Adapter sa GMAO à la maintenance d'actifs immobiliers"" href=""https://mobility-work.com/fr/support/adapter-gmao-maintenance-dactifs-immobiliers"">s'adapte facilement à tous vos besoins de maintenance</a>. Son interface intuitive nous a permis de simplifier l'arborescence machine pour une meilleure utilisation sur le terrain. Ainsi, pour ajouter vos pièces détachées, plusieurs solutions s'offrent à vous :</p>
+<ul>
+	<li>importer vos données <a title=""Importer gratuitement ses données de maintenance dans sa GMAO"" href=""https://mobility-work.com/fr/support/importer-gratuitement-donnees-gmao"">depuis un fichier Excel</a> ;</li>
+	<li>dupliquer une pièce détachée existante depuis la communauté ;</li>
+	<li>créer manuellement vos pièces détachées.</li>
+</ul>
+<p></p>
+<p dir=""ltr"">La création de pièces de rechange suit la même logique que la création d'équipement. Depuis l'écran d'accueil ou l'onglet <strong>Equipements</strong> de votre GMAO, cliquez sur <strong>Créer un équipement</strong>. Dans la fenêtre de création d'équipement, remplissez l'ensemble des champs principaux (nom, description, centre de coût, labels...), puis cochez <strong>""Ceci est une pièce de rechange""</strong>. Votre équipement se transforme alors en pièce détachée.</p>
+<p dir=""ltr""><strong>À lire aussi : <a title=""Parc machine : créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">comment créer ses fiches équipement</a></strong></p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Il ne vous reste plus qu'à remplir les champs spécifiques :</p>
+<ul>
+	<li>l'emplacement, correspondant à l'emplacement physique de la pièce de rechange ;</li>
+	<li>le prix unitaire, qui correspond au prix de la pièce de rechange ;</li>
+	<li>la devise (euro, dollar, livre, etc.) est une information facultative que vous pouvez ajouter ;</li>
+	<li>le stock, qui correspond au stock actuel de la pièce de rechange ;</li>
+	<li>le stock minimum (facultatif), correspondant au stock minimum requis pour cette pièce de rechange ;</li>
+	<li>le stock maximum (facultatif) correspondant au montant maximal que vous pouvez avoir en stock et que vous ne souhaitez pas dépasser ;</li>
+	<li>le code d'article (facultatif) ;</li>
+	<li>le lot de réapprovisionnement (facultatif), qui correspond à la quantité minimum de réapprovisionnement requise pour cette pièce de rechange.</li>
+</ul>
+<h2>Comment suivre les flux de pièces de rechange dans la GMAO Mobility Work ?</h2>
+<p dir=""ltr"">Au cours d’une opération de maintenance, le technicien devra sortir des pièces détachées nécessaires à son intervention. Grâce à notre plateforme de gestion de maintenance, cette opération peut désormais être suivie en temps réel. Il lui suffit de rechercher la pièce détachée en question, puis de cliquer sur <strong>""Modifier le stock""</strong> ou <strong>""Réapprovisionner""</strong> pour soustraire ou ajouter des pièces détachées au stock total. La fiche de la pièce de rechange est automatiquement mise à jour et disponible pour l'ensemble des opérateurs autorisés.</p>
+<p dir=""ltr"">&lt;p dir=""ltr""&gt;&lt;a title=""Labels : personnalisez vos données de GMAO"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao""&gt;L'utilisation de labels&lt;/a&gt; et la fonction recherche de votre GMAO vous permettent de réaliser un suivi approfondi de votre consommation de pièces détachées. Par ailleurs, l'outil analytique intégré à Mobility Work vous donne une vision globale de la gestion de vos stocks grâce à des indicateurs de maintenance dynamiques.&lt;/p&gt;</p>
+<p dir=""ltr""><a title=""Labels : personnalisez vos données de GMAO"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">L'utilisation de labels</a> et la fonction recherche de votre GMAO vous permettent de réaliser un suivi approfondi de votre consommation de pièces détachées. Par ailleurs, l'outil analytique intégré à Mobility Work vous donne une vision globale de la gestion de vos stocks grâce à des indicateurs de maintenance dynamiques.</p>
+<p></p>
+<p dir=""ltr"">La gestion des pièces de rechange de maintenance dans Excel peut être remplacée par une gestion dans une GMAO comme Mobility Work, plus facile à utiliser par tous les services.</p>
+<p dir=""ltr""></p>",Comment gérer facilement vos stocks de pièces détachées grâce à la GMAO pour garantir le bon déroulement des opérations de maintenance. ,2017-10-04,https://mobility-work.com/wp-content/uploads/2017/10/Gerer-ses-pieces-de-rechange-de-maintenance-dans-une-GMAO.png,Gérer ses pièces de rechange de maintenance dans une GMAO,Vincent Gauchevertu,Gestion des pièces de rechange de maintenance : Excel ou GMAO,Comment gérer facilement vos stocks de pièces détachées grâce à la GMAO pour garantir le bon déroulement des opérations de maintenance ?,4
+Comment contacter le support client de son logiciel de GMAO,logiciel-gmao-support-ligne,"<p dir=""ltr"">Les applications de <strong>GMAO</strong> sont un outil de travail essentiel pour les techniciens de maintenance. Lorsque survient un problème, celui-ci doit être résolu au plus vite afin de limiter l'impact sur les activités de maintenance. Aussi, les équipes de maintenance doivent être en mesure de contacter le <strong>support client</strong> en quelques clics. Par ailleurs, leurs interlocuteurs doivent être au fait des spécificités de leur métier afin de les assister au mieux.</p>
+<h2 dir=""ltr"">Une question sur votre GMAO ? notre équipe à votre écoute</h2>
+<p dir=""ltr"">Il n’est pas toujours aisé pour les techniciens de maintenance de remonter un problème, discuter d’une amélioration ou solliciter une formation pour s’améliorer. Il s’agit d’une véritable <strong>perte de valeur</strong> car les professionnels de terrain sont les premiers à avoir besoin de connaître au mieux l’application qu’ils utilisent quotidiennement.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">C‘est pour remédier à cette situation et recueillir un maximum de retours de la part de nos utilisateurs que nous avons intégré un module de support client. Notre équipe est disponible à n'importe quel moment de la journée pour vous accompagner au mieux. Toujours plus proches de nos utilisateurs, notre support est disponible en plusieurs langues : français, anglais, italien, espagnol...</p>
+<p dir=""ltr"">Vous pouvez poser une <strong>question sur l’application </strong>ou <strong>demander conseil </strong>sur l’utilisation de certaines fonctionnalités de votre GMAO Mobility Work. Pour cela, il vous suffit de cliquer sur la bulle de messagerie et d’envoyer votre message. L’information est alors immédiatement transmise à notre équipe de support qui entre rapidement en contact avec vous et répondra à vos différentes questions.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Vous pouvez transmettre des captures d'écrans, ou encore des fichiers si vous souhaitez <a title=""Importer gratuitement ses données dans sa GMAO"" href=""https://mobility-work.com/fr/support/importer-gratuitement-donnees-gmao"">importer des données</a> dans le logiciel de GMAO Mobility Work. Nos équipes pourront à tout moment vous guider pour vous aider au mieux à améliorer la <strong>gestion de votre maintenance</strong>.</p>
+<p dir=""ltr"">Aucune question ne doit rester sans réponse. Cette solution nous a permis de capter au mieux les problématiques des techniciens et ainsi proposer rapidement des améliorations de notre logiciel de maintenance pour optimiser la gestion de leur maintenance.</p>
+<p><iframe src=""https://www.youtube.com/embed/-2EkQnjHcXg"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p dir=""ltr"">La fonctionnalité de support est entièrement comprise dans votre abonnement à la GMAO Mobility Work, sans coût supplémentaire. Nos équipes tâcheront de vous répondre dans les meilleurs délais.</p>",Une question sur votre GMAO ? L'équipe de support client de Mobility Work est disponible en plusieurs langues depuis la bulle de conversation dédiée.,2017-09-27,https://mobility-work.com/wp-content/uploads/2017/09/contacter-le-support-client-de-son-logiciel-de-GMAO.png,,Vincent Gauchevertu,Comment contacter le support client de son logiciel de GMAO,Une question sur la GMAO ? L'équipe de support de Mobility Work est disponible en plusieurs langues depuis la bulle de conversation dédiée.,2
+Gérer ses plans de maintenance préventive dans son logiciel de GMAO,plan-maintenance-preventive-gmao,"<p><strong>L'utilisation d'un logiciel de maintenance préventive est fortement recommandée pour mettre en place des plans de maintenance</strong>. Même si tous les équipements ne nécessitent pas la mise en place d'une <strong>stratégie de <a href=""https://mobility-work.com/fr/blog/maintenance-preventive/"">maintenance préventive</a></strong>, car les coûts de maintenance préventive peuvent être plus élevés que ceux liés à la maintenance corrective, un plan de maintenance est nécessaire pour tout actif ayant un impact critique sur les activités votre entreprise. La GMAO Mobility Work vous accompagne dans cette démarche.</p>
+<p></p>
+<h2>Faire le choix de la maintenance préventive</h2>
+<p><span>Les fonctionnalités qui justifient la mise en place d’une GMAO sont souvent la <strong>planification d'un plan de maintenance </strong></span><strong>préventive</strong> <span>et l’<strong>optimisation de la gestion des interventions</strong>. Le but est de pouvoir suivre en temps réel grâce son logiciel de GMAO chaque intervention prévue à intervalles fixes ou variables, et de s’assurer de la bonne réalisation de celle-ci.</span></p>
+<p><span>L</span><span>a planification de vos <strong>opérations de maintenance préventive</strong> constitue la base de tout service maintenance, et devient presque obligatoire, que cela concerne la sécurité ou le réglementaire. Elle permet tout simplement d’assurer le bon fonctionnement de vos machines. Les <a title=""GMAO : planifier ses opérations de maintenance"" href=""https://mobility-work.com/fr/blog/plans-de-maintenance-etapes/"">plans de maintenance</a> sont les garants du bon suivi des opérations de maintenance et de la traçabilité de chaque opération. Ceux-ci font d’ailleurs souvent l’objet de questions lors des audits clients ou internes.</span></p>
+<p></p>
+<p><span>Il existe plusieurs moyens de planifier des opérations de maintenance préventive dans votre logiciel. Il est possible de prévoir une intervention depuis un plan de maintenance calendaire, selon une valeur de compteur mesurée, mais aussi de créer des ordres de travaux à partir d'une valeur extérieure au système ou d'un capteur connecté. La programmation des plans de maintenance représente généralement une étape compliquée dans les logiciels classiques de GMAO. L’idée de la <strong>plateforme de gestion de maintenance communautaire Mobility Work</strong> est de se rapprocher des outils de la vie quotidienne. C'est pourquoi nous avons simplifié l’interface utilisateur de création de plans de maintenance, de manière à faciliter son utilisation tout en conservant son efficacité. </span> </p>
+<p><span><em>Créer facilement un plan de maintenance préventive dans le logiciel Mobility Work</em></span></p>
+<h2>Créer un plan de maintenance préventive dans un logiciel de GMAO</h2>
+<p><span>Pour créer un plan de maintenance calendaire, vous devez :</span></p>
+<ul>
+	<li><span>Sélectionner le<strong> type d’événement</strong> que vous souhaitez créer (hebdomadaire, mensuel, annuel).</span></li>
+	<li><span>Choisir la <strong>périodicité</strong> (tous les 5 mois, toutes les 3 semaines)</span></li>
+	<li><span>Choisir également le <strong>nombre de répétitions</strong>.</span></li>
+	<li><span>Sélectionner un ou plusieurs <strong>équipements</strong> qui seront sujets à cette planification. Vous pouvez par exemple créer un plan de maintenance sur tous les ponts roulants de votre réseau.</span></li>
+	<li><span>Sélectionner les <strong>techniciens</strong> qui devront effectuer les opérations de maintenance. Il vous est possible de sélectionner un groupe d’utilisateurs et, par exemple, de planifier une opération de maintenance préventive de graissage tous les mois sur un granulateur à destination de l’ensemble de l'équipe mécanique. Chacun des techniciens sera notifié de l’avancement des opérations sur lesquelles il doit intervenir.</span></li>
+	<li><span>Ajouter des <strong>mots-clés</strong>, de manière à optimiser l’<strong>analyse de vos plans de maintenance,</strong> et fournir davantage d’information à l’ensemble des utilisateurs de votre GMAO. On peut retrouver des mots-clés tels que : préventif, mécanique, électrique, arrêt de production, sécurité, environnement, etc.</span></li>
+	<li><span>Déterminer <strong>l'échéance</strong>, en sélectionnant une date de fin ou un nombre d’occurrences. Vous pouvez à tout moment décaler une opération de maintenance.</span></li>
+	<li><span>Déterminer le<strong> temps d’arrêt prévu</strong> de la machine. Cette information est souvent fournie par la production.</span></li>
+	<li><span>Déterminer le <strong>temps prévu d’intervention</strong>. Ce temps permettra aux responsables de production d’être avertis de la durée potentielle de l’intervention de maintenance planifiée.</span></li>
+	<li><span>Ajouter de la <strong>documentation</strong> qui sera présente sur chacune des opérations, telles que des gammes de maintenance, des checklists, des listes de pièces détachées, etc. Le nombre de fichiers n’est pas limité, et de nombreux formats sont autorisés (Excel, XLS, CSV, Word, PDF, etc.).</span></li>
+</ul>
+<p><span>Enfin, il vous suffit de visualiser votre calendrier avant de d'enregistrer votre saisie.</span></p>
+<h2>Gérer ses plans de maintenance</h2>
+<p><span>L'onglet <strong>Plans de maintenance</strong> vous permet de visualiser :</span></p>
+<ul>
+	<li><span>la liste de vos plans de maintenance programmés dans votre GMAO ;</span></li>
+	<li><span>leur état d’avancement (par exemple, 10 occurrences en cours sur 32) ;</span></li>
+	<li><span>la description de l’intervention, le nom de l’équipement, la photo de l’équipement, le nom de l’intervenant, les labels associés, et la date de début et de fin de chaque intervention ;</span></li>
+	<li><span>la visualisation sous forme de calendrier de chacune des occurrences prévues.</span></li>
+</ul>
+<p></p>
+<p><em>Consultez facilement vos plans de maintenance préventive dans votre logiciel de GMAO</em></p>
+<p><span>Vous pouvez également mettre en pause un plan de maintenance ou une sélection de plans de maintenance, et reprendre à tout moment leur lancement. Ceci peut s’avérer pratique si votre usine ferme pour une longue période et que vous souhaitez mettre en pause votre activité planifiée quotidienne. </span></p>
+<h3>Filtrer ses plans de maintenance</h3>
+<p><span>Vous pouvez également <strong>appliquer différents filtres pour trier la liste </strong>de vos plans de maintenance dans votre GMAO :</span></p>
+<ul>
+	<li><span>filtrer par mots-clés présents dans la description de l'intervention ;</span></li>
+	<li><span>filtrer par date de début et date de fin ;</span></li>
+	<li><span>filtrer les interventions par centre de coûts, qui correspond au découpage financier ou géographique de vos équipements ;</span></li>
+	<li><span>filtrer en fonction de l’état du plan de maintenance (en cours, en pause et terminé) ;</span></li>
+	<li><span>filtrer en fonction des labels (électrique, préventif, mécanique, réglementaire, etc.) associés au plan de maintenance ;</span></li>
+	<li><span>filtrer par utilisateur ou groupe d’utilisateurs assignés au plan de maintenance.</span></li>
+</ul>
+<p><span>Vous pouvez ensuite <strong>afficher</strong> <strong>l’ensemble des interventions associées</strong> à vos plans de maintenance via la recherche de la GMAO Mobility Work. Il vous est possible, par exemple :</span></p>
+<ul>
+	<li><span>d’afficher le <strong>temps d’intervention et le nombre d’interventions</strong> issues d’un ou plusieurs plans de maintenance ayant pour mots-clés « vérification moteur » ;</span></li>
+	<li><span>d’afficher une <strong>liste d’équipements</strong> ayant un plan de maintenance programmé ou non. Cette liste peut par la suite être extraite au format Excel, PDF, etc. ;</span></li>
+	<li><span>d’afficher la liste de tous les <strong>plans de maintenance </strong>en retard sur une ligne de production, etc.</span></li>
+</ul>
+<p></p>
+<h2>Analyser ses plans de maintenance</h2>
+<p><span>Enfin, le module d’analytics de la GMAO Mobility Work vous permettra d’optimiser l’analyse de vos plans de maintenance. En effet, la gestion de 1500 plans de maintenance constitue une première étape, mais il convient par la suite de les analyser de manière à en affiner la pertinence. C’est la raison pour laquelle nous vous proposons d’analyser le nombre d’interventions, ainsi que le retard moyen par plan de maintenance </span>préventive<span> ou par équipement.</span></p>
+<p></p>
+<p><span>Grâce aux catalogues des fabricants disponibles sur la plateforme de gestion de la maintenance Mobility Work, obtenez une liste d’équipements avec leur documentation, pièces de rechange et plans de maintenance </span>préventive<span>. Vous pouvez alors dupliquer vos équipements afin d’être au plus proche des recommandations officielles.</span></p>
+<p><span>Vous pouvez à tout moment solliciter nos équipes de support pour intégrer gratuitement vos plans de maintenance préventive dans le logiciel Mobility Work.</span></p>
+<p></p>",La maintenance préventive est un mode de gestion des interventions essentielles pour vos équipements critiques applicable grâce à la GMAO Mobility Work.,2019-08-29,https://mobility-work.com/wp-content/uploads/2019/08/Plans-de-maintenance.png,Gérer ses plans de maintenance préventive dans son logiciel de GMAO,Vincent Gauchevertu,Un logiciel GMAO au service de votre maintenance préventive,Découvrez comment mettre en place la maintenance préventive grâce à un logiciel de GMAO de nouvelle génération.,6
+Importer ses données dans sa GMAO,importer-donnees-gmao,"<p dir=""ltr"">Vous avez sauté le pas et décidé d'opter pour une <strong>GMAO nouvelle génération </strong>? L’achat d’un logiciel de maintenance constitue souvent une étape difficile. Vos équipes s'habitueront-elles à ce nouvel outil ? Risquerez vous de perdre l'ensemble des données collectées jusqu'ici ? Chez Mobility Work, nous vous accompagnons dans <strong>l'importation de vos données.</strong></p>
+<h2 dir=""ltr"">Importer ses données dans sa GMAO depuis un fichier Excel</h2>
+<p dir=""ltr"">Pour faciliter vos imports de données dans notre logiciel de maintenance, nous proposons à tous les utilisateurs de nous envoyer l’ensemble de leurs informations<strong> au format Excel</strong> (équipements, pièces de rechanges, historique de maintenance, plan de maintenance...) et de les <strong>intégrer </strong>dans l’application.</p>
+<p dir=""ltr""></p>
+<h2 dir=""ltr"">Récupérer nos trames d'import</h2>
+<p>Pour obtenir nos trames d'import, <a href=""https://mobility-work.com/fr/nous-contacter/"">merci de nous contacter</a>.</p>
+<p>La GMAO vous permet d'importer les informations suivantes : </p>
+<ul>
+	<li>Utilisateurs </li>
+	<li>labels </li>
+	<li>équipements</li>
+	<li>sous-équipements </li>
+	<li>pièces détachées </li>
+	<li>historiques de maintenance</li>
+</ul>
+<p>Ce fichier Excel est un document dédié uniquement à l’import de vos données dans votre GMAO, et non à la modification ou mise à jour de données déjà existantes. Notez également que le respect de la configuration de cette trame est primordial : en suivant les instructions à la lettre, l’import pourra être réalisé plus rapidement</p>
+<p>Une fois cet import réalisé, il vous sera également proposé par votre chargé de compte de procéder à l'import de vos plans de maintenance. </p>
+<h2>Données à fournir pour importer vos historiques</h2>
+<h3 dir=""ltr"">Import d'utilisateurs </h3>
+<ul>
+	<li>prénom</li>
+	<li>nom </li>
+	<li>type de profil</li>
+	<li>adresse email </li>
+</ul>
+<h3 dir=""ltr"">Import de labels</h3>
+<ul>
+	<li dir=""ltr"">liste des labels  </li>
+</ul>
+<h3 dir=""ltr"">Import d'équipements</h3>
+<ul dir=""ltr"">
+	<li>Nom de l’équipement</li>
+	<li>Description de l’équipement</li>
+	<li>Centre de coûts (découpage financier ou géographique de votre équipement)</li>
+	<li>Les noms des images associées à vos équipements (au format .zip)</li>
+	<li>Les labels ou mots-clés associés, essentiels à l'analyse de vos données</li>
+	<li>Les liens entre les équipements s’il s’agit d’un sous-ensemble ou d’un composant</li>
+</ul>
+<p>Il est également possible de lier un sous-équipement à un ou plusieurs équipements que vous venez d’importer.</p>
+<p>Les données nécessaires pour importer des équipements liés quasi identiques à celles des Équipements : la seule case qui diffère est la première, dédié à l'équipement maître ou aux équipements maîtres. </p>
+<p dir=""ltr""><a title=""Parc machine : créer ses fiches équipements"" href=""https://mobility-work.com/fr/support/gmao-comment-creer-vos-equipements"">En savoir plus sur la création de vos fiches équipements</a></p>
+<h3 dir=""ltr"">Import d'historiques de maintenance </h3>
+<p dir=""ltr"">Pour vos <strong>imports d’historiques de maintenance</strong>, les informations suivantes nous seront nécessaires :</p>
+<p dir=""ltr"">étape 1 : Informations relatives aux tâches (=ordres de travaux)</p>
+<ul dir=""ltr"">
+	<li>Nom de l’équipement</li>
+	<li>Date d’intervention</li>
+	<li>Description des interventions</li>
+	<li>Label(s) associé(s) (préventif, électrique, mécanique, etc.)</li>
+	<li>Nom des assignés à l'intervention</li>
+</ul>
+<p>étape 2 : Informations relatives aux activités réalisées sur les tâches</p>
+<ul>
+	<li>Description de l'activité</li>
+	<li>Date de l'activité</li>
+	<li>Durée de l'activité</li>
+	<li>Noms des assignés</li>
+</ul>
+<p></p>
+<h3 dir=""ltr"">Import de pièces de rechange</h3>
+<ul>
+	<li>Équipement maître</li>
+	<li>Nom de la pièce de rechange ou pièce détachée (modèle - marque - référence) </li>
+	<li>Description de la pièce de rechange</li>
+	<li>Centre de coûts de la pièce de rechange (découpage financier ou géographique)</li>
+	<li>Les noms des images associées à vos pièces détachées (images au format .zip)</li>
+	<li>Label(s) associé(s) (préventif, électrique, mécanique, etc.)</li>
+	<li>Emplacement de votre pièce de rechange dans votre magasin</li>
+	<li>Prix unitaire</li>
+	<li>Valeur en stock</li>
+	<li>Valeur du stock minimum</li>
+	<li>Valeur du stock maximum</li>
+</ul>
+<p dir=""ltr""><a title=""Gérer ses pièces de rechange"" href=""https://mobility-work.com/fr/support/comment-gerer-pieces-detachees-gmao"">En savoir plus sur la création de pièces de rechange</a></p>
+<p dir=""ltr"">Pour<strong> importer vos <a href=""https://mobility-work.com/fr/support/gmao-comment-planifier-vos-interventions-de-maintenance"">plans de maintenance</a></strong>, il vous suffit de nous transmettre toutes les informations dont vous disposez au format Excel. Nous vous contacterons alors pour discuter des modalités d’intégration dans votre logiciel de maintenance Mobility Work. </p>
+<p dir=""ltr"">Si vous souhaitez effectuer un essai avec Mobility Work, nous pouvons importer et intégrer vos données à une base de test. Il est également possible d’importer à tout moment, un ensemble de tâches, telles que des interventions réglementaires à réaliser provenant de vos rapports réglementaires. Vous pouvez donc à tout moment nous solliciter pour intégrer toute nouvelle information à votre GMAO.</p>
+<p dir=""ltr""><a href=""https://mobility-work.com/fr/nous-contacter/"">Contactez-nous pour obtenir nos trames d'import.</a></p>","Pour simplifier le déploiement de votre GMAO Mobility Work, nous vous garantissons l'import gratuit de vos données de maintenance depuis un fichier Excel.",2017-09-27,https://mobility-work.com/wp-content/uploads/2017/09/import-donnees-gmao.png,Importer ses données dans la GMAO,Vincent Gauchevertu,Importer ses données dans sa GMAO,"Pour simplifier le déploiement de votre GMAO, nous vous proposons d'importer vos données de maintenance depuis un fichier Excel.",4
+Géolocaliser ses équipements depuis la GMAO mobile,geolocalisation-equipements-gmao-mobile,"<p dir=""ltr"">Les techniciens de maintenance itinérants rencontrent des problématiques propres à leurs fonctions. Néanmoins, les dernières avancées technologiques permettent bien souvent d'y pallier. La <strong>géolocalisation</strong> en fait partie. En s'équipant d'une <strong>GMAO mobile</strong>, les techniciens itinérants localisent plus facilement les équipements sur lesquels ils doivent intervenir, améliorant ainsi leurs opérations quotidiennes.</p>
+<p>&nbsp;</p>
+<h2 dir=""ltr"">Comment géolocaliser ses équipements à l'aide d'une GMAO mobile ?</h2>
+<p dir=""ltr"">Dans le souci de répondre aux problématiques des équipes de maintenance, nous avons développé une version mobile de Mobility Work. Notre <strong>application de GMAO mobile</strong> est disponible depuis <a title=""Télécharger Mobility Work sur l'App Store"" href=""https://apps.apple.com/us/app/mobility-work/id1266674670"">l'App Store</a> et  <a title=""Télécharger Mobility Work sur Google Play Store"" href=""https://play.google.com/store/apps/details?id=com.ionicframework.hafid988162&amp;hl=fr"">Google Play Store</a>. Elle a été pensée pour améliorer le suivi des techniciens de maintenance et faciliter la création des équipements.</p>
+<p><iframe src=""https://www.youtube.com/embed/NM6Z38PXeqk"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p dir=""ltr"">Avant toutes choses, assurez-vous de <a title=""Parc machine : créer ses fiches équipements"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">créer la fiche équipement</a> adéquate. Pour faciliter la recherche de vos équipements, saisissez les informations suivantes :</p>
+<ul dir=""ltr"">
+	<li>Nom de l’équipement</li>
+	<li>Description de l’équipement</li>
+	<li>Centre de coûts (découpage financier ou géographique de votre équipement)</li>
+	<li>Liens entre les équipements s’il s’agit d’un sous-ensemble ou d’un composant </li>
+	<li><a title=""Labels : personnalisez vos données de GMAO"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">Labels ou mots-clés associés</a>, essentiels à l'analyse de vos données de maintenance</li>
+	<li>Photos de l’équipement</li>
+</ul>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Grâce à la GMAO mobile Mobility Work, <strong>vous pouvez également renseigner les coordonnées GPS de votre équipement</strong>. Il vous suffit de cliquer sur le bouton « géolocalisation de l’équipement » pour que l’application récupère automatiquement les coordonnées GPS de votre machine. Une carte apparaît alors, vous permettant d’afficher l’emplacement exact de votre équipement.</p>
+<p dir=""ltr""> </p>
+<p dir=""ltr""></p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Une fois celle-ci enregistrée, la carte apparaît au niveau de votre fiche équipement, indiquant son emplacement. Vous pouvez ainsi lancer votre GPS pour que celui-ci vous guide jusqu’à votre machine. Les informations de géolocalisation ne sont accessibles qu'à votre usine, <a title=""Garantir la confidentialité de votre GMAO"" href=""https://mobility-work.com/fr/support/confidentialite-gmao-saas"">même si votre équipement est public</a>. Aucun membre extérieur à votre réseau ne pourra accéder à ces informations.</p>
+<p dir=""ltr""> </p>
+<h2 dir=""ltr"">Pour quels professionnels ? </h2>
+<p dir=""ltr"">La fonctionnalité de géolocalisation des équipements dans votre GMAO mobile peut par exemple être associée à la gestion de différentes éoliennes par un <strong>technicien de maintenance itinérant</strong>. En cas d’intervention, il peut à tout moment géolocaliser son équipement et lancer la <strong>navigation de son GPS </strong>afin d'être guidé jusqu’à celui-ci.</p>
+<p dir=""ltr"">De la même façon, lorsqu’un technicien de maintenance intervient sur une ligne de voie ferrée. Il peut identifier une problématique, géolocaliser son intervention dans sa GMAO et retrouver rapidement où se situe la défaillance.</p>
+<p dir=""ltr"">Enfin, la géolocalisation des équipements peut être intéressante pour les groupes industriels composés de plusieurs usines. Il est ainsi possible d’accéder à des informations portant sur un équipement présent dans une autre usine du groupe, et le localiser rapidement dans la GMAO Mobility Work.</p>",La GMAO mobile est l'alliée des techniciens itinérants. L'outil de géolocalisation de Mobility Work leur permet d'intervenir plus rapidement sur site.,2017-09-27,https://mobility-work.com/wp-content/uploads/2021/04/geolocation-fr-min.png,geolocalisation gmao,Vincent Gauchevertu,Géolocaliser ses équipements depuis la GMAO mobile,La GMAO mobile est l'alliée des techniciens itinérants. L'outil de géolocalisation permet d'intervenir rapidement et efficacement sur site.,3
+Modifier la langue de sa GMAO multilingue,modifier-langue-gmao,"<p dir=""ltr"">Vous faites partie d’un grand groupe industriel, et vous possédez des usines dans plusieurs pays. De ce fait, vos équipes de maintenance seront amenées à parler plusieurs langues. Si la diversité est toujours un avantage pour les entreprises, la <strong>barrière de la langue</strong> peut vite devenir un obstacle au déploiement de votre GMAO. Mobility Work, <strong>plateforme de gestion de maintenance communautaire</strong>, vous accompagne dans cette démarche.</p>
+<h2 dir=""ltr"">Faire le choix d'une GMAO multilingue</h2>
+<p dir=""ltr"">Même si l’anglais reste généralement compris de tous, il est toujours préférable de pouvoir utiliser un logiciel de gestion de la maintenance dans sa langue maternelle. Ceci peut faciliter <strong>l’utilisation de votre application de maintenance</strong> par l’ensemble des acteurs et services de votre entreprise (techniciens de maintenance, production, responsables de services, etc). La formation et l’appropriation du logiciel participent à la bonne adoption et à l’utilisation quotidienne de votre logiciel de maintenance. Le facteur linguistique peut ainsi jouer un rôle déterminant dans le succès du<strong> déploiement multi-site de votre application de maintenance.</strong></p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">De manière à vous apporter la solution la plus adaptée en termes de logiciel de maintenance multi-site, Mobility Work est disponible en <strong>17 langues</strong> :</p>
+<ul dir=""ltr"">
+	<li>français ;</li>
+	<li>anglais ;</li>
+	<li>espagnol ;</li>
+	<li>allemand ;</li>
+	<li>italien ;</li>
+	<li>tchèque ;</li>
+	<li>suédois ;</li>
+	<li>polonais ;</li>
+	<li>chinois ;</li>
+	<li>coréen ;</li>
+	<li>indonésien ;</li>
+	<li>catalan ;</li>
+	<li>turc ;</li>
+	<li>hindi ;</li>
+	<li>portugais (brésil) ;</li>
+	<li>roumain ;</li>
+	<li>néerlandais.</li>
+</ul>
+<p dir=""ltr"">L’ensemble de ces langues couvre <strong>plus de 115 pays,</strong> ce qui peut justifier le déploiement de Mobility Work si vous êtes à la recherche d’une solution de maintenance multi-sites. Par ailleurs, disposer d'une seule <strong>plateforme de gestion de maintenance communautaire</strong> pour l'ensemble de vos sites vous permet de réaliser des économies. Vous garantissez en outre le <strong>un partage d'informations efficace</strong> et <strong>l'uniformité de vos process</strong>.</p>
+<p dir=""ltr"">Vous pouvez à tout moment changer la langue de l’application via le drapeau en haut à droite de votre logiciel de maintenance. Le logiciel de GMAO communautaire Mobility Work évolue toutes les deux semaines en proposant une nouvelle mise à jour, qui peut également porter sur les langues disponibles.</p>","La barrière de la langue peut devenir un frein au déploiement de la GMAO. Grâce à son interface multilingue, Mobility Work facilite l'adoption.",2017-09-27,https://mobility-work.com/wp-content/uploads/2017/09/Change-the-language-of-your-multilingual-CMMS.png,Change the language of your multilingual CMMS,Vincent Gauchevertu,Comment modifier la langue de sa GMAO multilingue,"La barrière de la langue peut devenir un frein au déploiement de la GMAO. Grâce à son interface multilingue, Mobility Work facilite l'adoption.",2
+Gérer ses prestataires de service dans sa GMAO,prestataire-service-gestion,"<p dir=""ltr"">La <strong>gestion des prestataires de service</strong> fait partie du quotidien des responsables maintenance. Malheureusement, aujourd'hui encore de nombreux responsables sont confrontés à bien des difficultés. La multitude des interlocuteurs rend le suivi complexe. Or, les outils de <strong>GMAO </strong>traditionnels ne favorisent pas l'agrégation de ces informations. Mobility Work, plateforme de gestion de maintenance communautaire, vous permet d'<strong>intégrer les prestataires de service à votre réseau.</strong></p>
+<p>&nbsp;</p>
+<h2 dir=""ltr"">Gérer son réseau de prestataires de service à l'aide d'une GMAO</h2>
+<p dir=""ltr"">La maintenance est de plus en plus sous-traitée, que ce soit pour des opérations de maintenance, des process industriels, des équipements annexes ou encore des bâtiments. On peut y retrouver des opérations de maintenance préventive, curative ou même de contrôles réglementaires.</p>
+<p dir=""ltr"">De nombreux responsables maintenance se retrouvent ainsi confrontés à la difficulté de gérer ces prestataires de service et de leurs activités. En cause, le nombre important de sociétés de services avec lesquelles ils peuvent être amenés à travailler. Le suivi des interventions des prestataires, leur notation, le stockage des documents d’interventions et la comparaison entre prestataires de service avec d’autres responsables maintenance sont souvent des éléments difficiles à mettre en place.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">L’un des objectifs de la <strong>GMAO communautaire Mobility Work</strong> est de permettre aux responsables maintenance d’<strong>améliorer le suivi des prestataires</strong>. Pour cela, notre application dispose d'une fonction de gestion des prestataires. Pour y accéder, il vous suffit d’accéder à l’onglet « recherche » et de créer une nouvelle fiche entreprise.</p>
+<p dir=""ltr""> </p>
+<h2 dir=""ltr"">Comment ajouter une nouvelle entreprise ?</h2>
+<p dir=""ltr"">La fiche entreprise est composée dans la GMAO Mobility Work de différents champs :</p>
+<ul dir=""ltr"">
+	<li>Nom de la société</li>
+	<li>E-mail de la société</li>
+	<li>Siren ou siret de la société</li>
+	<li>Adresse de la société</li>
+	<li>Code postal de la société</li>
+	<li>Ville de la société</li>
+	<li>Pays de la société</li>
+	<li>Numéro de téléphone de la société</li>
+	<li>Numéro de fax de la société</li>
+	<li>Description de la société</li>
+	<li>Logo de la société.</li>
+</ul>
+<p>Une fois l’ensemble de ces informations renseignées, il vous suffit de cliquer sur le bouton « créer », et l’entreprise apparaîtra dans la liste de vos sociétés dans votre GMAO ainsi que dans l’<strong>annuaire de la communauté de maintenance</strong> Mobility Work. Vous pouvez à tout moment éditer les informations d’une société.</p>
+<p dir=""ltr"">Chaque entreprise créée est accessible publiquement à l’ensemble des utilisateurs de Mobility Work. Il vous est également possible de <a href=""https://mobility-work.com/fr/support/gmao-comment-dupliquer-un-equipement"">dupliquer la fiche d’une société</a> présente dans la communauté ou la fiche officielle d’un prestataire de service.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr""></p>
+<p dir=""ltr""> </p>
+<h3 dir=""ltr"">Quelles informations sont nécessaires pour ajouter un contact à la société que je viens de créer ?</h3>
+<p>La fiche d’un contact est composée dans la GMAO Mobility Work de différents champs :</p>
+<ul dir=""ltr"">
+	<li>Prénom du prestataire</li>
+	<li>Nom du prestataire</li>
+	<li>E-mail du prestataire</li>
+	<li>Pays du prestataire</li>
+	<li>Téléphone du prestataire</li>
+	<li>Mobile du prestataire</li>
+	<li>Adresse du prestataire</li>
+	<li>Description du prestataire</li>
+	<li>Photo du prestataire</li>
+</ul>
+<h3 dir=""ltr"">Comment ajouter un prestataire dans ma GMAO Mobility Work ?</h3>
+<p>Vous pouvez à tout moment ajouter un prestataire dans votre GMAO et suivre les interventions de maintenance de celui-ci. Pour cela, il vous suffit de créer un utilisateur et de l’associer au profil « prestataire de service ». Le profil prestataire peut accéder aux activités de ses membres, et <a href=""https://mobility-work.com/fr/support/gmao-comment-creer-une-intervention-de-maintenance"">créer des activités sur les tâches</a> auxquelles il a été assigné. Ce profil propose un accès restreint aux informations de votre logiciel de GMAO Mobility Work : celui-ci ne peut voir que ce à quoi vous lui avez donné accès. Une fois votre prestataire créé, vous pouvez l’ajouter à la liste des membres de l’entreprise.</p>
+<h3 dir=""ltr"">Comment suivre l’activité de mon prestataire dans la GMAO ?</h3>
+<p dir=""ltr"">Dans l’onglet « tâches accomplies », vous pourrez visualiser l’ensemble des interventions réalisées par le prestataire, avec à chaque fois la description de l’intervention avec le nom de l’équipement, la date et le temps passé par l’intervenant. Vous pouvez ensuite <strong>noter la prestation de maintenance selon un ensemble de critères </strong>(coûts, qualité, sécurité et délai) et ajouter un commentaire. De cette manière, chaque entreprise obtient une moyenne visible sur la fiche de la société par l’ensemble des membres de la communauté de maintenance Mobility Work. Attention, aucune information relative à l’intervention (nom de l’équipement, description de l’intervention, etc.) n’est accessible à des gens extérieurs à votre entreprise.</p>
+<p></p>
+<p dir=""ltr""></p>
+<p dir=""ltr""> </p>
+<h2 dir=""ltr"">Comment consulter un prestataire de la communauté ?</h2>
+<p dir=""ltr"">Vous pouvez à tout moment rechercher un prestataire en utilisant la fonction recherche de votre plateforme de gestion de maintenance communautaire. Vous pourrez trouver un prestataire grâce à son nom, sa description et surtout, selon son historique d’intervention de maintenance sur différentes machines. Ainsi, il vous suffit de saisir les mots-clés correspondant au profil du prestataire ou à ses activités.</p>
+<p dir=""ltr""> </p>
+<h2 dir=""ltr"">Gestion des prestataires de services dans la GMAO</h2>
+<h3 dir=""ltr"">Quels bénéfices peut m’apporter la gestion des prestataires du logiciel de GMAO Mobility Work ?</h3>
+<p dir=""ltr"">De nombreux bénéfices sont mesurables assez rapidement sur la gestion de votre maintenance :</p>
+<ul dir=""ltr"">
+	<li>traçabilité et contrôle des opérations des prestataires de service ;</li>
+	<li>archivage et historisation des travaux effectués par les prestataires ;</li>
+	<li>informations sur les prestataires accessibles à l’ensemble des personnes de l’entreprise ;</li>
+	<li>notation des prestataires et comparaison en interne comme dans la communauté de maintenance Mobility Work ;</li>
+	<li>amélioration du suivi des contrats de maintenance et la gestion des équipements sous garantie ;</li>
+	<li>découverte de prestataires de la communauté travaillant sur des machines similaires aux vôtres.</li>
+</ul>
+<h3 dir=""ltr"">Quel est le coût des profils prestataires de service ?</h3>
+<p dir=""ltr"">Il n’y a aucune facturation sur le profil prestataire des utilisateurs. Il vous suffit de contacter notre équipe pour créer leur profil.</p>
+<h3 dir=""ltr"">Quel type d’opération de maintenance puis-je tracer dans ma GMAO ?</h3>
+<p dir=""ltr"">L’ensemble des types d’opérations de maintenance de vos prestataires de service peut être tracé dans la GMAO Mobility Work :</p>
+<ul dir=""ltr"">
+	<li>arrêts techniques ;</li>
+	<li>maintenance curative ;</li>
+	<li>revamping ;</li>
+	<li>maintenance préventive ;</li>
+	<li>gestion du réglementaire.</li>
+</ul>
+<p dir=""ltr""></p>
+<p dir=""ltr""></p>
+<p dir=""ltr""> </p>
+<h2 dir=""ltr"">Quel type de prestataire puis-je retrouver dans la communauté Mobility Work ?</h2>
+<p dir=""ltr"">Retrouvez tout un ensemble de sociétés de prestations dans l’annuaire de la communauté de maintenance Mobility Work. Vous trouverez ci-dessous quelques exemples :</p>
+<ul dir=""ltr"">
+	<li>Maintenance industrielle</li>
+	<li>Réparation d'équipements industriels</li>
+	<li>Chaudronnerie</li>
+	<li>Mécanique générale - travail à façon</li>
+	<li>Tuyauterie industrielle</li>
+	<li>Aciers et métaux - usinage</li>
+	<li>Nettoyage - services</li>
+	<li>Construction métallique lourde</li>
+	<li>Automatisation - installations et équipements</li>
+	<li>Electricité - travaux</li>
+	<li>Nettoyage industriel</li>
+	<li>Chauffage industriel - installations et matériel</li>
+	<li>Tubes et tuyaux - métaux non ferreux</li>
+	<li>Construction métallique légère</li>
+	<li>Ingénierie - ensembliers industriels</li>
+	<li>Installations électriques</li>
+	<li>Ingénierie - bureaux d'études industrielles</li>
+	<li>Machines-outils - usinage des métaux</li>
+	<li>Déménagements industriels</li>
+	<li>Moteurs électriques et pièces.</li>
+</ul>",Gérer les prestataires de service fait partie du quotidien des responsables de maintenance. La GMAO Mobility Work leur permet de les intégrer à leur réseau.,2017-09-27,https://mobility-work.com/wp-content/uploads/2017/09/Gerer-ses-prestataires-de-service-dans-sa-GMAO.png,,Vincent Gauchevertu,Comment gérer ses prestataires de service dans sa GMAO,Gérer les prestataires de service fait partie du quotidien des responsables de maintenance. La GMAO Mobility Work leur permet de les intégrer à leur réseau.,6
+Consulter l'historique maintenance dans sa GMAO,historique-maintenance-gmao,"<p><span>La visualisation des travaux de maintenance en cours ou des interventions terminées est essentielle pour tout opérateur ou responsable maintenance. La GMAO doit permettre à tous les acteurs de l’entreprise de pouvoir accéder rapidement aux <strong>données et historique de maintenance de ses équipements.</strong></span></p>
+<p>&nbsp;</p>
+<h2>Comment accéder à l'historique maintenance depuis sa GMAO ?</h2>
+<p><span>La <strong>plateforme de gestion de maintenance communautaire </strong>Mobility Work vous facilite l'accès à vos données équipement. Pour cela, le technicien de maintenance doit dans un premier temps chercher son équipement via la fonction recherche de sa GMAO. </span></p>
+<p><span>Une fois la fiche équipement ouverte, il lui est possible d’afficher plusieurs onglets : </span></p>
+<ul>
+	<li><span>toutes les tâches ;</span></li>
+	<li><span>tâches en cours ;</span></li>
+	<li><span>calendrier ;</span></li>
+	<li><span>équipements liés ;</span></li>
+	<li><span>documents ;</span></li>
+	<li><span>documents des tâches ;</span></li>
+	<li><span>top 5 ;</span></li>
+	<li><span>compteur.</span></li>
+</ul>
+<p><span>Intéressons-nous aux 3 premiers onglets qui centralisent l’ensemble des informations sur les opérations de maintenance réalisées ou en cours sur cet équipement.</span><span>L’onglet « <strong>toutes les tâches</strong> » reprend l’ensemble des interventions de maintenance effectuées sur votre équipement présent dans votre logiciel de GMAO. Il correspond à l’historique de maintenance de votre équipement, et représente une véritable source de données pour les techniciens et responsables maintenance.</span></p>
+<p></p>
+<p>&nbsp;</p>
+<p><span>Les <strong>interventions </strong>sont triées de la plus récente à la plus ancienne selon la date de réalisation. Les tâches de couleur verte correspondent aux tâches terminées dans la GMAO, et les tâches présentes en rouge correspondent aux tâches en cours. Chaque intervention est accompagnée d’une <strong>photo de l’équipement</strong>, de la date de réalisation prévue, du temps d’intervention et d’un centre de coûts. On retrouve également l’ensemble des <strong>activités effectuées sur une intervention</strong>. Une activité est une action de maintenance effectuée par un technicien. On retrouve donc la description de l’activité, le temps passé et la date de réalisation de l’activité.</span></p>
+<p><span>La barre de recherche vous permet de rechercher rapidement une tâche grâce à un ou plusieurs <a>mots-clés</a>. Vous pouvez donc par exemple trier l’ensemble des opérations comprenant les mots « problème de translation » dans votre historique maintenance sur l’équipement souhaité.</span></p>
+<p><span>L’onglet «<strong> tâches en cours</strong> » reprend exactement le même fonctionnement que l’onglet « toutes les tâches ». L’objectif est de permettre au technicien de maintenance de voir rapidement si une tâche a déjà été créée par un de ses collègues travaillant sur la même problématique que lui, et ainsi d’<a href=""https://mobility-work.com/fr/support/gmao-comment-dupliquer-un-equipement"">éviter les doublons </a>dans l’historique du logiciel de GMAO.</span></p>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p><span>L’onglet « <a href=""https://mobility-work.com/fr/support/calendrier-maintenance-gmao/""><strong>calendrier</strong></a> » contient l’ensemble des opérations de maintenance réalisées sur l’équipement. On y retrouve toutes les tâches archivées en vert, les tâches en retard en rouge, les tâches planifiées en jaune et les tâches issues d’un plan de maintenance en bleu, ainsi que le temps total d’intervention sur la plage de date sélectionnée. Il est également possible de modifier l’<strong>affichage du calendrier </strong>de votre logiciel de GMAO (mois, semaine ou journée). Sur chacune des tâches, vous pourrez visualiser la description de l’intervention de maintenance ainsi que les personnes assignées à l’intervention. Pour déplacer une tâche, un simple glissement de l’intervention vers le jour désiré suffit.</span></p>
+<p></p>
+<p></p>
+<p><span>Il vous est également possible de visualiser l’ensemble des tâches et des activités sur un équipement via la <strong>fonction recherche</strong> de l’application de GMAO Mobility Work. Pour cela, appliquez un filtre sur le nom de votre équipement et sélectionnez « filtrer ». Les interventions affichées ne concerneront que l’équipement sur lequel le filtre est appliqué. Vous pouvez si vous le souhaitez filtrer cette liste en modifiant les paramètres suivants :</span></p>
+<ul>
+	<li><span>état de la tâche (toutes les tâches/tâches en cours/tâches archivées) ;</span></li>
+	<li><span>plan de maintenance (toutes les tâches/tâches hors plan de maintenance/tâches issues d’un plan de maintenance) ;</span></li>
+	<li><span>utilisateurs assignés à la tâche ;</span></li>
+	<li><span>utilisateurs ayant réalisé une activité ;</span></li>
+	<li><span>les labels ;</span></li>
+	<li><span>un centre de coûts ;</span></li>
+	<li><span>une date de début ;</span></li>
+	<li><span>une date de fin.</span></li>
+</ul>
+<p><span>Vous pouvez également <a href=""https://mobility-work.com/fr/support/gmao-comment-telecharger-vos-donnees-au-format-excel-ou-pdf"">télécharger</a> dans le logiciel de GMAO Mobility Work la liste des résultats de vos interventions de maintenance sur votre équipement au format Excel (.xls et .csv) ainsi qu’au format PDF.</span></p>
+<p>&nbsp;</p>
+<p><span>Enfin, le module d’analytique vous permet de filtrer les opérations sur un équipement et de visualiser de manière plus synthétique l'historique maintenance et toutes les opérations réalisées. Pour plus d’informations, n’hésitez pas à visionner notre <a title=""L'outil analytique de la GMAO Mobility Work"" href=""https://www.youtube.com/watch?v=yZVVLShxsaU"" target=""_blank"" rel=""noopener"">tutoriel</a> sur l’outil d’analyse de notre logiciel de GMAO Mobility Work.</span></p>",La GMAO doit permettre à tous les acteurs de l’entreprise d'accéder rapidement aux données concernant les équipements et leur état en termes de maintenance.,2019-08-29,https://mobility-work.com/wp-content/uploads/2019/08/Consulter-lhistorique-maintenance-dans-sa-GMAO.png,Consulter l'historique maintenance dans sa GMAO,Vincent Gauchevertu,Consulter l'historique maintenance dans sa GMAO,La GMAO doit permettre à tous les acteurs de l’entreprise d'accéder rapidement aux données concernant les équipements et leur état.,4
+Communiquer avec son service maintenance grâce à sa GMAO,service-maintenance-gmao,"<p>Vous est-il déjà arrivé de vous demander : comment contacter mon service maintenance ? L’un des principaux objectifs de la GMAO communautaire Mobility Work est de faciliter la communication entre acteurs de la maintenance. Grâce à la messagerie instantanée, échangez avec votre service maintenance, entre les usines d’un même groupe industriel ou avec une communauté extérieure.</p>
+<p>&nbsp;</p>
+<h2>Faciliter la communication grâce à une GMAO communautaire</h2>
+<p>Aujourd’hui, l’amélioration de la communication au sein d’une entreprise peut s'avérer compliquée, et cette complexité est souvent proportionnelle à la taille du site industriel. Pourtant l'échange fluide d'information est nécessaire à la bonne <strong>conduite de vos opérations</strong> et à l'<strong>optimisation de vos process</strong>. Comment une GMAO peut-elle pallier à ce manque ?</p>
+<p><iframe src=""https://www.youtube.com/embed/-2EkQnjHcXg"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p>Notre plateforme de gestion de maintenance communautaire vous permet de centraliser l'activité des différents services au sein d’un seul logiciel et d'<strong>améliorer la communication entre vos services</strong>. Le principe est celui <strong>des forums de discussion </strong>appliqué au monde de l’entreprise.</p>
+<p>Pour entrer en contact avec les <a title=""Paramétrer son application de maintenance"" href=""https://mobility-work.com/fr/support/parametrage-facile-gmao"">membres de votre réseau</a>, utilisez <strong>l'icône de messagerie</strong> en haut à droite de votre écran. Ou cliquez sur le nom d'un technicien pour ouvrir une conversation et échanger sur une intervention de maintenance ou l'historique d'un équipement.<strong> L'historique des conversations</strong>vous permet de garder une preuve des échanges concernant vos opérations de maintenance. Vous pouvez ajouter une ou plusieurs personnes à la discussion, ainsi que des pièces jointes (Word, PDF, photo, etc.).</p>
+<p></p>
+<p>&nbsp;</p>
+<p>La messagerie de votre GMAO communautaire répond à plusieurs besoins de votre équipe :</p>
+<ul>
+	<li>l'échange d’informations entre un <a href=""https://mobility-work.com/fr/support/comment-gerer-prestataires-maintenance-dans-gmao"">prestataire de service</a> et un responsable maintenance ;</li>
+	<li>une demande d’informations d’un responsable de production à l’attention du responsable maintenance ;</li>
+	<li>des groupes de discussion entre différents automaticiens d’un service maintenance ;</li>
+	<li>l'affichage d’une information pour l’ensemble d’un service maintenance (note de service, compte rendu de réunion, etc.).</li>
+</ul>
+<p>Il est également possible d’<strong>échanger avec des utilisateurs provenant d’une autre usine d’un même groupe industriel</strong>. En quelques clics, partagez vos bonnes pratiques, conseils, ou informations.</p>
+<p> </p>
+<p></p>
+<p> </p>
+<p><em>La messagerie est disponible sur les versions web et mobile de votre GMAO communautaire</em></p>
+<p></p>
+<p>La GMAO Mobility Work vous offre aussi la <strong>possibilité de faire partie d’une communauté extérieure à votre groupe industriel. </strong>Echangez sur des problématiques maintenance similaires aux vôtres avec des professionnels aux compétences variées. Vous pouvez par exemple créer des groupes dédiés aux responsables maintenances dans le secteur automobile. Ou un autre sur une machine donnée, afin d'en améliorer la maintenance.</p>
+<p>&nbsp;</p>
+<p>Besoin d’informations avant d'investir dans une machine ? Vous souhaitez vous informer sur une intervention relative à un équipement public de la <strong>communauté </strong>? Vous pouvez à tout moment contacter <strong>de manière anonyme</strong> (seuls les prénoms sont affichés) le technicien concerné en cliquant sur son prénom, et commencer une discussion avec lui.</p>","Facilitez les échanges, améliorez vos process et garantissez la transmission de l'information avec la messagerie de la GMAO communautaire Mobility Work.",2017-08-29,https://mobility-work.com/wp-content/uploads/2021/04/messaging-tool-fr-min.png,messagerie gmao,Vincent Gauchevertu,Communiquer avec son service maintenance grâce à sa GMAO,"Facilitez les échanges, améliorez vos process et garantissez la transmission de l'information avec la messagerie de la GMAO Mobility Work.",3
+Analyser ses indicateurs maintenance dans sa GMAO,maintenance-analytique-gmao,"<p>Le paramétrage de votre <strong>logiciel de GMAO</strong>, la formation des utilisateurs et la présence de données de maintenance constituent un bon point de départ. La première étape consiste à <strong>collecter des données</strong>, mais il faut savoir ensuite <strong>analyser les indicateurs maintenance</strong>. Malheureusement, les logiciels de maintenance classiques sont souvent peu intuitifs et requièrent des connaissances techniques. Le tableau de bord de la GMAO Mobility Work dispose d'un <strong>outil analytique </strong>intégré pour tirer le meilleur parti de vos données de maintenance et améliorer votre maintenance préventive.</p>
+<p></p>
+<h2>GMAO et analyse de données</h2>
+<p><strong>La collecte de données de maintenance </strong>est parfois complexe avec les outils traditionnels. Il est souvent nécessaire de disposer de compétences techniques en informatique. De nombreux services de maintenance dépendent encore de fichiers Excel complexes qui doivent être tenus à jour manuellement. A partir de ces données sont calculés les indicateurs de maintenance mensuels. Comme toute opération manuelle, vous n'êtes pas à l'abri d'une quelconque erreur. <strong>L'outil analytique</strong> de la GMAO Mobility Work collecte et agrège automatiquement toutes vos <strong>données de maintenance.</strong></p>
+<p></p>
+<p>""<strong>Maintenir ou investir ?</strong>"" Nous pensons que c'est la problématique principale pour tout responsable maintenance. Pour y répondre, celui-ci doit disposer d'un certain nombre d'informations issues de plusieurs systèmes. Des <strong>applications de GMAO</strong> telles que Mobility Work enregistrent les temps d'intervention, les temps d'arrêt ou encore <a title=""Pièces détachées et gestion des stocks"" href=""https://mobility-work.com/fr/support/pieces-detachees-gestion-stocks"">la consommation de pièces détachées</a>. Les ERP compilent les niveaux de stocks, les commandes de biens et de prestations extérieures. L'outil analytique de Mobility Work vous permet de collecter et d'afficher vos données de maintenance en une vue simplifiée.</p>
+<a href=""https://mobility-work.com/wp-content/uploads/2017/08/tableau-de-bord-maintenance-preventive.png""></a> <em>Cliquez sur l'image pour l'agrandir</em>
+<p>Le <strong>tableau de bord</strong> de la GMAO Mobility Work compile les indicateurs de maintenance les plus importants pour vous aider à développer votre maintenance préventive.</p>
+<h3><strong>Temps d'intervention</strong></h3>
+<p>L’<strong>analyse des temps d’intervention et de durée des opérations </strong>est un bon début pour la performance de vos équipes de maintenance dans votre GMAO. Deux à trois semaines de saisies vont vous permettre de rapidement visualiser l’avantage du module d’analytique de l’application Mobility Work.</p>
+<p>Filtrez par date, période, utilisateurs, labels ou encore équipements et obtenez un aperçu :</p>
+<ul>
+	<li>du nombre de tâches ;</li>
+	<li>du nombre d’activités de maintenance ;</li>
+	<li>du temps d'intervention total ;</li>
+	<li>du temps moyen d'intervention ;</li>
+	<li>de la proportion de tâches prévues, en retard ou terminées.</li>
+</ul>
+<p>Plus bas, votre tableau de bord vous propose des <strong>graphiques détaillés</strong> :</p>
+<ul>
+	<li>top 10 des tâches ;</li>
+	<li>top 10 des centres de coûts ;</li>
+	<li>top 10 des équipements ;</li>
+	<li>top 10 des utilisateurs.</li>
+</ul>
+<p>Ces valeurs sont exprimées à la fois avec le nom et la désignation des éléments, mais aussi avec le <strong>nombre d'heures associées</strong>.</p>
+<p>Enfin, vous pouvez visualisez <strong>l'évolution du temps passé</strong>, sur la journée, la semaine, le mois ou l'année. Utilisez aussi votre GMAO pour suivre la performance de votre <strong>stratégie de maintenance préventive</strong>. Pour cela, il vous suffit de filtrer le tableau bord pour n'afficher que les tâches de <a title=""Plans de maintenance préventive et GMAO"" href=""https://mobility-work.com/fr/support/plans-maintenance-preventive-logiciel-gmao"">plan de maintenance</a>. Vous pouvez toujours ajouter des filtres par <strong>label, équipement, utilisateur ou centre coûts,</strong> afin d'affiner votre analyse.</p>
+<p></p>
+<h3>Tâches et activités de maintenance</h3>
+<p>En naviguant dans les onglets de votre tableau de bord, vous pourrez collecter les indicateurs liées à<strong> <a title=""Créer une tâche dans Mobility Work"" href=""https://mobility-work.com/fr/support/ot-maintenance-logiciel-gmao"">vos tâches et activités</a></strong>créés dans votre plateforme de gestion de maintenance communautaire. Outre les indicateurs cités précédemment, vous retrouverez aussi le <strong>t</strong><strong>op 10 des mots-clés les plus utilisés</strong> lors de la saisie de vos tâches et activités.</p>
+<p>Quittez la vue générale et cliquez sur <strong>Statut des tâches</strong> pour avoir une vue détaillée des tâches prévues, en cours ou terminées. Vous pouvez ensuite choisir de les afficher par utilisateurs, labels ou centres de coûts.</p>
+<a href=""https://mobility-work.com/wp-content/uploads/2017/08/tableau-de-bord-maintenance-preventive-taches.png""></a> <em>Cliquez sur l'image pour l'agrandir</em>
+<h3><strong>Compteurs</strong></h3>
+<p>La GMAO Mobility Work vous offre la possibilité de <a title=""GMAO : Comment créer et relever ses compteurs"" href=""https://mobility-work.com/fr/support/compteur-machine-suivi"">créer et gérer vos compteurs</a>. Pour collecter les données associées, cliquez sur l'onglet <strong>Compteurs</strong> de votre Tableau de bord. Sélectionnez le compteur de votre choix. Si besoin, appliquez des filtres. S'affichent alors un graphique illustrant la <strong>valeur du compteur</strong>sur la période sélectionnée, ainsi qu'un tableau récapitulant le détail des <strong>relevés effectués</strong>.</p>
+<h2>Associer des données externes à votre GMAO</h2>
+<p>Certains indicateurs de maintenance peuvent se trouver sur des outils autres que votre GMAO. Par exemple, le suivi de la <strong>consommation de pièces de rechange</strong> peut être réalisé depuis Mobility Work ou depuis votre ERP. Il peut donc vous être nécessaire de <strong>croiser des données</strong> issues de diverses applications. Notre équipe est là pour vous renseigner sur les possibilités de connexion de la GMAO Mobility Work.</p>",L'outil d'analytique de la GMAO Mobility Work permet à n’importe quel responsable  de collecter et d’analyser ses données en un clin d'oeil.,2020-08-29,https://mobility-work.com/wp-content/uploads/2020/08/Analyser-ses-indicateurs-maintenance-dans-sa-GMAO.png,Tableau de bord d'une GMAO pour la maintenance préventive,Vincent Gauchevertu,Développer la maintenance préventive grâce au tableau de bord d'une GMAO,Le tableau de bord de la GMAO Mobility Work est une aide précieuse pour développer la maintenance préventive au sein de votre entreprise.,4
+Planifier ses opérations de maintenance dans sa GMAO,calendrier-maintenance-gmao,"<p dir=""ltr"">Une bonne gestion de la maintenance passe avant tout par la planification des opérations dans votre outil de GMAO. La gestion de maintenance d'un parc de machines requiert donc une bonne <strong>organisation et la coordination des équipes techniques</strong>. Pourtant, les interfaces des logiciels de GMAO classiques sont souvent peu intuitives et ne permettent pas aux techniciens de trouver l'information facilement.</p>
+<p dir=""ltr"">C'est pourquoi nous avons décidé de repenser le partage d'information dans <strong>notre plateforme de gestion de maintenance communautaire</strong>. La GMAO Mobility Work dispose de deux modes de visualisation des planning de maintenance, pour une meilleure organisation :</p>
+<ul>
+	<li dir=""ltr"">un aperçu rapide des interventions en retard et à venir dans les 7 prochains jours depuis la page d’accueil ;</li>
+	<li dir=""ltr"">une vue détaillée de son planning via la fonctionnalité Agenda.</li>
+</ul>
+<h2 dir=""ltr"">Gérer votre planning de maintenance dans votre GMAO</h2>
+<p dir=""ltr"">La <a title=""Découvrir la fonctionnalité Agenda de la GMAO Mobility Work"" href=""https://www.youtube.com/watch?v=oxoD2gF-6Cw&amp;list=PL1arywLVyCBbE3IZWsaRSh7Y_DpWn8F_x"">fonctionnalité Agenda</a> de votre application de maintenance vous permet à vous et vos équipes de visualiser les tâches, selon un code couleur :</p>
+<ul dir=""ltr"">
+	<li>Rouge = tâches en retard</li>
+	<li>Jaune = tâches prévues</li>
+	<li>Vert = tâches terminées</li>
+</ul>
+<p dir=""ltr"">Vous pouvez en outre afficher ou non les tâches contenues dans un plan de maintenance grâce au filtre associé. Selon vos besoins, vous pouvez aussi choisir d'afficher votre agenda à la journée, à la semaine, au mois ou à l’année, et changer la plage horaire/date.</p>
+<p><iframe src=""https://www.youtube.com/embed/oxoD2gF-6Cw"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p dir=""ltr"">Sur chaque tâche sont indiqués la description de l’intervention, l’équipement concerné, <a title=""Comment créer des labels ?"" href=""https://mobility-work.com/fr/support/gmao-comment-creer-vos-labels"">les mots-clés associés</a> (préventif, mécanique, curatif, sécurité, etc.), le temps total passé sur la tâche et les intervenants. Le technicien pourra à tout moment ouvrir l’intervention de maintenance en cliquant sur celle-ci et la compléter.</p>
+<p dir=""ltr""></p>
+<p dir=""ltr"">Dans le même menu, les responsables de maintenance peuvent se rendre sur l’onglet <strong>Planificateur </strong>pour visualiser le planning de plusieurs techniciens en même temps. Ils peuvent également utiliser les filtres pour, par exemple, n’afficher que les tâches en retard dotées du mot-clé « préventif ».</p>
+<p><span>Une autre façon pour les responsables maintenance de coordonner leurs équipes serait à l'aide <strong>des groupes d'utilisateurs</strong>. </span><span>Ils peuvent alors décaler les tâches en les faisant glisser à la date prévue. Si cette tâche sort d’un <a title=""Créer ses plans de maintenance"" href=""https://mobility-work.com/fr/support/plans-maintenance-preventive-logiciel-gmao"">plan de maintenance</a>, il pourra décider de décaler la tâche sélectionnée uniquement ou de décaler toutes les tâches suivantes, afin de mieux organiser le travail de ses équipes.</span></p>
+<p></p>
+<p dir=""ltr"">La fonctionnalité Agenda permet également de visualiser les interventions prévues par les <a title=""Comment gérer mes prestataires ?"" href=""https://mobility-work.com/fr/support/comment-gerer-prestataires-maintenance-dans-gmao"">prestataires de services</a>, les contrats de maintenance ou les interventions réglementaires directement sur sa GMAO.</p>
+<p dir=""ltr"">Chaque équipement possède également son calendrier, ce qui vous permet de visualiser en quelques secondes les opérations de maintenance en cours, terminées, en retard ou prévues à la journée, à la semaine, au mois ou à l’année. Tout comme les techniciens, le responsable maintenance peut à tout moment décaler une opération de maintenance en faisant glisser la tâche vers le jour souhaité. Il peut aussi filtrer les opérations en sélectionnant un certain nombre de critères comme l’état des tâches, les groupes d’intervenants, etc.</p>
+<p dir=""ltr"">Il est possible de remonter dans votre GMAO au niveau du calendrier de votre fiche équipement tout un ensemble d’informations provenant de capteurs ou de systèmes extérieurs grâce aux API de Mobility Work.</p>",Une bonne gestion de maintenance passe avant tout par la coordination des interventions dans la GMAO. Notre Agenda en offre une vue simplifiée.,2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/calendrier-Mobility-Work_Laptop-GMAO.png,Calendrier Mobility-Work GMAO,Vincent Gauchevertu,Planifier ses opérations de maintenance dans sa GMAO,Une bonne gestion de maintenance passe avant tout par la coordination des interventions grâce à l'agenda de la GMAO.,3
+Dupliquer une fiche équipement depuis la GMAO communautaire,fiche-equipement-saisie-gmao,"<p><span>La mise en place d’un logiciel de GMAO classique est souvent fastidieuse à cause du temps et des ressources nécessaires à la <strong>création du parc machine</strong>. Pour créer une fiche équipement, l’utilisateur est généralement confronté à des écrans peu intuitifs qui nécessitent la saisie d’informations techniques dont il n’est pas forcément en possession.</span></p>
+<p><span>Nous avons développé notre <strong>plateforme de gestion de maintenance communautaire</strong> afin de simplifier le quotidien des techniciens. Pourquoi perdre du temps à rechercher et à saisir les informations d'un équipement ou d'une pièce détachée si quelqu'un l’a déjà fait ?</span></p>
+<h2>Créer ou dupliquer sa fiche équipement avec la GMAO Mobility Work ?</h2>
+<p><span>Avant de <a href=""https://mobility-work.com/fr/support/gmao-comment-creer-vos-equipements"">créer votre fiche équipement</a>, la première étape consiste à vérifier, grâce à la <strong>fonction recherche</strong>,<strong> </strong>si un équipement similaire existe déjà dans la communauté de maintenance Mobility Work. </span></p>
+<p><em>Utilisez la barre de recherche de votre GMAO pour retrouver vos équipements</em></p>
+<p></p>
+<p><span>Ensuite, plusieurs possibilités s’offrent à vous :</span></p>
+<ul>
+	<li><strong><span>l’équipement est présent dans la communauté des utilisateurs</span></strong><span> : l</span><span>es informations ne sont pas officielles, mais devraient vous permettre de gagner du temps. Pour cela, il vous suffit de cliquer sur « dupliquer », de vérifier les informations de votre équipement, et de les compléter avec vos informations personnelles (photo, centre de coûts, labels...) ;</span></li>
+	<li><strong><span>l’équipement provient des catalogues fournisseurs officiels </span></strong><span>: l</span><span>’information a été vérifiée par le fabricant lui-même. Vous bénéficiez donc d'informations telles que les caractéristiques de votre équipement, la <a href=""https://mobility-work.com/fr/support/gmao-ajouter-vos-documents-vos-equipements"">documentation technique</a>, les gammes de maintenance, les <a href=""https://mobility-work.com/fr/support/gmao-comment-planifier-vos-interventions-de-maintenance"">plans de maintenance</a>, ou encore la liste des pièces détachées.</span></li>
+</ul>
+<p><iframe src=""https://www.youtube.com/embed/jkEtAZmbi3Q"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p></p>
+<p><span>Mobility Work est la seule GMAO proposant de <strong>dupliquer les équipements</strong> d'une communauté ou des catalogues constructeurs. Nous sommes persuadés que cette fonctionnalité peut changer votre façon de gérer la maintenance et de lutter contre certaines problématiques comme l’obsolescence des équipements.</span></p>",Gagnez du temps avec notre plateforme de GMAO communautaire en dupliquant les équipements existants au lieu de recréer tout votre parc machine.,2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/dupliquer-fiche-equipement-GMAO_Mobility-Work.png,Dupliquer une fiche équipement depuis la GMAO,Vincent Gauchevertu,Dupliquer une fiche équipement depuis la GMAO communautaire,Gagnez du temps avec notre plateforme de GMAO communautaire en dupliquant les équipements de la communauté afin de créer votre parc machine.,2
+Simplifier l'arborescence machine dans son logiciel de GMAO,arborescence-machine-gmao,"<p><span>L'un des critères clés d'adoption d'une GMAO par les techniciens de maintenance est la simplification de la recherche et de l’accès à l’information. Pourtant, il existe encore souvent un décalage entre les outils de maintenance classiques et les applications de notre quotidien, bien plus simples d'utilisation. Le degré de complexité de la recherche et de l'arborescence machine illustre bien ce décalage.</span></p>
+<h2>Expérience utilisateur : le pari des logiciels de GMAO nouvelle génération</h2>
+<p><span>C’est la raison pour laquelle la <strong>GMAO Mobility Work</strong> mise en priorité sur l’expérience utilisateur, et propose une fonction recherche simple et efficace<strong>.</strong> Celle-ci vous permet de rechercher une pièce détachée ou un équipement grâce à son nom, sa description ou ses mots-clés. </span><span>La simplification de la saisie des équipements et la déstructuration des données permettent d’<a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">effectuer une recherche par mots-clés</a> sans avoir à passer par de multiple niveaux d'arborescence machine.</span></p>
+<p></p>
+<p><span>Par exemple, si vous recherchez le moteur de translation de votre pont de chargement du secteur fusion de votre entreprise, il vous suffira d'entrer les mots clés suivants : « moteur translation pont chargement fusion ». Ainsi, vous accéderez directement à votre équipement. C’est une approche différente des autres GMAO, qui vous feront passer par le secteur « fusion », sur « pont chargement », par le sous-équipement « translation » et enfin sur le moteur, ce qui prend plus de temps pour un résultat similaire.</span></p>
+<p><iframe src=""https://www.youtube.com/embed/QdQwmQESwqU"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p><span>Une fois votre recherche effectuée, quatre catégories s'offrent à vous :</span></p>
+<ul>
+	<li><strong><span>Mes équipements</span></strong><span> : ce sont les résultats de votre recherche au sein de votre parc équipements </span></li>
+	<li><strong><span>Tous les équipements</span></strong><span> : ici figurent les résultats parmi les équipements de toute la communauté Mobility Work et de groupes industriels.</span></li>
+	<li><strong><span>Equipements officiels</span></strong><span> : vous recherchez la documentation technique officielle d'un équipement ? Dans ce menu sont répertoriés les catalogues officiels, mis à jour par les fabricants eux-mêmes.</span></li>
+	<li><strong><span>Equipements non-officiels</span></strong><span> : une panne survient dans votre parc et vous n'avez pas la pièce détachée ? Ce menu vous permet de la rechercher parmi un catalogue de 60 millions de pièces détachées.</span></li>
+</ul>
+<p></p>
+<p><span>V</span><span>ous pouvez également affiner le résultat de votre recherche dans votre GMAO grâce aux filtres suivants :</span></p>
+<ul>
+	<li><span>tous les équipements ;</span></li>
+	<li><span>équipements sans tâche récurrente (qui permet d’afficher une liste d’équipements sur lesquels aucun plan de maintenance n’a été effectué) ;</span></li>
+	<li><span>équipements ayant une tâche récurrente, qui vous permettra d’afficher la liste de vos machines pour lesquelles un plan de maintenance a été mis en place ;</span></li>
+	<li><span>équipements où un technicien spécifique est intervenu ;</span></li>
+	<li><span>équipements possédant un centre de coûts spécifique ;</span></li>
+	<li><span>équipements dotés d’un label (appareil sous pression, amiante, etc.) ;</span></li>
+	<li><span>liste d’équipements sur lesquels une intervention de maintenance a été menée entre deux dates ;</span></li>
+	<li><span>filtrer uniquement les pièces détachées ;</span></li>
+	<li><span>liste de pièce détachées possédant un emplacement, une quantité maximum ou minimum, un prix minimum ou maximum spécifique ;</span></li>
+	<li><span>liste de pièces détachées dont le stock est inférieur à la limite minimum.</span></li>
+</ul>
+<p></p>
+<p><em>Consultez vos fiches équipements sur le terrain grâce à la GMAO mobile Mobility Work </em></p>
+<p><span>Il vous est ensuite possible à tout moment d’<a title=""Extraire des données au format Excel ou Pdf depuis la GMAO Mobility Work"" href=""https://mobility-work.com/fr/support/gmao-export-format-excel-pdf"">extraire vos données équipements</a> de notre application de gestion de maintenance, et de télécharger cette liste au format PDF, XLS et CSV.</span></p>","La simplification de la recherche, l'arborescence machine et de l’accès à l’information est un critère d’efficacité essentiel dans l’utilisation d’une GMAO. ",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/effectuer-une-recherche-par-mots-cles-gmao.png,GMAO : effectuer une recherche par mots-clés,Vincent Gauchevertu,Simplifier l'arborescence machine dans son logiciel de GMAO,"La simplification de la recherche, l'arborescence machine et l’accès à l’information est un critère d’efficacité essentiel dans l’utilisation d’une GMAO.",3
+Ajouter la documentation constructeur et technique dans votre GMAO,documentation-constructeur-gmao,"<article role=""article"">
+<div>
+<div>
+<div>
+<p><span>La gestion documentaire est un élément primordial pour un service maintenance, mais est souvent très peu utilisée à cause de la complexité des logiciels classiques de GMAO. Comme de nombreux autres industriels, toute votre documentation constructeur ou technique est probablement éparpillée sur votre serveur, la recherche est certainement très fastidieuse, et la consultation s’avère difficile depuis votre tablette. Sans oublier les milliers de documents papier stockés dans vos archives, dont aucune copie n’a été faite, ce qui peut s’avérer problématique en cas d’incendie ou autre accident. </span></p>
+<p><strong><span>La documentation technique permet de faciliter la transmission de connaissances entre les équipes, et ainsi de limiter le risque d'erreur. Pourtant, la gestion documentaire s'avère souvent fastidieuse avec les logiciels de GMAO traditionnels.</span></strong></p>
+<h2>Pourquoi ajouter de la documentation constructeur dans sa GMAO ?</h2>
+<p><span>C’est la raison pour laquelle nous avons simplifié la possibilité d’<strong><a title=""Ajouter des documents dans sa GMAO"" href=""https://www.youtube.com/watch?v=s_-45oStT18"" target=""_blank"" rel=""noopener"">ajouter des documents</a></strong> sur votre<a title=""Parc machines : comment créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">fiche équipement</a> en glissant-déposant le document sur votre fiche équipement Mobility Work. </span></p>
+</div>
+<p></p>
+<p dir=""ltr""></p>
+<div>
+<p><span>De cette manière, il est possible de stocker dans votre GMAO tout un ensemble d’informations documentaires au sujet de votre équipement, parmi lesquelles :</span></p>
+<ul>
+	<li><span>Schémas électriques/hydrauliques</span></li>
+	<li><span>Plans mécaniques</span></li>
+	<li><span>Modes opératoires</span></li>
+	<li><span>Gammes de maintenance</span></li>
+	<li><span>Listes des composants</span></li>
+	<li><span>Notices de réglage et d’entretien</span></li>
+	<li><span>Catalogues de pièces détachées</span></li>
+	<li><span>Caractéristiques techniques, etc.</span></li>
+</ul>
+<p><span>Ces documents peuvent également être <strong>complétés avec des enregistrements, des photos et des vidéos.</strong> Ceci peut s’avérer pratique pour comprendre rapidement le process de fonctionnement, ou pour comparer une problématique éventuelle avec le fonctionnement initial de l’équipement.</span></p>
+<p><span><a title=""GMAO : comment simplifier l'arborescence machine"" href=""https://mobility-work.com/fr/support/arborescence-machine-gmao"">La fonction recherche</a> vous permettra de retrouver rapidement dans votre GMAO la bonne documentation grâce à quelques <a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">mots-clés</a>. De plus, notre plateforme de gestion de maintenance communautaire offre la possibilité d’<strong>obtenir des informations grâce à une base publique de documents partagés par ses membres</strong>. Vous avez perdu un document, ou vous recherchez une gamme de maintenance sur une machine similaire ? Trouvez rapidement la bonne information ainsi que le bon interlocuteur grâce au réseau social de maintenance Mobility Work.</span></p>
+<p></p>
+<p><span>Choisissez vous-même <a title=""Garantir la confidentialité de votre GMAO"" href=""https://mobility-work.com/fr/support/confidentialite-gmao-saas"">le niveau de confidentialité des documents</a> que vous intégrez à votre application de maintenance. Vous pouvez partager un document avec la communauté, avec votre groupe industriel ou avec votre usine uniquement. Il est aussi possible d’intégrer des liens vers de la documentation présente sur votre serveur ou provenant d’un autre site web.</span></p>
+<p><span><a title=""GMAO communautaire : dupliquer une fiche équipement"" href=""https://mobility-work.com/fr/support/fiche-equipement-saisie-gmao"">Dupliquez votre équipement</a> depuis les catalogues constructeurs, et bénéficiez de l’ensemble de la documentation constructeur fournie par celui-ci. De cette manière, vous obtiendrez toutes les informations officielles provenant du fabricant de la machine et serez notifié en cas d’ajout d’un nouveau document ou d’une information (arrêt d’un contrat de maintenance, mise en obsolescence d’un équipement, etc.) sur votre machine.</span></p>
+<p></p>
+<p><span>En conclusion, l’ajout d’un document à une fiche équipement dans la GMAO Mobility Work est une procédure très simple : importez autant de fichiers et de types de fichiers que vous le souhaitez.</span></p>
+</div>
+</div>
+</div>
+</article>",La gestion documentaire est primordiale pour un service maintenance. Ajoutez la documentation constructeur à vos équipements dans votre GMAO Mobility Work.,2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/Ajouter-la-documentation-constructeur-et-technique-dans-votre-GMAO.png,Ajouter la documentation constructeur et technique dans votre GMAO,Vincent Gauchevertu,Ajouter la documentation constructeur et technique dans votre GMAO,La gestion documentaire est primordiale pour un service maintenance. Ajoutez votre documentation constructeur dans la GMAO Mobility Work.,3
+Suivez votre actualité en temps réel depuis votre GMAO communautaire,suivi-operations-maintenance,"<p><span>La <strong>GMAO communautaire Mobility Work</strong> propose une approche similaire à celle des réseaux sociaux. Notre objectif est de faciliter l'accès des techniciens de maintenance aux informations nécessaires à leurs activités quotidiennes. En nous inspirant des applications que nous utilisons au quotidien, nous avons constaté l'écart subsistant avec nos outils de travail actuels. Les applications professionnelles sont encore trop souvent peu intuitives et difficiles d'utilisation</span>.</p>
+<h2>Une GMAO communautaire pour un suivi en temps réel</h2>
+<p><span>Suite à ce constat, nous avons décidé de résoudre cette problématique en développant un <a title=""Découvrir le fil d'actualités de la GMAO Mobility Work"" href=""https://www.youtube.com/watch?v=9DS5lWS1G9w&amp;list=PL1arywLVyCBbE3IZWsaRSh7Y_DpWn8F_x&amp;index=4""><strong>flux d’actualités</strong></a> simplifié. Celui-ci permet à tous les intervenants de suivre leurs opérations de maintenance et d’obtenir en temps réel l’information. A terme, la transmission de ces informations facilite la prise de décision.</span></p>
+<p dir=""ltr""></p>
+<p><span>De cette manière, vous pouvez accéder depuis la version mobile ou Web de votre GMAO à l’ensemble des informations relatives à votre réseau telles que :</span></p>
+<ul>
+	<li><span>les dépannages ou interventions de maintenance en cours ;</span></li>
+	<li><span>les demandes d’intervention provenant de la production ;</span></li>
+	<li><span>les dernières pièces de rechange ajoutées ;</span></li>
+	<li><span>les dernières documentations mises en ligne ;</span></li>
+	<li><span>les derniers plans de maintenance créés ;</span></li>
+	<li><span>les dernières gammes ajoutées ;</span></li>
+	<li><span>les interventions prévues d’un prestataire de service.</span></li>
+</ul>
+<h2>Classifiez et filtrez vos interventions</h2>
+<p><span>Grâce à la <a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">fonctionnalité « labels » qui vous permet de taguer des interventions</a>, vous pourrez en un coup d’œil obtenir plus d’informations sur vos opérations de maintenance. Par exemple, la classe d’intervention (électrique, mécanique, chaudronnerie, automatisme, etc.), le type d’intervention (préventif, correctif, amélioratif, etc.), l’intervenant, l’état de l’intervention grâce à un système de couleurs (rouge si la tâche est en cours, vert si la tâche est terminée). Mais aussi d’autres informations complémentaires, comme l’intégration éventuelle à un plan de maintenance.</span></p>
+<p dir=""ltr""></p>
+<p><span>Vous pouvez à tout moment <strong>appliquer des filtres sur votre flux d’actualités</strong> pour, par exemple, ne suivre que les tâches ayant le label « sécurité », ou bien uniquement les interventions qui sont en cours sur une ligne de production. De nombreux clients de notre GMAO communautaire font le choix d’installer des écrans d’affichage sur leur ligne de production et d’afficher en temps réel l’actualité de celle-ci. La même chose pourrait être envisageable sur vos machines goulots, pour suivre en temps réel les opérations sur les machines critiques de votre parc d’équipement.</span></p>
+<p><iframe src=""https://www.youtube.com/embed/9DS5lWS1G9w"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p><span>L’un des avantages du flux d’actualités réside dans sa <strong>capacité à transmettre les informations du terrain en temps réel</strong>. En effet, nous avons pu observer que dans de nombreuses usines, avant l'arrivée de la GMAO communautaire, il existait un décalage entre les différents intervenants de maintenance. Par exemple, l'équipe du matin effectuait une opération sans en informer l'équipe de l’après midi, ce qui conduisait parfois à réitérer la même intervention dans la journée. Il se pouvait aussi que l’équipe ne soit pas avertie de problématiques récurrentes sur certains équipements.</span></p>
+<p><span>L’application permet également d’éviter les saisies de données par les techniciens plusieurs heures après avoir effectué une opération. Si celles-ci avaient été saisies en temps réel, l’information aurait peut-être permis à un responsable de production de prendre une décision différente.</span></p>","Inspirée des réseaux sociaux, la GMAO communautaire Mobility Work dispose d'un fil d'actualités pour suivre interventions en temps réel.",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/flux-dactualites-simplifie_GMAO-Mobility-Work.png,,Vincent Gauchevertu,Suivez votre actualité en temps réel depuis votre GMAO communautaire,"Inspirée des réseaux sociaux, la GMAO communautaire Mobility Work dispose d'un fil d'actualités pour suivre interventions en temps réel.",3
+Gérer ses utilisateurs et paramétrer facilement sa GMAO,parametrage-facile-gmao,"<p><span>Le paramétrage des utilisateurs dans un logiciel de GMAO classique représente souvent une étape compliquée. Entre la création des profils utilisateurs, la mise en place de groupes d’utilisateurs et l’attribution des droits d’utilisation pour chaque fonctionnalités, le nombre de journées perdues à faire du paramétrage est significatif.</span></p>
+<h2><span>Comment paramétrer sa GMAO Mobility Work ?</span></h2>
+<p><span><strong>L'expérience utilisateur</strong> est au cœur de la mission de Mobility Work. C’est pourquoi nous avons décidé de simplifier le paramétrage pour l’<strong>ajout d’utilisateurs et la gestion des droits d’accès </strong>dans notre plateforme de gestion de maintenance communautaire.</span></p>
+<p><iframe src=""https://www.youtube.com/embed/dvJHRCnYll4"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p><span>Tout d’abord, l’ajout d’un nouvel utilisateur peut s’effectuer grâce au bouton « ajout » qui figure sur la page d’accueil. Ensuite, si votre utilisateur possède une adresse e-mail, il recevra un message lui permettant de s’enregistrer. Si l’utilisateur ne possède pas d’adresse email, vous pouvez l’enregistrer via un système de validation par code. </span></p>
+<p></p>
+<p><span>Par la suite, pour réguler les différents accès aux fonctionnalités de la GMAO Mobility Work, il vous suffit de choisir le profil de votre utilisateur parmi les <a title=""Les différents types de profils sur la GMAO Mobility Work"" href=""https://www.youtube.com/watch?v=dvJHRCnYll4&amp;list=PL1arywLVyCBbE3IZWsaRSh7Y_DpWn8F_x&amp;index=3"" target=""_blank"" rel=""noopener""><strong>différents niveaux d’administration</strong></a> :</span></p>
+<ul>
+	<li><span><strong>le niveau « Administrateur » </strong>permet d’<a title=""Parc machines : comment créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees"">ajouter et supprimer des équipements</a>, des tâches, des activités et de modifier les permissions des utilisateurs ;</span></li>
+	<li><span><strong>le niveau « Technicien » </strong>autorise les utilisateurs à ajouter et assigner des tâches et des activités. Ce statut ne permet ni de modifier les équipements, ni d'ajouter des labels, ni de modifier les permissions des utilisateurs ;</span></li>
+	<li><span><strong>le niveau « Production » </strong>permet de visualiser les activités de votre réseau et de créer des demandes de production à l’attention du responsable maintenance ou des techniciens, selon le circuit de validation des travaux internes. Vous pouvez ajouter autant de profils production que vous le souhaitez, ceux-ci ne seront pas facturés et sont inclus dans l’abonnement Mobility Work ;</span></li>
+	<li><span><strong>le niveau « Prestataire de service »</strong> vous permet de <a href=""https://mobility-work.com/fr/support/comment-gerer-prestataires-maintenance-dans-gmao"">transmettre vos interventions de maintenance à vos prestataires extérieurs</a>. Ceux-ci n’auront accès qu’aux interventions et informations les concernant. Le module gestion des entreprises extérieures vous permettra de dresser un bilan de chaque intervention effectuée par les entreprises extérieures sur votre site, et de pouvoir leur attribuer une note basée sur les critères suivants : coût, qualité, sécurité et délais.</span></li>
+</ul>
+<p><span>L’ensemble de ces profils devrait vous permettre de <strong>couvrir l’ensemble des services potentiels</strong> (maintenance, travaux neufs, sécurité, qualité, production, finances, ressources humaines, etc.) qui pourraient avoir accès à la GMAO.</span></p>
+<p></p>
+<div dir=""ltr""><span>Par la suite, vous pourrez compléter les informations personnelles concernant chacun des utilisateurs de la GMAO Mobility Work : adresse email, numéro de téléphone, photo de profil, ou un logo s’il s’agit d’une société extérieure. Vous pouvez également <strong>taguer vos utilisateurs</strong> afin de les regrouper en fonction d’un critère précis. Par exemple, il est possible de <a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">taguer vos mécaniciens</a>, vos électriciens, ou tous les intervenants possédant un permis de feu ou une habilitation électrique particulière. Ainsi, vous pouvez  planifier un plan de maintenance ou une simple intervention pour un groupe d’utilisateur particulier. Chacun des techniciens présents dans le groupe sera notifié des travaux à effectuer et de leurs avancements.</span></div>
+<p><span>Enfin, vous pouvez retirer un utilisateur tout en ayant la possibilité de conserver l’historique de ses événements. Vous pouvez donc tenir à jour votre réseau sans altérer l’historique de votre plateforme de gestion de maintenance communautaire.</span></p>","Paramétrez facilement votre logiciel de GMAO Mobility Work, ajoutez des utilisateurs et définissez rapidement leurs droits d'accès.",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/Gerer-ses-utilisateurs-et-parametrer-facilement-sa-GMAO.png,Gérer ses utilisateurs et paramétrer facilement sa GMAO,Vincent Gauchevertu,Gérer ses utilisateurs et paramétrer facilement sa GMAO,"Paramétrez facilement votre logiciel de GMAO Mobility Work, ajoutez des utilisateurs et définissez rapidement leurs droits d'accès.",3
+Gérer la confidentialité de vos données dans votre GMAO,confidentialite-gmao-saas,"<p><span>La confidentialité des données constitue un enjeu majeur pour un nombre croissant d'organisations. A l'heure de la digitalisation des industries, chacun est à la recherche de la meilleure façon de sécuriser ses données. Avec la GMAO Mobility Work, faites le choix d'une plateforme de gestion de la maintenance communautaire tout en protégeant vos données de maintenance.</span></p>
+<p><span>La confidentialité de vos données et la sécurité de vos documents sont l'une de nos priorités. Grâce à la GMAO Mobility Work, il vous est possible à tout moment d’ajouter de la <a title=""Ajouter de la documentation à vos OT"" href=""https://mobility-work.com/fr/support/documentation-technique-gmao"">documentation technique</a> de votre machine sur votre fiche équipement. Vous pouvez également ajouter le détail de vos interventions en pièce jointe (photo, vidéo, rapport d’intervention, etc.).</span></p>
+<p></p>
+<h2><span>Comment gérer la confidentialité dans la GMAO ?</span></h2>
+<p>La GMAO Mobility Work permet aux utilisateurs de <strong>choisir le niveau de confidentialité</strong> qu'ils souhaitent accorder aux documents ajoutés dans l'application. Lorsque vous choisissez d'ajouter des documents à une tâche ou un équipement vous pouvez sélectionner le niveau de confidentialité que vous souhaitez conférer à ces documents.</p>
+<p>Après avoir téléchargé le fichier dans l'application, cliquez sur l'icône de globe terrestre pour choisir entre le <strong>mode « public » et « privé »</strong>. Pour plus de sécurité, les options de confidentialité varient <a title=""Comment paramétrer la GMAO Mobility Work"" href=""https://mobility-work.com/fr/support/parametrage-facile-gmao"">selon les types de profils</a>. Par exemple, un profil production ne peut pas ajouter de documents à un équipement ni modifier le niveau de confidentialité. </p>
+<p></p>
+<p><span>Toutes ces données sont stockées en toute sécurité dans le cloud Mobility Work. Cependant, vous seul pouvez choisir de partager votre documentation. Pour cela, il existe 3 niveaux de confidentialité dans notre plateforme de gestion de maintenance communautaire : mon usine, mon groupe industriel et la communauté. Vous êtes libre de partager ou non vos plans de maintenance, photos, devis, etc. avec l'ensemble de votre usine. Vous avez également la possibilité de sélectionner le mode « privé » à tout moment.</span></p>","La confidentialité de vos données est l'une de nos priorités : stockez-les en sécurité dans le Cloud de votre GMAO, et choisissez ou non de les partager.",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/confidentialite_equipement-GMAO-Mobility-Work.png,,Vincent Gauchevertu,Gérer la confidentialité de vos données dans votre GMAO,La confidentialité de vos données est notre priorité : stockez-les en sécurité dans le Cloud de votre GMAO et choisissez ou non de les partager.,2
+Gérer la documentation technique de ses rapports dans sa GMAO,documentation-technique-gmao,"<p><span>La documentation technique est une source de savoir importante pour vos équipes de maintenance. Elle vous permet de transmettre les informations entre vos techniciens. Le suivi de vos interventions dans votre GMAO est ainsi facilité, tout comme </span><span>la bonne organisation de votre service maintenance. </span></p>
+<p>&nbsp;</p>
+<h2>Documentation technique et suivi de maintenance</h2>
+<p><span>Chaque intervention recense le savoir-faire accumulé par les techniciens face aux problématiques rencontrées sur les </span><span>équipements de votre parc machine. Ce savoir-faire est constitué de la description de la problématique sur l’ordre de travail, du temps passé, ainsi que d’un descriptif de l’opération réalisée. Celle-ci peut être enrichie par de la documentation technique et multimédia.</span></p>
+<p></p>
+<p><span>Une photo, une vidéo ou un son peuvent servir à un responsable maintenance, un technicien ou un demandeur de production pour mieux visualiser la problématique sur votre équipement. Grâce à la GMAO mobile Mobility Work, vous pouvez <a title=""Ajoutez des documents dans votre GMAO mobile"" href=""https://www.youtube.com/watch?v=LGDy9N5XM5k"" target=""_blank"" rel=""noopener"">ajouter l’ensemble de ces données</a> depuis votre téléphone.</span></p>
+<p><span>De nombreux smartphones sont également équipés de caméras thermiques, permettant d’identifier un échauffement mécanique ou électrique sur un sous-ensemble de votre équipement, puis de l’intégrer à votre opération de maintenance. La photo apparaît dans le <a href=""https://www.youtube.com/watch?v=9DS5lWS1G9w&amp;list=PL1arywLVyCBbE3IZWsaRSh7Y_DpWn8F_x&amp;index=5"" target=""_blank"" rel=""noopener"">fil d’actualités de votre réseau</a>. Ainsi, tous les utilisateurs sont informés de l’échauffement que vous venez de prendre en photo et peuvent également à tout moment le commenter depuis l’ordre de travaux.</span></p>
+<p>&nbsp;</p>
+<h2><span>Ajouter de la documentation dans la GMAO Mobility Work</span></h2>
+<p><span><strong>Il vous est donc possible de lier tout type de document sur vos interventions dans la plateforme de gestion de maintenance communautaire Mobility Work,</strong> tel que des gammes de maintenance au format Excel, des modes opératoires au format PDF, des rapports d’interventions de vos prestataires de services, des rapports de visite, etc.</span></p>
+<p><span>Par défaut, vos documents sont <a title=""Garantir la confidentialité de votre GMAO"" href=""https://mobility-work.com/fr/support/confidentialite-gmao-saas"">configurés comme étant privés</a>, mais vous pouvez à tout moment décider de les partager avec votre groupe industriel si celui-ci possède plusieurs usines ou avec la communauté de maintenance Mobility Work.</span></p>
+<p><em></em></p>
+<p></p>
+<p><span>Retrouvez le bon document n’est jamais facile dans les logiciels de GMAO classiques. C’est pourquoi nous avons mis en place <strong>la fonction recherche de documents dans l’application de maintenance Mobility Work. </strong>Cette fonction vous permettra de retrouver vos documents en quelques secondes grâce aux <a title=""GMAO : personnaliser ses données grâce aux labels"" href=""https://mobility-work.com/fr/support/labels-donn%C3%A9es-gmao"">mots-clés</a>. Ceci peut donc s’avérer très utile si vous êtes à la recherche d’une gamme de maintenance, d’un devis d’un prestataire ou d’un résumé d’une intervention provenant d’un contrat de maintenance.</span></p>
+<p><span>En cas de souci sur une intervention de maintenance, vous pouvez rechercher une solution dans les documents publics de la communauté, et trouver une aide précieuse pour votre dépannage. La GMAO Mobility Work peut donc être considérée comme la première bibliothèque de documentation technique sur les opérations de maintenance.</span></p>
+<p><span>Aucune limite sur le nombre de fichiers ne vous est imposée, vous pouvez stocker autant de documents que vous le souhaitez sur la GMAO Mobility Work. Pour plus d’informations sur la sécurité ainsi que le stockage de vos données, n’hésitez pas à nous contacter.</span></p>","Vous pouvez ajouter tout type de documentation technique à vos rapports d'interventions de maintenance dans la GMAO Mobility Work (photo, vidéo, etc.).",2017-08-29,https://mobility-work.com/wp-content/uploads/2021/04/documents-fr-min.png,documents gmao,Vincent Gauchevertu,Gérer la documentation technique de ses rapports dans sa GMAO,"Vous pouvez ajouter tout type de documentation technique à vos rapports d'interventions dans la GMAO Mobility Work (photo, vidéo, etc.).",3
+Exporter ses données au format Excel ou PDF depuis sa GMAO,gmao-export-format-excel-pdf,"<p><span>Vous utilisez la GMAO Mobility Work et vous souhaitez exporter vos données de maintenance (opérations de maintenance, liste de vos machines, pièces de rechange sorties, etc.) afin de les analyser dans votre macro Excel ? Ou extraire une liste au format PDF des interventions à effectuer pour un prestataire de service ? </span><span>Pas de souci, <strong>vos données vous appartiennent</strong>, et vous pouvez à tout moment les extraire depuis l’application. </span></p>
+<h2>Comment exporter mes données de maintenance depuis ma GMAO Mobility Work ?</h2>
+<p><span>Il existe plusieurs façons de procéder :</span></p>
+<ul>
+	<li><strong><span>Extraire une liste d’interventions depuis la fonction recherche de l’application de maintenance</span></strong><span>. </span><span>Filtrez vos données de maintenance selon les critères de votre choix (intervenants, centre de coûts, labels, date de début, date de fin, opérations provenant d’un plan de maintenance, équipements, sous-ensembles, etc.). Cliquez ensuite sur le bouton « télécharger » pour récupérer vos ordres de travaux aux formats PDF, XLS et CSV.</span></li>
+</ul>
+<p></p>
+<ul>
+	<li><strong><span>Extraire une liste d’équipements depuis la liste de vos machines</span></strong><span>. Filtrez vos données grâce à différents critères (équipement possédant le label « réglementaire » par exemple ; plan de maintenance programmé ; intervention de tel technicien ; intervention mécanique en cours, etc.), et téléchargez cette liste aux formats PDF, XLS et CSV.</span></li>
+	<li><strong><span>Extraire une liste de pièces détachées selon plusieurs critères, tels que l’emplacement, le prix ou encore la valeur du stock</span></strong><span>. Vous pouvez extraire par exemple la <a title=""Gérer ses pièces détachées dans sa GMAO"" href=""https://mobility-work.com/fr/support/gerer-pieces-detachees-gmao"">liste des pièces détachées</a> qui coûtent moins de 1000 euros, et dont la quantité est inférieure à la valeur de stock minimum, tout cela aux formats PDF, XLS et CSV.</span></li>
+</ul>
+<p><span>Accès à la base de données, requête SQL, etc. font partie du quotidien des responsables maintenance sur les logiciels classiques de GMAO. Le but de l’application Mobility Work est de vous proposer <strong>une saisie et une restitution de données simplifiées</strong>. Vous pouvez ainsi demander à tout moment une copie de l’ensemble des données vous concernant qui sont hébergées dans le Cloud Mobility Work.</span></p>","Dans un soucis de respect de la confidentialité, nos utilisateurs ont la possibilité d'exporter leurs données aux formats Excel et PDF depuis leur GMAO",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/Exporter-ses-donnees-au-format-Excel-ou-PDF-depuis-sa-GMAO.png,Exporter ses données au format Excel ou PDF depuis sa GMAO,Vincent Gauchevertu,Exporter ses données au format Excel ou PDF depuis sa GMAO,"Dans un souci de respect de la confidentialité, nos utilisateurs ont la possibilité d'exporter leurs données au format Excel ou PDF depuis la GMAO.",2
+Faciliter le suivi de maintenance grâce à sa GMAO,suivi-maintenance-logiciel-gmao,"<p><span>Le suivi de la maintenance réalisée ou à faire dans la GMAO Mobility Work doit être accessible à tous les techniciens. Dans un premier temps, il convient de comprendre la façon dont un technicien utilise cette application de maintenance.</span></p>
+<h2>Suivi de maintenance et planification des activités</h2>
+<p><span>Une fois connecté à sa GMAO, son premier réflexe sera de consulter le flux d’actualités pour consulter les dernières informations de l'usine. </span><span>Sur le côté droit du flux d’actualités, il pourra <a title=""Maintenance préventive et logiciel de GMAO"" href=""https://mobility-work.com/fr/support/plan-maintenance-preventive-gmao"">visualiser les tâches planifiées cette semaine</a>, ou encore les tâches en retard car non clôturées. Il pourra également se rendre dans l'onglet « <a title=""Planifier ses opérations de maintenance"" href=""https://mobility-work.com/fr/support/calendrier-maintenance-planning-gmao"">Agenda </a>», qui permet de visualiser le planning complet des opérations prévues ce jour, cette semaine ou encore ce mois-ci.</span></p>
+<p></p>
+<p><span>La prochaine étape pour le technicien consistera à saisir ces différents ordres de travaux avec les temps d’interventions tout au long de sa journée. Cependant, celui-ci doit pouvoir, à la fin de celle-ci, contrôler ce qui a été saisi de manière à corriger une erreur ou un oubli. <strong>La fonction « Ma journée de travail » de Mobility Work permet à tous les techniciens de visualiser le suivi de maintenance dans la GMAO.</strong> Ils peuvent aussi à tout moment utiliser la liste des interventions, ajouter des filtres sur leur nom et <a href=""https://mobility-work.com/fr/support/gmao-comment-telecharger-vos-donnees-au-format-excel-ou-pdf"">sortir une liste </a>sur un intervalle de temps choisi des interventions effectuées au format PDF, XLS ou CSV. Il est également possible d’obtenir et d’imprimer la liste des prochains travaux à effectuer.</span></p>
+<p><span>Chaque responsable maintenance a évidemment besoin que ses techniciens puissent saisir le maximum d’informations sur leurs interventions. Mais pour que cela fonctionne, il faut donner aux techniciens la possibilité de consulter rapidement leurs états de saisie dans la GMAO. Tout cela est rendu possible grâce au suivi de maintenance facilité par la GMAO Mobility Work, dont la maîtrise ne nécessite aucune formation.</span></p>","Suivi de maintenance : grâce à la GMAO Mobility Work, le suivi du travail réalisé ou à faire est accessible à tous les techniciens de maintenance.",2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/GMAO-Suivi-de-maintenance-et-planification-des-activites.png,GMAO Suivi de maintenance et planification des activités,Vincent Gauchevertu,Faciliter le suivi de maintenance grâce à sa GMAO,"Suivi de maintenance : grâce à la GMAO Mobility Work, le suivi du travail réalisé ou à faire est accessible à tous les techniciens de maintenance.",2
+Personnaliser ses données de maintenance avec les labels dans la GMAO,labels-donnees-gmao,"<p><span>Les labels (ou tags) sont des champs personnalisés grâce auxquels vous pouvez customiser un ensemble d’informations présentes dans la <strong>GMAO Mobility Work.</strong> Ils vous permettent d’obtenir un retour plus précis sur vos interventions de maintenance.</span></p>
+<h2>Gérer ses tags/labels dans la GMAO</h2>
+<p><iframe src=""https://www.youtube.com/embed/LmTqfU1pv_U"" width=""640"" height=""360"" frameborder=""0"" allowfullscreen=""allowfullscreen""></iframe></p>
+<p><span>Pour cela, vous pouvez taguer :</span></p>
+<ul>
+	<li><span>Vos <a title=""Parc machines : comment créer ses fiches équipement"" href=""https://mobility-work.com/fr/support/nomenclature-pieces-detachees""><strong>équipements</strong></a>, en les classant par catégorie. Il est par exemple possible d’ajouter des labels correspondant à une ligne de production, de taguer des machines par rapport aux normes réglementaires grâce à un label « </span><span>amiante », ou encore d’ajouter un label « équipement sous contrat de maintenance ».</span></li>
+	<li><span>Vos <strong>techniciens de maintenance</strong>, de manière à pouvoir les regrouper par spécialité : électriciens, mécaniciens, chaudronniers, équipe du matin, par habilitations, etc. Vous pouvez également taguer vos utilisateurs de production, ou encore vos prestataires de service. De cette manière, il est possible d’associer une intervention ou un plan de maintenance à un groupe d’utilisateurs, ce qui permettra à chacun des membres d’être notifié sur les opérations de maintenance à effectuer.</span></li>
+</ul>
+<p></p>
+<ul>
+	<li><span>Vos <a title=""Créer un ordre de travail dans sa GMAO"" href=""https://mobility-work.com/fr/support/ot-maintenance-logiciel-gmao""><strong>interventions</strong></a>, de manière à obtenir des statistiques avancées sur les opérations de maintenance effectuées. On peut donc imaginer taguer ces opérations en utilisant les champs personnalisés liés au type ou à la classe d’intervention : « maintenance préventive », « curative », « électrique », « mécanique »... Les possibilités sont infinies : taguez des interventions de maintenance provoquant des « arrêts de production » ou incluant les « travaux neufs », indiquez son numéro de projet, ainsi que les opérations de sécurité prévues avec le label « CHSCT ». Plus les opérations dans votre GMAO sont labellisées, meilleures seront les analyses dans votre outil d’analytics, ce qui influencera votre prise de décision.</span></li>
+	<li><span>Vos <a title=""Maintenance préventive et logiciel de GMAO"" href=""https://mobility-work.com/fr/support/plan-maintenance-preventive-gmao""><strong>plans de maintenance</strong></a>, de la même manière que vos interventions. En cas d’audit de votre service maintenance, vous pourrez en quelques clics depuis votre application de maintenance justifier tous vos plans de maintenance concernant le réglementaire, les opérations de CHSCT, les contrôles environnementaux et votre maintenance de 1er niveau.</span></li>
+</ul>
+<p><span>Ainsi, les labels et champs personnalisés remplacent les écrans pré-remplis composés d’une centaine de champs, que proposent la plupart des logiciels de maintenance. Ils offrent une interface simple qui vous permet de personnaliser l’ensemble des informations à votre convenance dans votre GMAO Mobility Work</span><strong><span>.</span></strong></p>
+<h2>Comment choisir ses labels dans saGMAO ?</h2>
+<p><span>Sélectionnables depuis une liste, les labels sont définis par les administrateurs de votre réseau, et ne peuvent pas être modifiés par les autres utilisateurs. </span></p>
+<p></p>
+<p><span>Vous trouverez ci-dessous une liste des labels les plus populaires dans la GMAO Mobility Work, qui pourra servir de point de départ dans le processus d’amélioration de votre service maintenance :</span></p>
+<ul>
+	<li><span>Curatif</span></li>
+	<li><span>Électrique</span></li>
+	<li><span>Mécanique</span></li>
+	<li><span>Hydraulique</span></li>
+	<li><span>Automatisme</span></li>
+	<li><span>Chaudronnerie</span></li>
+	<li><span>Préventif</span></li>
+	<li><span>Travaux neufs – hors investissement</span></li>
+	<li><span>Administratif</span></li>
+	<li><span>Arrêt technique</span></li>
+	<li><span>MQSE</span></li>
+	<li><span>Nettoyage maintenance</span></li>
+	<li><span>Réunion</span></li>
+	<li><span>Formation</span></li>
+	<li><span>Santé</span></li>
+	<li><span>Fermeture usine</span></li>
+	<li><span>Contrat maintenance</span></li>
+	<li><span>Réglementaire</span></li>
+	<li><span>Sécurité</span></li>
+	<li><span>Audit</span></li>
+	<li><span>Pneumatique</span></li>
+	<li><span>Nuit</span></li>
+	<li><span>Week-end</span></li>
+	<li><span>Travaux neufs - investissement</span></li>
+	<li><span>Production</span></li>
+	<li><span>Environnement</span></li>
+	<li><span>Consommable</span></li>
+	<li><span>Achat</span></li>
+	<li><span>Analyse</span></li>
+	<li><span>Qualité</span></li>
+	<li><span>Amélioratif</span></li>
+	<li><span>Dégradation Equipement/Infrastructure</span></li>
+	<li><span>CHSCT</span></li>
+	<li><span>Immobilisation</span></li>
+	<li><span>Equipement à l'arrêt/mise au rebut</span></li>
+	<li><span>Veille technologique</span></li>
+</ul>",Les labels vous permettent de définir les informations présentes dans la GMAO et d’obtenir un retour plus précis sur vos interventions.,2017-08-29,https://mobility-work.com/wp-content/uploads/2017/08/Personnaliser-ses-donnees-de-maintenance-avec-les-labels-dans-la-GMAO.png,,Vincent Gauchevertu,Personnaliser ses données de maintenance avec les labels dans la GMAO,Les labels vous permettent de définir les informations présentes dans la GMAO et d’obtenir un retour plus précis sur vos interventions.,3
