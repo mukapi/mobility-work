@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "name": "Agroalimentaire",
+      "url": "https://mobility-work.com/fr/agroalimentaire/",
+      "meta_title": "Agroalimentaire – Mobility Work",
+      "meta_description": "Retrouvez ici nos articles concernant la maintenance et les bénéfices de l'utilisation d'une GMAO de nouvelle génération dans l'industrie agroalimentaire."
+    },
+    {
+      "name": "Cosmétiques",
+      "url": "https://mobility-work.com/fr/cosmetiques/",
+      "meta_title": "Cosmétiques – Mobility Work",
+      "meta_description": "Retrouvez ici nos articles concernant la maintenance dans le secteur des cosmétiques et les bénéfices de l'utilisation d'une GMAO de nouvelle génération dans l'industrie cosmétique."
+    },
+    {
+      "name": "GMAO",
+      "url": "https://mobility-work.com/fr/blog-gmao/",
+      "meta_title": "GMAO – Mobility Work",
+      "meta_description": "Retrouvez ici nos articles présentant les avantages d'un logiciel de GMAO de nouvelle génération pour améliorer et optimiser la gestion de la maintenance dans votre entreprise."
+    },
+    {
+      "name": "Hub fournisseurs",
+      "url": "https://mobility-work.com/fr/hub-fournisseurs/",
+      "meta_title": "Hub fournisseurs – Mobility Work",
+      "meta_description": null
+    },
+    {
+      "name": "Industrie 4.0 et IoT",
+      "url": "https://mobility-work.com/fr/iot-fr/",
+      "meta_title": "Industrie 4.0 et IoT – Mobility Work",
+      "meta_description": "Découvrez ici comment l'IoT, associé à une GMAO nouvelle génération, peut vous aider à rendre la gestion de votre maintenance plus facile et performante."
+    },
+    {
+      "name": "Interviews",
+      "url": "https://mobility-work.com/fr/interviews-fr/",
+      "meta_title": "Interviews – Mobility Work",
+      "meta_description": "Retrouvez les témoignages de professionnels de la maintenance qui ont choisi d'adopter la GMAO Mobility Work pour améliorer leur gestion de la maintenance."
+    },
+    {
+      "name": "Maintenance industrielle",
+      "url": "https://mobility-work.com/fr/maintenance-industrielle/",
+      "meta_title": "Maintenance industrielle – Mobility Work",
+      "meta_description": "Retrouvez ici de nombreux articles qui vous aideront à améliorer vos processus de maintenance industrielle et à mettre en place des plans de maintenance adaptés à votre entreprise et à vos modes de production."
+    },
+    {
+      "name": "Maintenance préventive",
+      "url": "https://mobility-work.com/fr/maintenance-preventive/",
+      "meta_title": "Maintenance préventive – Mobility Work",
+      "meta_description": "La maintenance préventive : quels sont les atouts de cette stratégie de maintenance, comment mettre en place un plan de maintenance préventive..."
+    },
+    {
+      "name": "Mises à jour de l'application",
+      "url": "https://mobility-work.com/fr/mises-a-jour/",
+      "meta_title": "Mises à jour de l'application – Mobility Work",
+      "meta_description": "Retrouvez ici toutes les mises à jour de notre application de GMAO mobile et les nouvelles fonctionnalités dont profitent nos utilisateurs."
+    },
+    {
+      "name": "News",
+      "url": "https://mobility-work.com/fr/actualites/",
+      "meta_title": "News – Mobility Work",
+      "meta_description": null
+    },
+    {
+      "name": "Pharmaceutique et santé",
+      "url": "https://mobility-work.com/fr/pharmaceutique-sante/",
+      "meta_title": "Pharmaceutique et santé – Mobility Work",
+      "meta_description": "La maintenance dans l'industrie pharmaceutique et dans le secteur de la santé, l'importance de se doter d'une GMAO performante pour respecter les normes."
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://mobility-work.com/fr/podcasts-fr/",
+      "meta_title": "Podcasts – Mobility Work",
+      "meta_description": "Découvrez notre série de podcasts sur la GMAO et la maintenance ! Nous abordons différentes thématiques d'actualité liées à la GMAO nouvelle génération."
+    }
+  ]
+}
