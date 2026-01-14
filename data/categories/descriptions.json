@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Agroalimentaire",
+      "slug": "agroalimentaire",
+      "description": "Retrouvez ici nos articles concernant la maintenance dans le secteur agroalimentaire et les bénéfices de l'utilisation d'une GMAO de nouvelle génération dans l'industrie agroalimentaire."
+    },
+    {
+      "name": "Cosmétiques",
+      "slug": "cosmetiques",
+      "description": "Retrouvez ici nos articles concernant la maintenance dans le secteur des cosmétiques et les bénéfices de l'utilisation d'une GMAO de nouvelle génération dans l'industrie cosmétique."
+    },
+    {
+      "name": "GMAO",
+      "slug": "blog-gmao",
+      "description": "Retrouvez ici nos articles présentant les avantages d'un logiciel de GMAO de nouvelle génération pour améliorer et optimiser la gestion de la maintenance dans votre entreprise."
+    },
+    {
+      "name": "Hub fournisseurs",
+      "slug": "hub-fournisseurs",
+      "description": "Découvrez Mobility Work Hub, notre plateforme dédiée aux fournisseurs industriels intégrée à notre solution de GMAO."
+    },
+    {
+      "name": "Industrie 4.0 et IoT",
+      "slug": "iot-fr",
+      "description": "Découvrez ici comment l'IoT, associé à une GMAO nouvelle génération, peut vous aider à rendre la gestion de votre maintenance plus facile et plus performante grâce à un plan de maintenance prédictive."
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews-fr",
+      "description": "Retrouvez ici les témoignages de professionnels de la maintenance qui ont choisi d'adopter la GMAO Mobility Work pour améliorer leur gestion de la maintenance. Issus de secteurs d'activité très variés, ils présentent leur expérience en matière de gestion de la maintenance assistée par ordinateur, les difficultés auxquelles ils ont été confrontés et les raisons qui les ont poussés à se tourner vers une solution de GMAO de nouvelle génération, mobile et communautaire."
+    },
+    {
+      "name": "Maintenance industrielle",
+      "slug": "maintenance-industrielle",
+      "description": "Retrouvez ici de nombreux articles qui vous aideront à améliorer vos processus de maintenance industrielle et à mettre en place des plans de maintenance adaptés à votre entreprise et à vos modes de production."
+    },
+    {
+      "name": "Maintenance préventive",
+      "slug": "maintenance-preventive",
+      "description": "Retrouvez ici nos articles sur la maintenance préventive : quels sont les atouts de cette stratégie de maintenance, comment mettre en place un plan de maintenance préventive, quels sont les avantages de la GMAO nouvelle génération pour adopter la maintenance préventive ?"
+    },
+    {
+      "name": "Mises à jour de l'application",
+      "slug": "mises-a-jour",
+      "description": "Retrouvez ici toutes les mises à jour de notre application de GMAO mobile et les nouvelles fonctionnalités dont profitent nos utilisateurs."
+    },
+    {
+      "name": "News",
+      "slug": "actualites",
+      "description": "Retrouvez toutes les infos et nouveautés sur notre application de GMAO et notre Hub Fournisseurs !"
+    },
+    {
+      "name": "Pharmaceutique et santé",
+      "slug": "pharmaceutique-sante",
+      "description": "Retrouvez ici nos articles sur la maintenance dans l'industrie pharmaceutique et dans le secteur de la santé, et l'importance de se doter d'une GMAO performante pour respecter les normes tout en restant compétitif."
+    },
+    {
+      "name": "Podcasts",
+      "slug": "podcasts-fr",
+      "description": "Découvrez notre série de podcasts sur la GMAO et la maintenance ! Nous abordons différentes thématiques d'actualité liées à la GMAO nouvelle génération."
+    }
+  ]
+}

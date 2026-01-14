@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "name": "Agroalimentaire",
+      "slug": "agroalimentaire",
+      "longDescription": []
+    },
+    {
+      "name": "Cosmétiques",
+      "slug": "cosmetiques",
+      "longDescription": [
+        "Dans le secteur des cosmétiques, la maintenance est l'objet d'enjeux importants en raison des nombreuses normes qui pèsent sur cette industrie. La mise en place d'une GMAO performante et adaptée est aujourd'hui devenue indispensable pour les entreprises du secteur afin de respecter la réglementation en vigueur tout en gagnant en productivité.",
+        "L'industrie cosmétique est fortement tournée vers l'exportation, ce qui la soumet à des normes établies par différentes instances nationales et internationales. Celles-ci sont particulièrement strictes en raison des conséquences potentielles des défauts de fabrication sur la santé des consommateurs.",
+        "Ces normes s'appliquent non seulement à la fabrication des produits cosmétiques eux-mêmes mais aussi à tous les processus associés. La maintenance du parc machines et des équipements industriels est donc concernée, tant dans ses aspects techniques et sanitaires que dans la traçabilité des interventions réalisées par les techniciens, notamment par la norme 21 CFR Part 11 de la FDA pour le marché américain.",
+        "Pour faire face à toutes ces contraintes, les fabricants de produits cosmétiques ont fortement intérêt à se tourner vers une solution de GMAO adaptée à leur secteur pour assurer une gestion de la maintenance conforme et efficace.\nD'une part, celle-ci doit présenter de sérieuses garanties en termes de suivi et de traçabilité des interventions de maintenance, de droits d'accès et de signatures électroniques de chaque document utilisé au sein de l'entreprise, pour garantir la conformité avec les normes en vigueur.\nD'autre part, elle doit leur donner les moyens de gagner en productivité, en optimisant le travail des opérateurs de maintenance mais aussi en réduisant la durée et la fréquence des arrêts de production et en évitant les pannes imprévues tout en favorisant le respect des règles de sécurité.\nElle doit enfin permettre de fournir rapidement et facilement des pistes d'audit en cas de contrôle qualité par un organisme externe en vue d'obtenir une certification ou de vérifier la conformité de l'usine et de ses process aux normes qui s'appliquent à ses produits.",
+        "Vous trouverez ci-dessous des informations sur la maintenance dans l'industrie cosmétique et ses enjeux, des conseils pour choisir la GMAO la plus adaptée quelle que soit la stratégie de maintenance, corrective, curative, ou préventive, que vous appliquez, ainsi que des témoignages de techniciens et de responsables maintenance du secteur cosmétique ayant fait le choix d'adopter l'application Mobility Work pour optimiser la gestion de la maintenance au sein de leur usine.",
+        "Notre plateforme de GMAO rencontre un succès grandissant auprès des professionnels de  la maintenance de l'industrie cosmétique en raison notamment de sa conformité aux normes en vigueur en termes de gestion des paramètres de confidentialité, des droits d'accès utilisateurs et des signatures électroniques. Disponible en versions desktop et mobile, Mobility Work est accessible depuis n'importe quel appareil connecté, ce qui facilite le travail des techniciens de maintenance et les incite à respecter scrupuleusement les normes d'archivage des documents et de traçabilité des interventions. Son utilisation ne requiert pas de compétences techniques particulières et permet de suivre facilement la maintenance de chaque équipement tout comme les stocks de pièces détachées et la bonne exécution des plans de maintenance."
+      ]
+    },
+    {
+      "name": "GMAO",
+      "slug": "gmao",
+      "longDescription": [
+        "La GMAO est aujourd'hui l'outil privilégié par de nombreuses entreprises pour gérer leur maintenance. Elle n'est plus seulement utilisée pour la maintenance industrielle, mais aussi pour la maintenance immobilière ou la maintenance d'équipements sportifs. C'est l'apparition de solutions de GMAO mobile qui a permis cette diffusion, rendant la gestion de la maintenance beaucoup plus simple et accessible.",
+        "Pendant longtemps, seuls les grands groupes industriels utilisaient les logiciels de GMAO car ceux-ci étaient chers, difficiles à mettre en place et compliqués à utiliser, ce qui impliquait de former longuement les équipes. Beaucoup d'entreprises ont donc continué à gérer leur maintenance sur Excel, beaucoup moins efficace mais plus facile à utiliser et à adapter aux besoins de ses utilisateurs.",
+        "Face à ces problématiques, de nouvelles solutions de GMAO comme Mobility Work sont apparues. Notre logiciel a pour objectif de rendre la GMAO accessible à toutes les entreprises, de faciliter le travail de tous les intervenants de la maintenance et de leur donner accès aux dernières innovations technologiques et aux stratégies de maintenance les plus performantes. Vous pourrez ainsi anticiper les pannes, réduire la durée et la fréquence des temps d'arrêt des machines pour entretien et améliorer ainsi la productivité de vos équipements et de votre usine.",
+        "Disponible en version web et en version mobile, notre application peut être utilisée depuis n'importe quel appareil connecté. Cela facilite le travail des techniciens de maintenance lors des interventions mais aussi de tous lles services liés à la maintenance, qu'ils soient sur le terrain, en bureau ou en télétravail.",
+        "De plus, notre plateforme de GMAO communautaire facilite la communication et le partage d'informations au sein des usines et des groupes industriels, mais aussi avec les fournisseurs, prestataires et sous-traitants extérieurs à l'entreprise. Notre application favorise ainsi une bonne gestion des interventions de maintenance en permettant une gestion des stocks de pièces détachées en temps réel, la consultation et la saisie des données et des documents nécessaires au travail des opérateurs, la mise en place et le suivi de stratégies de maintenance efficaces grâce aux tableaux de bord et à l'outil analytique mais aussi en vous faisant bénéficier du pouvoir de la communauté Mobility Work.",
+        "Si vous êtes prestataire ou fournisseur, vous pouvez intégrer votre catalogue dans notre Hub Fournisseurs, qui vous permet d'améliorer votre visibilité, de partager votre expertise et d'obtenir des rapports statistiques.",
+        "Les nombreuses fonctionnalités de notre logiciel de GMAO permettent d'appliquer tous types de plans de maintenance : corrective, curative, préventive, conditionnelle mais aussi prédictive ou prévisionnelle avec l'IoT. Grâce aux tableaux de bord, à l'agenda et au suivi des interventions, vous pouvez élaborer le plan de maintenance qui convient le mieux à chacun de vos équipements ou à tout un parc machines.",
+        "Découvrez ci-dessous tous les bénéfices que vous obtiendrez en adoptant une nouvelle GMAO mobile et innovante, aussi bien en termes de productivité que d'engagement des équipes de maintenance. Notre application, qui fonctionne en mode SaaS, est très facile à adopter et ne requiert aucune formation spécifique. Vous pouvez même l'essayer gratuitement !"
+      ]
+    },
+    {
+      "name": "Hub fournisseurs",
+      "slug": "hub-fournisseurs",
+      "longDescription": []
+    },
+    {
+      "name": "Industrie 4.0 et IoT",
+      "slug": "industrie-4-0-et-iot",
+      "longDescription": [
+        "Les nouvelles technologies apportent chaque jour de nouvelles solutions aux entreprises pour leur permettre d'optimiser leurs process et d'améliorer leur productivité. Dans le domaine de la maintenance, l'IoT (pour Internet of Things ou Internet des Objets) représente une avancée majeure. Couplée à une GMAO nouvelle génération, elle rend possible la mise en place de plans de maintenance prédictive (ou prévisionnelle) qui font entrer la maintenance dans l'ère de l'industrie 4.0.",
+        "L'IoT désigne l'interconnexion entre Internet et des objets, des équipements ou des machines. Une communication directe devient possible entre ces biens physiques et leurs existences numériques. En matière de maintenance industrielle, cette connexion prend la forme de capteurs placés sur les machines et reliés à un logiciel de GMAO capable de recueillir les données transmises et de les analyser.",
+        "Grâce à ces données, l'état de dégradation des machines peut être analysé en temps réel et les interventions de maintenance planifiées uniquement lorsqu'elles sont nécessaires mais avant qu'une panne ne survienne. L'application d'une stratégie de maintenance prédictive représente donc un progrès à la fois par rapport à la maintenance corrective, car elle permet d'anticiper les pannes et les dysfonctionnements, et par rapport à la maintenance préventive, car elle évite de réaliser des opérations de maintenance superflues.",
+        "Gérer sa maintenance grâce à l'IoT est dorénavant accessible à la plupart des entreprises. Il suffit pour cela de se doter d'une GMAO de nouvelle génération telle que Mobility Work. Disponible en version web et en version mobile, cette application de GMAO 4.0 fonctionne en mode SaaS (donc par abonnement) et utilise le Cloud et l'Intelligence artificielle pour recueillir et analyser les data transmises par les capteurs connectés.",
+        "Grâce au suivi précis de l'état des équipements et machines, les responsables maintenance et leurs équipes de techniciens peuvent remplir leur mission de manière beaucoup plus précise et efficace, et se concentrer sur leur savoir-faire technique pour réaliser les interventions de maintenance indispensables avant que n'apparaisse un dysfonctionnement.",
+        "En parcourant nos articles sur le sujet, découvrez comment le couple IoT/GMAO 4.0 peut révolutionner votre gestion de la maintenance sans investissement important, quelle que soit la taille de votre entreprise."
+      ]
+    },
+    {
+      "name": "Interviews",
+      "slug": "interviews",
+      "longDescription": [
+        "Les professionnels qui témoignent ici exercent leur activité dans différents secteurs : cosmétiques, agro-alimentaire, transport, énergie, fonderies, clubs sportifs, structures médicalisées, services publics. La fonction maintenance est ce qui les réunit.",
+        "Nous accordons une importance fondamentale à leurs retours d'expérience, car notre objectif est de proposer un outil toujours plus performant au service de ces professionnels, pour leur permettre d'optimiser tous les aspects de la gestion de la maintenance au sein de leurs entreprises.",
+        "De plus, chaque témoignage de technicien ou de responsable maintenance utilisant notre application de GMAO en souligne la pertinence et conforte notre choix de proposer une solution agile et communautaire au service du partage d'expériences au sein des usines, des groupes industriels ou de l'ensemble de la communauté de maintenance que nous animons.",
+        "En parcourant ces interviews de différents responsables et techniciens de maintenance, vous constaterez à quel point notre logiciel de GMAO est facile à installer et à utiliser. Il ne requiert en effet aucune formation spécifique des équipes de maintenance, et sa conception à l'image des applications de la vie courante en fait un outil intuitif et ergonomique, qui séduit tous ses nouveaux utilisateurs.",
+        "Pour que notre solution de GMAO soit toujours la plus adaptée possible aux besoins et aux usages de ses utilisateurs, nous restons en permanence à leur écoute via notre support client mais aussi en leur proposant un lien direct avec nos équipes techniques dès qu'ils en émettent le souhait.",
+        "Si l'un de ces témoignages de professionnels de la maintenance vous intéresse particulièrement, n'hésitez pas à nous contacter pour en savoir plus. Notre meilleur passeport est la parole de nos utilisateurs !"
+      ]
+    },
+    {
+      "name": "Maintenance industrielle",
+      "slug": "maintenance-industrielle",
+      "longDescription": [
+        "La maintenance industrielle est un secteur important de l'activité des usines et des sites de production. Elle a un impact direct sur leur productivité, mais aussi sur la qualité de la production et sur la sécurité des équipes.",
+        "Une bonne gestion de la maintenance permet de réduire les temps d'arrêt pour l'entretien des machines et équipements et de réaliser les interventions de maintenance de façon à perturber le moins possible le travail des équipes de production.",
+        "La maintenance industrielle a connu plusieurs évolutions au fil du temps. Après la maintenance corrective (palliative ou curative) sont ainsi apparues la maintenance préventive puis prédictive (ou prévisionnelle) afin d'anticiper les pannes et dysfonctionnements des machines et d'éviter les arrêts de production inopinés. Des techniques d'auto-maintenance, ou maintenance autonome, ont aussi été développées, pour permettre aux opérateurs de production d'entretenir eux-mêmes les équipements sur lesquels ils travaillent.\nLes progrès technologiques, et notamment l'apparition de nouveaux outils informatiques, logiciels et applications, ont grandement participé à l'amélioration des méthodes de gestion de la maintenance industrielle et à son optimisation. Le tableur Excel a par exemple permis un meilleur suivi des opérations de maintenance. Des logiciels spécifiquement dédiés à cette activité sont ensuite apparus, rendant possible l'utilisation de la GMAO (Gestion de la Maintenance Assistée par Ordinateur).",
+        "Si les logiciels classiques de GMAO sont trop souvent complexes à utiliser et très coûteux, une nouvelle solution de GMAO comme Mobility Work donne aujourd'hui accès à toutes les entreprises aux méthodes de gestion de la maintenance les plus avancées, notamment à la maintenance préventive et prédictive. Notre application, disponible aussi bien sur ordinateur que sur smartphone ou tablette, est ainsi facile à adopter et à utiliser. Elle est disponible en mode SaaS et ne requiert pas d'investissement conséquent. De plus, elle propose de nombreuses fonctionnalités qui permettent d'optimiser la maintenance industrielle de tous types d'entreprises, quel que soit leur secteur d'activité."
+      ]
+    },
+    {
+      "name": "Maintenance préventive",
+      "slug": "maintenance-preventive",
+      "longDescription": [
+        "La maintenance préventive est de plus en plus utilisée par les entreprises, en particulier dans le secteur industriel. Plus performante que la maintenance curative ou corrective, elle présente de nombreux avantages pour améliorer la productivité des usines en réduisant la fréquence et le temps moyen des arrêts de production pour activités de maintenance.",
+        "Mettre en place un plan de maintenance préventive permet à la fois de prolonger la durée de vie des équipements industriels et d'améliorer la productivité de l'entreprise en réduisant la probabilité de pannes inopinées, tout en facilitant le travail des techniciens de maintenance. En anticipant l'usure des machines par la mise en place d'un échéancier ou la surveillance de leur état de dégradation, elle aide à éviter leur immobilisation lors d'incidents imprévus et très dommageables pour la productivité d'une usine.",
+        "Ce type de maintenance peut également répondre à certaines dispositions réglementaires ou aux préconisations des constructeurs s'appliquant à un outil de production. C'est pourquoi la maintenance préventive rencontre un succès croissant auprès des entreprises, par exemple pour la maintenance des systèmes hydrauliques, des dispositifs médicaux ou dans le secteur des cosmétiques.",
+        "Que l'on choisisse une stratégie de maintenance préventive systématique ou conditionnelle, la GMAO de nouvelle génération est l'outil le plus performant pour gérer le planning des équipes et des prestataires, anticiper les dysfonctionnements et les pannes, gérer le parc de machines et les stocks de pièces de rechange, et offrir une meilleure disponibilité des équipements. Créer un plan de maintenance préventive devient beaucoup plus simple avec l'application de GMAO mobile Mobility Work, grâce à sa facilité d'utilisation, à son fonctionnement communautaire et à l'utilisation du Big Data. De plus, cette solution permet de se préparer à la maintenance prévisionnelle, la plus efficace des stratégies de maintenance, rendue aujourd'hui possible par la diffusion de l'IoT.",
+        "Vous trouverez ici des ressources pour comprendre les différents niveaux de maintenance préventive, des conseils sur les actions à mettre en place pour adopter cette stratégie et sur les moyens à mettre en œuvre pour disposer de plans de maintenance performants. Vous découvrirez également les avantages de la GMAO de nouvelle génération pour optimiser la gestion de la maintenance, que celle-ci soit réalisée en interne ou par des prestataires de maintenance extérieurs, aussi bien au sein des grands groupes industriels que dans les TPE et PME. Vous comprendrez également les atouts d'une GMAO au fonctionnement communautaire pour la mise en place de plans de maintenance préventive quel que soit votre environnement de travail. Vous apprendrez aussi comment simplifier la gestion de votre maintenance, réduire votre budget de maintenance et encourager vos équipes de techniciens à respecter des process rigoureux permettant d'améliorer la qualité et le suivi de leurs interventions.",
+        "Choisir la maintenance préventive, c'est améliorer la sécurité au sein de votre entreprise, réduire la fréquence des pannes, augmenter la durée de vie de vos équipements et obtenir des gains importants de productivité. Avec une GMAO performante et adaptée à tous les types de maintenance, il est aujourd'hui beaucoup plus facile de passer au niveau supérieur et d'engager vos équipes dans cette transition."
+      ]
+    },
+    {
+      "name": "Mises à jour de l'application",
+      "slug": "mises-a-jour-de-l-application",
+      "longDescription": [
+        "La GMAO Mobility Work est un logiciel et une application de GMAO de dernière génération. Elle fonctionne en mode SaaS et est disponible aussi bien en version desktop qu'en version mobile accessible depuis n'importe quel appareil connecté tel qu'un smartphone ou une tablette.",
+        "Notre plateforme de gestion de la maintenance évolue très régulièrement et fait l'objet de mises à jour au moins une fois par mois. Celles-ci prennent en compte le retour de nos clients afin de répondre au mieux à leurs besoins. Elles permettent d'améliorer la gestion des interventions, le suivi de l'activité de l'usine, la mise en place des plans de maintenance, les options de partage d'informations, etc. Nous garantissons une visibilité sur nos mises à jour et permettons à nos utilisateurs d'être impliqués, car nous avons à cœur de recueillir leurs retours, afin de proposer un outil de gestion de la maintenance toujours plus performant et facile à utiliser.",
+        "Notre nouvelle solution de GMAO est au service de tous les acteurs de la maintenance, quel que soit leur secteur d'activité : industrie pharmaceutique, métallurgie, cosmétiques, plasturgie, agroalimentaire, textile, transport, énergies, dispositifs médicaux, installations sportives, maintenance immobilière, BTP, agriculture.",
+        "L'application Mobility Work a été conçue de manière à être aussi simple d'utilisation que les applications de la vie courante tout en intégrant toutes les fonctionnalités nécessaires à la mise en place et au suivi de plans de maintenance performants, qu'il s'agisse de maintenance corrective, curative, préventive ou prédictive.",
+        "Grâce à notre solution de GMAO accessible et innovante, vous pourrez facilement mettre en place une stratégie de maintenance adaptée à votre entreprise et à vos besoins, anticiper les pannes, réduire le temps d'arrêt des machines et équipements et améliorer ainsi leur productivité tout en facilitant et en optimisant le travail des techniciens de maintenance.",
+        "Retrouvez les résumés des dernières évolutions de notre GMAO à chaque début de mois dans un article de blog mais aussi en vidéo avec notre Product Owner !"
+      ]
+    },
+    {
+      "name": "News",
+      "slug": "news",
+      "longDescription": []
+    },
+    {
+      "name": "Pharmaceutique et santé",
+      "slug": "pharmaceutique-et-sante",
+      "longDescription": [
+        "L'industrie pharmaceutique est une activité industrielle particulière, soumise à de nombreuses normes en raison des enjeux sanitaires qui l'accompagnent. Ces normes concernent aussi bien la production de médicaments elle-même que la traçabilité de l'ensemble des activités associées.",
+        "En matière de gestion de la maintenance, ces contraintes obligent les entreprises du secteur pharmaceutique à respecter des règles strictes touchant tous les aspects de l'activité, les Bonnes pratiques de fabrication des médicaments, ou BPF. Celles-ci concernent aussi bien la qualité de la maintenance elle-même que le suivi et le contrôle de tous les process l'entourant.",
+        "Les BPF imposent notamment de conserver une trace écrite de toute intervention sur les outils de production et de réaliser la maintenance des bâtiments et équipements de manière régulière et efficace. Par ailleurs, la norme 21 CFR Part 11 de la FDA, l'administration américaine chargée d'autoriser la commercialisation des médicaments aux Etats-Unis, impose des règles strictes en matière de signatures électroniques, de traçabilité des documents et de pistes d'audit.",
+        "Par conséquent, les entreprises du secteur pharmaceutique doivent se doter des outils les plus adaptés à ces contraintes. En matière de gestion de la maintenance, seule une GMAO de nouvelle génération telle que Mobility Work leur permet de répondre à cette exigence tout en facilitant le travail des techniciens de maintenance et en améliorant leur productivité.",
+        "Notre solution de GMAO a été conçue pour permettre une gestion facilitée des droits d'accès utilisateurs et des signatures électroniques, mais aussi pour pouvoir fournir rapidement et facilement des pistes d'audit complètes en cas d'audit externe en vue de se mettre en conformité avec une norme.",
+        "Par ailleurs, la GMAO Mobility Work dispose de nombreuses fonctionnalités permettant la mise en place de plans de maintenance, que celle-ci soit curative, corrective, conditionnelle, préventive ou encore prédictive. Cette dernière stratégie est la plus efficace, grâce au recours à l'IoT, l'Internet des objets. Adaptée à cette technologie, notre application vous permettra ainsi d'anticiper les pannes et de limiter le temps d'arrêt des machines, ce qui favorise la productivité de l'entreprise.",
+        "Plus généralement, adopter une GMAO mobile facilite la gestion du planning des équipes, la saisie des rapports d'interventions et la consultation de la documentation technique depuis n'importe quel endroit, et le suivi des plans de maintenance. Utilisable sans aucune formation spécifique, notre application rencontre un grand succès auprès des techniciens de maintenance du secteur pharmaceutique et de la santé pour sa facilité d'utilisation, ce qui les encourage à respecter scrupuleusement les normes en matière de maintenance et de traçabilité des interventions.",
+        "Découvrez les nombreux avantages de la GMAO nouvelle génération pour l'industrie pharmaceutique en parcourant les articles ci-dessus !"
+      ]
+    },
+    {
+      "name": "Podcasts",
+      "slug": "podcasts",
+      "longDescription": [
+        "Mobility Work est une plateforme communautaire de gestion de la maintenance, à travers laquelle nous voulons encourager l'échange d'informations et le partage d'expériences au sein de la communauté de maintenance en général, et entre différentes entités d'un même groupe industriel en particulier. A travers ces podcasts abordant différents sujets liés à la maintenance et à la GMAO, nous participons à ce partage d'expériences entre acteurs de la maintenance.",
+        "Notre application de GMAO mobile s'adresse à tous les professionnels de la maintenance, qu'elle soit industrielle, immobilière ou autre. Nos clients appartiennent à des secteurs d'activités très variés, de la métallurgie à l'industrie pharmaceutique en passant par les cosmétiques et le BTP.",
+        "Fonctionnant selon les mêmes principes d'ergonomie que les applications de la vie courante, elle est très facile à prendre en main et à utiliser, mais propose toutes les fonctionnalités nécessaires à la gestion de plans de maintenance élaborés, quelle que soit la stratégie appliquée (corrective, curative, préventive, prévisionnelle, prédictive…).",
+        "De plus, Mobility Work est une solution plus économique, plus flexible et plus adaptée aux nouvelles technologies qui s'offrent aux professionnels de la maintenance que les anciennes solutions de GMAO. Fonctionnant en mode SaaS, elle ne requiert pas d'investissement conséquent. Disponible en version 100% mobile, elle peut être utilisée depuis n'importe quel appareil connecté comme un smartphone ou une tablette. Enfin, s'appuyant sur le Cloud et orientée Big Data, elle permet de se tourner vers la maintenance prédictive en utilisant l'IoT grâce à des capteurs situés sur les machines et équipements.",
+        "Pour suivre toute l'actualité de la maintenance et de la GMAO, vous pouvez vous abonner à notre chaîne YouTube !"
+      ]
+    }
+  ]
+}

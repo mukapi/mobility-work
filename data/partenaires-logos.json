@@ -1,0 +1,102 @@
+{
+  "partenaires": [
+    {
+      "name": "1st Horizon",
+      "slug": "1st-horizon",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-1st_horizon.png",
+      "categorie": "Technologiques",
+      "sous_categorie": "BIM"
+    },
+    {
+      "name": "A.M.M. Industries",
+      "slug": "amm-industries",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-amm-industries.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Consultants"
+    },
+    {
+      "name": "BBH Technology",
+      "slug": "bbh-technology",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-bb-tech.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Consultants"
+    },
+    {
+      "name": "Fuchs",
+      "slug": "fuchs",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-fuchs-partner.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Fournisseurs"
+    },
+    {
+      "name": "Mainnovation",
+      "slug": "mainnovation",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-partner-mainnovation.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Consultants"
+    },
+    {
+      "name": "Manutan",
+      "slug": "manutan",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-manutan-partner.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Fournisseurs"
+    },
+    {
+      "name": "Quaternaire",
+      "slug": "quaternaire",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-quaternaire.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Consultants"
+    },
+    {
+      "name": "Rexel France",
+      "slug": "rexel-france",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2021/04/logo-rexel-e1619391752288.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Fournisseurs"
+    },
+    {
+      "name": "RS Components",
+      "slug": "rs-components",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-rs-partner.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Fournisseurs"
+    },
+    {
+      "name": "Siemens",
+      "slug": "siemens",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-siemens-partner.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Fournisseurs"
+    },
+    {
+      "name": "Sitedesk",
+      "slug": "sitedesk",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-sitedesk.png",
+      "categorie": "Technologiques",
+      "sous_categorie": "BIM"
+    },
+    {
+      "name": "Socaps",
+      "slug": "socaps",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-socaps.png",
+      "categorie": "Commerciaux",
+      "sous_categorie": "Consultants"
+    },
+    {
+      "name": "Solvace Digital PCS",
+      "slug": "solvace-digital-pcs",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-solvace.png",
+      "categorie": "Technologiques",
+      "sous_categorie": "PDCA"
+    },
+    {
+      "name": "Wiboot",
+      "slug": "wiboot",
+      "logo_url": "https://mobility-work.com/wp-content/uploads/2022/01/partner-logo-wiboot-2.png",
+      "categorie": "Technologiques",
+      "sous_categorie": "Cloud, IoT, Data & AI"
+    }
+  ]
+}
